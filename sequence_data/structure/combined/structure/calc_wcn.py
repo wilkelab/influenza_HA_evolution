@@ -9,7 +9,7 @@ def getResNumber(residue):
 	return id[1]
 
 
-pdbfile='4FNK.pdb'
+pdbfile='4fnk_multimer.pdb'
 
 parser=PDBParser()
 
