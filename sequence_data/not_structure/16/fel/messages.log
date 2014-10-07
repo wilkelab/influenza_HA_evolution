@@ -1,0 +1,18 @@
+
+Loaded 'CF3x4' from /usr/local/lib/hyphy/TemplateBatchFiles/TemplateModels/CF3x4.bf
+Variable 'pipeThroughFlag' was not initialized prior to being used
+Variable 'skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+TGA was encountered in sequence JX456118 at site pattern 16. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence JX456118 at site pattern 34. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence JX456118 at site pattern 50. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence JX456118 at site pattern 62. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence JX456118 at site pattern 70. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence JX456118 at site pattern 82. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence JX456118 at site pattern 84. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence CY022934 at site pattern 93. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence CY022934 at site pattern 94. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence JX456118 at site pattern 105. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence JX456118 at site pattern 106. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence JX456118 at site pattern 110. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence JX456118 at site pattern 111. All corresponding alignment columns will be removed from subsequent analyses.

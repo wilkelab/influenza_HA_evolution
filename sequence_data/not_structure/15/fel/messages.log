@@ -1,0 +1,2581 @@
+
+Loaded 'CF3x4' from /usr/local/lib/hyphy/TemplateBatchFiles/TemplateModels/CF3x4.bf
+Variable 'pipeThroughFlag' was not initialized prior to being used
+Variable 'skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+TAG was encountered in sequence AB271831 at site pattern 29. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271831 at site pattern 30. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 33. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 47. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 48. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271831 at site pattern 70. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271831 at site pattern 71. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 72. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 73. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 75. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 76. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271825 at site pattern 78. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271810 at site pattern 79. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 81. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 82. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 92. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 100. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271847 at site pattern 101. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 102. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271831 at site pattern 115. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 117. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271839 at site pattern 118. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 119. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271847 at site pattern 120. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271825 at site pattern 122. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271839 at site pattern 123. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271810 at site pattern 124. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 129. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271839 at site pattern 130. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 131. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 141. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271839 at site pattern 142. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 143. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271825 at site pattern 149. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271839 at site pattern 150. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271810 at site pattern 151. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271831 at site pattern 155. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271831 at site pattern 158. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271831 at site pattern 161. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271839 at site pattern 162. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271810 at site pattern 163. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271839 at site pattern 164. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 165. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271831 at site pattern 168. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271831 at site pattern 170. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271825 at site pattern 184. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271839 at site pattern 185. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271810 at site pattern 186. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271810 at site pattern 187. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271825 at site pattern 189. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271839 at site pattern 190. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271810 at site pattern 191. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271810 at site pattern 192. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 212. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271820 at site pattern 213. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 214. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 215. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271820 at site pattern 216. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 217. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271831 at site pattern 227. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 230. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271839 at site pattern 231. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 232. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271831 at site pattern 234. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271831 at site pattern 240. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271831 at site pattern 241. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271831 at site pattern 248. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271831 at site pattern 255. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271825 at site pattern 260. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271820 at site pattern 261. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271810 at site pattern 262. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271831 at site pattern 271. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271831 at site pattern 272. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271825 at site pattern 287. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271839 at site pattern 288. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271810 at site pattern 289. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271825 at site pattern 296. All corresponding alignment columns will be removed from subsequent analyses.
+TAG was encountered in sequence AB271810 at site pattern 298. All corresponding alignment columns will be removed from subsequent analyses.
+TAA was encountered in sequence AB271831 at site pattern 301. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 321. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271839 at site pattern 322. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 323. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271825 at site pattern 332. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271839 at site pattern 333. All corresponding alignment columns will be removed from subsequent analyses.
+TGA was encountered in sequence AB271810 at site pattern 334. All corresponding alignment columns will be removed from subsequent analyses.
+The following sites are being omitted:{105,106,107,108,109,110,117,118,119,159,160,161,162,163,164,228,229,230,231,232,233,234,235,236,237,238,239,243,244,245,246,247,248,252,253,254,255,256,257,261,262,263,264,265,266,294,295,296,318,319,320,321,322,323,324,325,326,363,364,365,369,370,371,372,373,374,375,376,377,378,379,380,384,385,386,387,388,389,390,391,392,405,406,407,408,409,410,411,412,413,441,442,443,444,445,446,447,448,449,465,466,467,468,469,470,471,472,473,483,484,485,492,493,494,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,522,523,524,528,529,530,570,571,572,573,574,575,576,577,578,579,580,581,585,586,587,588,589,590,591,592,593,594,595,596,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669,670,671,699,700,701,708,709,710,711,712,713,714,715,716,720,721,722,738,739,740,741,742,743,762,763,764,783,784,785,798,799,800,801,802,803,804,805,806,831,832,833,834,835,836,879,880,881,882,883,884,885,886,887,906,907,908,912,913,914,921,922,923,981,982,983,984,985,986,987,988,989,1014,1015,1016,1017,1018,1019,1020,1021,1022}
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'p11' was not initialized prior to being used
+Variable 'p12' was not initialized prior to being used
+Variable 'p13' was not initialized prior to being used
+Variable 'p21' was not initialized prior to being used
+Variable 'p22' was not initialized prior to being used
+Variable 'p23' was not initialized prior to being used
+Variable 'p31' was not initialized prior to being used
+Variable 'p32' was not initialized prior to being used
+Variable 'p33' was not initialized prior to being used
+Set GUI update interval to every 1201-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+p11 = 0.3372792787171648
+p12 = 0.2948827487837084
+p13 = 0.3867442457109098
+p21 = 0.2952720409309291
+p22 = 0.3171472397390806
+p23 = 0.4895657754842726
+p31 = 0.2954623447931615
+p32 = 0.3584138686858622
+p33 = 0.4437094091420447
+Optimization finished in 5 loop passes.
+317 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'ModelMatrixDimension' was not initialized prior to being used
+Variable '_WRAP_PASSTHROUGH_FLAG_' was not initialized prior to being used
+Variable 'PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+No nodel was assigned to EU502249
+EU502249 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502197
+EU502197 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172271
+CY172271 has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to JF710738
+JF710738 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054228
+CY054228 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502167
+EU502167 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172287
+CY172287 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091501
+CY091501 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501894
+EU501894 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501998
+EU501998 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091013
+CY091013 has 0 parameters - branch length not assigned
+No nodel was assigned to Node22
+Node22 has 0 parameters - branch length not assigned
+No nodel was assigned to Node20
+Node20 has 0 parameters - branch length not assigned
+No nodel was assigned to Node18
+Node18 has 0 parameters - branch length not assigned
+No nodel was assigned to Node16
+Node16 has 0 parameters - branch length not assigned
+No nodel was assigned to Node14
+Node14 has 0 parameters - branch length not assigned
+No nodel was assigned to CY173599
+CY173599 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172247
+CY172247 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091141
+CY091141 has 0 parameters - branch length not assigned
+No nodel was assigned to Node33
+Node33 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091029
+CY091029 has 0 parameters - branch length not assigned
+No nodel was assigned to Node32
+Node32 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501885
+EU501885 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502033
+EU502033 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501724
+EU501724 has 0 parameters - branch length not assigned
+No nodel was assigned to Node42
+Node42 has 0 parameters - branch length not assigned
+No nodel was assigned to Node40
+Node40 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502292
+EU502292 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172295
+CY172295 has 0 parameters - branch length not assigned
+No nodel was assigned to Node48
+Node48 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091533
+CY091533 has 0 parameters - branch length not assigned
+No nodel was assigned to Node47
+Node47 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502377
+EU502377 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501992
+EU501992 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501929
+EU501929 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502011
+EU502011 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502014
+EU502014 has 0 parameters - branch length not assigned
+No nodel was assigned to Node66
+Node66 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501964
+EU501964 has 0 parameters - branch length not assigned
+No nodel was assigned to Node65
+Node65 has 0 parameters - branch length not assigned
+No nodel was assigned to AB289675
+AB289675 has 0 parameters - branch length not assigned
+No nodel was assigned to AB289678
+AB289678 has 0 parameters - branch length not assigned
+No nodel was assigned to AB289673
+AB289673 has 0 parameters - branch length not assigned
+No nodel was assigned to Node74
+Node74 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501889
+EU501889 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501921
+EU501921 has 0 parameters - branch length not assigned
+No nodel was assigned to AB289676
+AB289676 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501886
+EU501886 has 0 parameters - branch length not assigned
+No nodel was assigned to Node81
+Node81 has 0 parameters - branch length not assigned
+No nodel was assigned to Node79
+Node79 has 0 parameters - branch length not assigned
+No nodel was assigned to Node77
+Node77 has 0 parameters - branch length not assigned
+No nodel was assigned to Node73
+Node73 has 0 parameters - branch length not assigned
+No nodel was assigned to Node71
+Node71 has 0 parameters - branch length not assigned
+No nodel was assigned to AB289674
+AB289674 has 0 parameters - branch length not assigned
+No nodel was assigned to Node70
+Node70 has 0 parameters - branch length not assigned
+No nodel was assigned to Node64
+Node64 has 0 parameters - branch length not assigned
+No nodel was assigned to Node62
+Node62 has 0 parameters - branch length not assigned
+No nodel was assigned to Node60
+Node60 has 0 parameters - branch length not assigned
+No nodel was assigned to Node58
+Node58 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502171
+EU502171 has 0 parameters - branch length not assigned
+No nodel was assigned to Node57
+Node57 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501725
+EU501725 has 0 parameters - branch length not assigned
+No nodel was assigned to Node56
+Node56 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501976
+EU501976 has 0 parameters - branch length not assigned
+No nodel was assigned to Node55
+Node55 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501922
+EU501922 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501949
+EU501949 has 0 parameters - branch length not assigned
+No nodel was assigned to Node91
+Node91 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501893
+EU501893 has 0 parameters - branch length not assigned
+No nodel was assigned to Node90
+Node90 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502073
+EU502073 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501887
+EU501887 has 0 parameters - branch length not assigned
+No nodel was assigned to Node96
+Node96 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501758
+EU501758 has 0 parameters - branch length not assigned
+No nodel was assigned to Node95
+Node95 has 0 parameters - branch length not assigned
+No nodel was assigned to Node89
+Node89 has 0 parameters - branch length not assigned
+No nodel was assigned to AB434111
+AB434111 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501891
+EU501891 has 0 parameters - branch length not assigned
+No nodel was assigned to Node100
+Node100 has 0 parameters - branch length not assigned
+No nodel was assigned to Node88
+Node88 has 0 parameters - branch length not assigned
+No nodel was assigned to Node54
+Node54 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502012
+EU502012 has 0 parameters - branch length not assigned
+No nodel was assigned to Node53
+Node53 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502324
+EU502324 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502322
+EU502322 has 0 parameters - branch length not assigned
+No nodel was assigned to Node108
+Node108 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502250
+EU502250 has 0 parameters - branch length not assigned
+No nodel was assigned to CY019325
+CY019325 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020093
+CY020093 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020085
+CY020085 has 0 parameters - branch length not assigned
+No nodel was assigned to CY019939
+CY019939 has 0 parameters - branch length not assigned
+No nodel was assigned to CY019835
+CY019835 has 0 parameters - branch length not assigned
+No nodel was assigned to Node120
+Node120 has 0 parameters - branch length not assigned
+No nodel was assigned to Node118
+Node118 has 0 parameters - branch length not assigned
+No nodel was assigned to Node116
+Node116 has 0 parameters - branch length not assigned
+No nodel was assigned to Node114
+Node114 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502133
+EU502133 has 0 parameters - branch length not assigned
+No nodel was assigned to EF473493
+EF473493 has 0 parameters - branch length not assigned
+No nodel was assigned to Node124
+Node124 has 0 parameters - branch length not assigned
+No nodel was assigned to Node113
+Node113 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172311
+CY172311 has 0 parameters - branch length not assigned
+No nodel was assigned to Node112
+Node112 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502391
+EU502391 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501858
+EU501858 has 0 parameters - branch length not assigned
+No nodel was assigned to Node128
+Node128 has 0 parameters - branch length not assigned
+No nodel was assigned to Node111
+Node111 has 0 parameters - branch length not assigned
+No nodel was assigned to Node107
+Node107 has 0 parameters - branch length not assigned
+No nodel was assigned to EF462555
+EF462555 has 0 parameters - branch length not assigned
+No nodel was assigned to Node106
+Node106 has 0 parameters - branch length not assigned
+No nodel was assigned to EF462552
+EF462552 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501951
+EU501951 has 0 parameters - branch length not assigned
+No nodel was assigned to CY058070
+CY058070 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054271
+CY054271 has 0 parameters - branch length not assigned
+No nodel was assigned to Node138
+Node138 has 0 parameters - branch length not assigned
+No nodel was assigned to Node136
+Node136 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502271
+EU502271 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502194
+EU502194 has 0 parameters - branch length not assigned
+No nodel was assigned to Node141
+Node141 has 0 parameters - branch length not assigned
+No nodel was assigned to Node135
+Node135 has 0 parameters - branch length not assigned
+No nodel was assigned to Node133
+Node133 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502090
+EU502090 has 0 parameters - branch length not assigned
+No nodel was assigned to EF473486
+EF473486 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502242
+EU502242 has 0 parameters - branch length not assigned
+No nodel was assigned to Node147
+Node147 has 0 parameters - branch length not assigned
+No nodel was assigned to Node145
+Node145 has 0 parameters - branch length not assigned
+No nodel was assigned to AB246366
+AB246366 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501980
+EU501980 has 0 parameters - branch length not assigned
+No nodel was assigned to Node150
+Node150 has 0 parameters - branch length not assigned
+No nodel was assigned to Node144
+Node144 has 0 parameters - branch length not assigned
+No nodel was assigned to Node132
+Node132 has 0 parameters - branch length not assigned
+No nodel was assigned to Node105
+Node105 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172479
+CY172479 has 0 parameters - branch length not assigned
+No nodel was assigned to CY013232
+CY013232 has 0 parameters - branch length not assigned
+No nodel was assigned to Node158
+Node158 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172391
+CY172391 has 0 parameters - branch length not assigned
+No nodel was assigned to Node157
+Node157 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172319
+CY172319 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502272
+EU502272 has 0 parameters - branch length not assigned
+No nodel was assigned to Node163
+Node163 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091069
+CY091069 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172263
+CY172263 has 0 parameters - branch length not assigned
+No nodel was assigned to Node166
+Node166 has 0 parameters - branch length not assigned
+No nodel was assigned to Node162
+Node162 has 0 parameters - branch length not assigned
+No nodel was assigned to Node156
+Node156 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054274
+CY054274 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172487
+CY172487 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172423
+CY172423 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172351
+CY172351 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172335
+CY172335 has 0 parameters - branch length not assigned
+No nodel was assigned to Node176
+Node176 has 0 parameters - branch length not assigned
+No nodel was assigned to Node174
+Node174 has 0 parameters - branch length not assigned
+No nodel was assigned to Node172
+Node172 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502420
+EU502420 has 0 parameters - branch length not assigned
+No nodel was assigned to Node171
+Node171 has 0 parameters - branch length not assigned
+No nodel was assigned to Node169
+Node169 has 0 parameters - branch length not assigned
+No nodel was assigned to Node155
+Node155 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502312
+EU502312 has 0 parameters - branch length not assigned
+No nodel was assigned to Node154
+Node154 has 0 parameters - branch length not assigned
+No nodel was assigned to CY014159
+CY014159 has 0 parameters - branch length not assigned
+No nodel was assigned to CY019859
+CY019859 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020117
+CY020117 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020125
+CY020125 has 0 parameters - branch length not assigned
+No nodel was assigned to Node184
+Node184 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020365
+CY020365 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020133
+CY020133 has 0 parameters - branch length not assigned
+No nodel was assigned to Node188
+Node188 has 0 parameters - branch length not assigned
+No nodel was assigned to Node183
+Node183 has 0 parameters - branch length not assigned
+No nodel was assigned to Node181
+Node181 has 0 parameters - branch length not assigned
+No nodel was assigned to Node153
+Node153 has 0 parameters - branch length not assigned
+No nodel was assigned to Node104
+Node104 has 0 parameters - branch length not assigned
+No nodel was assigned to Node52
+Node52 has 0 parameters - branch length not assigned
+No nodel was assigned to Node46
+Node46 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502096
+EU502096 has 0 parameters - branch length not assigned
+No nodel was assigned to CY012792
+CY012792 has 0 parameters - branch length not assigned
+No nodel was assigned to Node194
+Node194 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501997
+EU501997 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502026
+EU502026 has 0 parameters - branch length not assigned
+No nodel was assigned to Node197
+Node197 has 0 parameters - branch length not assigned
+No nodel was assigned to Node193
+Node193 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502421
+EU502421 has 0 parameters - branch length not assigned
+No nodel was assigned to EU199252
+EU199252 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502434
+EU502434 has 0 parameters - branch length not assigned
+No nodel was assigned to Node203
+Node203 has 0 parameters - branch length not assigned
+No nodel was assigned to Node201
+Node201 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502040
+EU502040 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501914
+EU501914 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501912
+EU501912 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501911
+EU501911 has 0 parameters - branch length not assigned
+No nodel was assigned to Node213
+Node213 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502048
+EU502048 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502005
+EU502005 has 0 parameters - branch length not assigned
+No nodel was assigned to Node217
+Node217 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502017
+EU502017 has 0 parameters - branch length not assigned
+No nodel was assigned to Node216
+Node216 has 0 parameters - branch length not assigned
+No nodel was assigned to Node212
+Node212 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501962
+EU501962 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501860
+EU501860 has 0 parameters - branch length not assigned
+No nodel was assigned to Node222
+Node222 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501913
+EU501913 has 0 parameters - branch length not assigned
+No nodel was assigned to Node221
+Node221 has 0 parameters - branch length not assigned
+No nodel was assigned to Node211
+Node211 has 0 parameters - branch length not assigned
+No nodel was assigned to Node209
+Node209 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502098
+EU502098 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502386
+EU502386 has 0 parameters - branch length not assigned
+No nodel was assigned to Node226
+Node226 has 0 parameters - branch length not assigned
+No nodel was assigned to Node208
+Node208 has 0 parameters - branch length not assigned
+No nodel was assigned to Node206
+Node206 has 0 parameters - branch length not assigned
+No nodel was assigned to Node200
+Node200 has 0 parameters - branch length not assigned
+No nodel was assigned to Node192
+Node192 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502376
+EU502376 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172463
+CY172463 has 0 parameters - branch length not assigned
+No nodel was assigned to Node230
+Node230 has 0 parameters - branch length not assigned
+No nodel was assigned to EF473460
+EF473460 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502075
+EU502075 has 0 parameters - branch length not assigned
+No nodel was assigned to Node234
+Node234 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091085
+CY091085 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502251
+EU502251 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501966
+EU501966 has 0 parameters - branch length not assigned
+No nodel was assigned to EF473496
+EF473496 has 0 parameters - branch length not assigned
+No nodel was assigned to Node247
+Node247 has 0 parameters - branch length not assigned
+No nodel was assigned to Node245
+Node245 has 0 parameters - branch length not assigned
+No nodel was assigned to Node243
+Node243 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502185
+EU502185 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054272
+CY054272 has 0 parameters - branch length not assigned
+No nodel was assigned to Node253
+Node253 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172303
+CY172303 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172415
+CY172415 has 0 parameters - branch length not assigned
+No nodel was assigned to Node256
+Node256 has 0 parameters - branch length not assigned
+No nodel was assigned to Node252
+Node252 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501905
+EU501905 has 0 parameters - branch length not assigned
+No nodel was assigned to CY058071
+CY058071 has 0 parameters - branch length not assigned
+No nodel was assigned to Node259
+Node259 has 0 parameters - branch length not assigned
+No nodel was assigned to Node251
+Node251 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172383
+CY172383 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172455
+CY172455 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172503
+CY172503 has 0 parameters - branch length not assigned
+No nodel was assigned to Node264
+Node264 has 0 parameters - branch length not assigned
+No nodel was assigned to Node262
+Node262 has 0 parameters - branch length not assigned
+No nodel was assigned to Node250
+Node250 has 0 parameters - branch length not assigned
+No nodel was assigned to Node242
+Node242 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502519
+EU502519 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501986
+EU501986 has 0 parameters - branch length not assigned
+No nodel was assigned to Node267
+Node267 has 0 parameters - branch length not assigned
+No nodel was assigned to Node241
+Node241 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502516
+EU502516 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502226
+EU502226 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502277
+EU502277 has 0 parameters - branch length not assigned
+No nodel was assigned to Node272
+Node272 has 0 parameters - branch length not assigned
+No nodel was assigned to Node270
+Node270 has 0 parameters - branch length not assigned
+No nodel was assigned to Node240
+Node240 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091077
+CY091077 has 0 parameters - branch length not assigned
+No nodel was assigned to Node239
+Node239 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172215
+CY172215 has 0 parameters - branch length not assigned
+No nodel was assigned to CY019851
+CY019851 has 0 parameters - branch length not assigned
+No nodel was assigned to CY019843
+CY019843 has 0 parameters - branch length not assigned
+No nodel was assigned to Node279
+Node279 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020109
+CY020109 has 0 parameters - branch length not assigned
+No nodel was assigned to CY019333
+CY019333 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020101
+CY020101 has 0 parameters - branch length not assigned
+No nodel was assigned to Node283
+Node283 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172447
+CY172447 has 0 parameters - branch length not assigned
+No nodel was assigned to Node282
+Node282 has 0 parameters - branch length not assigned
+No nodel was assigned to Node278
+Node278 has 0 parameters - branch length not assigned
+No nodel was assigned to Node276
+Node276 has 0 parameters - branch length not assigned
+No nodel was assigned to Node238
+Node238 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172343
+CY172343 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502331
+EU502331 has 0 parameters - branch length not assigned
+No nodel was assigned to Node288
+Node288 has 0 parameters - branch length not assigned
+No nodel was assigned to Node237
+Node237 has 0 parameters - branch length not assigned
+No nodel was assigned to Node233
+Node233 has 0 parameters - branch length not assigned
+No nodel was assigned to Node229
+Node229 has 0 parameters - branch length not assigned
+No nodel was assigned to Node191
+Node191 has 0 parameters - branch length not assigned
+No nodel was assigned to Node45
+Node45 has 0 parameters - branch length not assigned
+No nodel was assigned to Node39
+Node39 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172255
+CY172255 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172199
+CY172199 has 0 parameters - branch length not assigned
+No nodel was assigned to Node291
+Node291 has 0 parameters - branch length not assigned
+No nodel was assigned to Node38
+Node38 has 0 parameters - branch length not assigned
+No nodel was assigned to Node31
+Node31 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501697
+EU501697 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501698
+EU501698 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502007
+EU502007 has 0 parameters - branch length not assigned
+No nodel was assigned to Node298
+Node298 has 0 parameters - branch length not assigned
+No nodel was assigned to Node296
+Node296 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502024
+EU502024 has 0 parameters - branch length not assigned
+No nodel was assigned to Node295
+Node295 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502055
+EU502055 has 0 parameters - branch length not assigned
+No nodel was assigned to EU791293
+EU791293 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501920
+EU501920 has 0 parameters - branch length not assigned
+No nodel was assigned to Node305
+Node305 has 0 parameters - branch length not assigned
+No nodel was assigned to Node303
+Node303 has 0 parameters - branch length not assigned
+No nodel was assigned to AB434112
+AB434112 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501907
+EU501907 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502038
+EU502038 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501939
+EU501939 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501936
+EU501936 has 0 parameters - branch length not assigned
+No nodel was assigned to Node315
+Node315 has 0 parameters - branch length not assigned
+No nodel was assigned to Node313
+Node313 has 0 parameters - branch length not assigned
+No nodel was assigned to Node311
+Node311 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501628
+EU501628 has 0 parameters - branch length not assigned
+No nodel was assigned to AB289672
+AB289672 has 0 parameters - branch length not assigned
+No nodel was assigned to Node319
+Node319 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502204
+EU502204 has 0 parameters - branch length not assigned
+No nodel was assigned to Node318
+Node318 has 0 parameters - branch length not assigned
+No nodel was assigned to Node310
+Node310 has 0 parameters - branch length not assigned
+No nodel was assigned to Node308
+Node308 has 0 parameters - branch length not assigned
+No nodel was assigned to Node302
+Node302 has 0 parameters - branch length not assigned
+No nodel was assigned to Node294
+Node294 has 0 parameters - branch length not assigned
+No nodel was assigned to Node30
+Node30 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502196
+EU502196 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502347
+EU502347 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172279
+CY172279 has 0 parameters - branch length not assigned
+No nodel was assigned to Node329
+Node329 has 0 parameters - branch length not assigned
+No nodel was assigned to EU516029
+EU516029 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091045
+CY091045 has 0 parameters - branch length not assigned
+No nodel was assigned to Node332
+Node332 has 0 parameters - branch length not assigned
+No nodel was assigned to Node328
+Node328 has 0 parameters - branch length not assigned
+No nodel was assigned to Node326
+Node326 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502280
+EU502280 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501835
+EU501835 has 0 parameters - branch length not assigned
+No nodel was assigned to Node335
+Node335 has 0 parameters - branch length not assigned
+No nodel was assigned to Node325
+Node325 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501703
+EU501703 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501706
+EU501706 has 0 parameters - branch length not assigned
+No nodel was assigned to Node338
+Node338 has 0 parameters - branch length not assigned
+No nodel was assigned to Node324
+Node324 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054156
+CY054156 has 0 parameters - branch length not assigned
+No nodel was assigned to EF473458
+EF473458 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502216
+EU502216 has 0 parameters - branch length not assigned
+No nodel was assigned to Node344
+Node344 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054253
+CY054253 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172431
+CY172431 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502099
+EU502099 has 0 parameters - branch length not assigned
+No nodel was assigned to Node349
+Node349 has 0 parameters - branch length not assigned
+No nodel was assigned to Node347
+Node347 has 0 parameters - branch length not assigned
+No nodel was assigned to Node343
+Node343 has 0 parameters - branch length not assigned
+No nodel was assigned to Node341
+Node341 has 0 parameters - branch length not assigned
+No nodel was assigned to Node323
+Node323 has 0 parameters - branch length not assigned
+No nodel was assigned to Node29
+Node29 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502404
+EU502404 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502234
+EU502234 has 0 parameters - branch length not assigned
+No nodel was assigned to Node355
+Node355 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501845
+EU501845 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172207
+CY172207 has 0 parameters - branch length not assigned
+No nodel was assigned to Node359
+Node359 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501661
+EU501661 has 0 parameters - branch length not assigned
+No nodel was assigned to CY116586
+CY116586 has 0 parameters - branch length not assigned
+No nodel was assigned to Node364
+Node364 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501660
+EU501660 has 0 parameters - branch length not assigned
+No nodel was assigned to Node363
+Node363 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501662
+EU501662 has 0 parameters - branch length not assigned
+No nodel was assigned to Node362
+Node362 has 0 parameters - branch length not assigned
+No nodel was assigned to Node358
+Node358 has 0 parameters - branch length not assigned
+No nodel was assigned to Node354
+Node354 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502287
+EU502287 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501848
+EU501848 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501946
+EU501946 has 0 parameters - branch length not assigned
+No nodel was assigned to AB289677
+AB289677 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502093
+EU502093 has 0 parameters - branch length not assigned
+No nodel was assigned to Node377
+Node377 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501772
+EU501772 has 0 parameters - branch length not assigned
+No nodel was assigned to Node376
+Node376 has 0 parameters - branch length not assigned
+No nodel was assigned to Node374
+Node374 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502074
+EU502074 has 0 parameters - branch length not assigned
+No nodel was assigned to Node373
+Node373 has 0 parameters - branch length not assigned
+No nodel was assigned to Node371
+Node371 has 0 parameters - branch length not assigned
+No nodel was assigned to Node369
+Node369 has 0 parameters - branch length not assigned
+No nodel was assigned to Node353
+Node353 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501645
+EU501645 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501919
+EU501919 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501765
+EU501765 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501683
+EU501683 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502085
+EU502085 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502094
+EU502094 has 0 parameters - branch length not assigned
+No nodel was assigned to Node391
+Node391 has 0 parameters - branch length not assigned
+No nodel was assigned to Node389
+Node389 has 0 parameters - branch length not assigned
+No nodel was assigned to Node387
+Node387 has 0 parameters - branch length not assigned
+No nodel was assigned to Node385
+Node385 has 0 parameters - branch length not assigned
+No nodel was assigned to Node383
+Node383 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091517
+CY091517 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091541
+CY091541 has 0 parameters - branch length not assigned
+No nodel was assigned to Node395
+Node395 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091509
+CY091509 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501908
+EU501908 has 0 parameters - branch length not assigned
+No nodel was assigned to Node398
+Node398 has 0 parameters - branch length not assigned
+No nodel was assigned to Node394
+Node394 has 0 parameters - branch length not assigned
+No nodel was assigned to Node382
+Node382 has 0 parameters - branch length not assigned
+No nodel was assigned to Node352
+Node352 has 0 parameters - branch length not assigned
+No nodel was assigned to Node28
+Node28 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172231
+CY172231 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091053
+CY091053 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501764
+EU501764 has 0 parameters - branch length not assigned
+No nodel was assigned to Node404
+Node404 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054160
+CY054160 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054152
+CY054152 has 0 parameters - branch length not assigned
+No nodel was assigned to FJ794153
+FJ794153 has 0 parameters - branch length not assigned
+No nodel was assigned to Node413
+Node413 has 0 parameters - branch length not assigned
+No nodel was assigned to FJ794154
+FJ794154 has 0 parameters - branch length not assigned
+No nodel was assigned to Node412
+Node412 has 0 parameters - branch length not assigned
+No nodel was assigned to FJ794151
+FJ794151 has 0 parameters - branch length not assigned
+No nodel was assigned to FJ794155
+FJ794155 has 0 parameters - branch length not assigned
+No nodel was assigned to Node417
+Node417 has 0 parameters - branch length not assigned
+No nodel was assigned to Node411
+Node411 has 0 parameters - branch length not assigned
+No nodel was assigned to Node409
+Node409 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054232
+CY054232 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054231
+CY054231 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501953
+EU501953 has 0 parameters - branch length not assigned
+No nodel was assigned to Node427
+Node427 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054256
+CY054256 has 0 parameters - branch length not assigned
+No nodel was assigned to Node426
+Node426 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501916
+EU501916 has 0 parameters - branch length not assigned
+No nodel was assigned to Node425
+Node425 has 0 parameters - branch length not assigned
+No nodel was assigned to FJ794156
+FJ794156 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054226
+CY054226 has 0 parameters - branch length not assigned
+No nodel was assigned to Node432
+Node432 has 0 parameters - branch length not assigned
+No nodel was assigned to Node424
+Node424 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501901
+EU501901 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501884
+EU501884 has 0 parameters - branch length not assigned
+No nodel was assigned to Node435
+Node435 has 0 parameters - branch length not assigned
+No nodel was assigned to Node423
+Node423 has 0 parameters - branch length not assigned
+No nodel was assigned to Node421
+Node421 has 0 parameters - branch length not assigned
+No nodel was assigned to CY112997
+CY112997 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501899
+EU501899 has 0 parameters - branch length not assigned
+No nodel was assigned to Node438
+Node438 has 0 parameters - branch length not assigned
+No nodel was assigned to Node420
+Node420 has 0 parameters - branch length not assigned
+No nodel was assigned to Node408
+Node408 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501862
+EU501862 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501961
+EU501961 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501950
+EU501950 has 0 parameters - branch length not assigned
+No nodel was assigned to Node445
+Node445 has 0 parameters - branch length not assigned
+No nodel was assigned to Node443
+Node443 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502006
+EU502006 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501688
+EU501688 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501598
+EU501598 has 0 parameters - branch length not assigned
+No nodel was assigned to Node450
+Node450 has 0 parameters - branch length not assigned
+No nodel was assigned to Node448
+Node448 has 0 parameters - branch length not assigned
+No nodel was assigned to Node442
+Node442 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502323
+EU502323 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501621
+EU501621 has 0 parameters - branch length not assigned
+No nodel was assigned to Node453
+Node453 has 0 parameters - branch length not assigned
+No nodel was assigned to Node441
+Node441 has 0 parameters - branch length not assigned
+No nodel was assigned to Node407
+Node407 has 0 parameters - branch length not assigned
+No nodel was assigned to Node403
+Node403 has 0 parameters - branch length not assigned
+No nodel was assigned to Node401
+Node401 has 0 parameters - branch length not assigned
+No nodel was assigned to Node27
+Node27 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172239
+CY172239 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501979
+EU501979 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172191
+CY172191 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020061
+CY020061 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020069
+CY020069 has 0 parameters - branch length not assigned
+No nodel was assigned to CY019827
+CY019827 has 0 parameters - branch length not assigned
+No nodel was assigned to Node463
+Node463 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020077
+CY020077 has 0 parameters - branch length not assigned
+No nodel was assigned to CY020357
+CY020357 has 0 parameters - branch length not assigned
+No nodel was assigned to Node467
+Node467 has 0 parameters - branch length not assigned
+No nodel was assigned to Node462
+Node462 has 0 parameters - branch length not assigned
+No nodel was assigned to Node460
+Node460 has 0 parameters - branch length not assigned
+No nodel was assigned to Node458
+Node458 has 0 parameters - branch length not assigned
+No nodel was assigned to Node456
+Node456 has 0 parameters - branch length not assigned
+No nodel was assigned to Node26
+Node26 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091021
+CY091021 has 0 parameters - branch length not assigned
+No nodel was assigned to JF340085
+JF340085 has 0 parameters - branch length not assigned
+No nodel was assigned to EU516031
+EU516031 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271810
+AB271810 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271839
+AB271839 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271847
+AB271847 has 0 parameters - branch length not assigned
+No nodel was assigned to Node483
+Node483 has 0 parameters - branch length not assigned
+No nodel was assigned to Node481
+Node481 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271831
+AB271831 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271825
+AB271825 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271820
+AB271820 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271822
+AB271822 has 0 parameters - branch length not assigned
+No nodel was assigned to Node490
+Node490 has 0 parameters - branch length not assigned
+No nodel was assigned to Node488
+Node488 has 0 parameters - branch length not assigned
+No nodel was assigned to Node486
+Node486 has 0 parameters - branch length not assigned
+No nodel was assigned to Node480
+Node480 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271827
+AB271827 has 0 parameters - branch length not assigned
+No nodel was assigned to Node479
+Node479 has 0 parameters - branch length not assigned
+No nodel was assigned to Node477
+Node477 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502195
+EU502195 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502168
+EU502168 has 0 parameters - branch length not assigned
+No nodel was assigned to Node494
+Node494 has 0 parameters - branch length not assigned
+No nodel was assigned to Node476
+Node476 has 0 parameters - branch length not assigned
+No nodel was assigned to AB462542
+AB462542 has 0 parameters - branch length not assigned
+No nodel was assigned to AB462540
+AB462540 has 0 parameters - branch length not assigned
+No nodel was assigned to Node500
+Node500 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501751
+EU501751 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054183
+CY054183 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054182
+CY054182 has 0 parameters - branch length not assigned
+No nodel was assigned to Node505
+Node505 has 0 parameters - branch length not assigned
+No nodel was assigned to Node503
+Node503 has 0 parameters - branch length not assigned
+No nodel was assigned to Node499
+Node499 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501948
+EU501948 has 0 parameters - branch length not assigned
+No nodel was assigned to Node498
+Node498 has 0 parameters - branch length not assigned
+No nodel was assigned to CY114389
+CY114389 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501959
+EU501959 has 0 parameters - branch length not assigned
+No nodel was assigned to Node511
+Node511 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502381
+EU502381 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501988
+EU501988 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501656
+EU501656 has 0 parameters - branch length not assigned
+No nodel was assigned to Node518
+Node518 has 0 parameters - branch length not assigned
+No nodel was assigned to Node516
+Node516 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502092
+EU502092 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502002
+EU502002 has 0 parameters - branch length not assigned
+No nodel was assigned to Node522
+Node522 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501608
+EU501608 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501760
+EU501760 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501667
+EU501667 has 0 parameters - branch length not assigned
+No nodel was assigned to Node527
+Node527 has 0 parameters - branch length not assigned
+No nodel was assigned to Node525
+Node525 has 0 parameters - branch length not assigned
+No nodel was assigned to Node521
+Node521 has 0 parameters - branch length not assigned
+No nodel was assigned to Node515
+Node515 has 0 parameters - branch length not assigned
+No nodel was assigned to CY091525
+CY091525 has 0 parameters - branch length not assigned
+No nodel was assigned to AB271001
+AB271001 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501906
+EU501906 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501933
+EU501933 has 0 parameters - branch length not assigned
+No nodel was assigned to Node536
+Node536 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501647
+EU501647 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501969
+EU501969 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501934
+EU501934 has 0 parameters - branch length not assigned
+No nodel was assigned to Node542
+Node542 has 0 parameters - branch length not assigned
+No nodel was assigned to Node540
+Node540 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502043
+EU502043 has 0 parameters - branch length not assigned
+No nodel was assigned to Node539
+Node539 has 0 parameters - branch length not assigned
+No nodel was assigned to Node535
+Node535 has 0 parameters - branch length not assigned
+No nodel was assigned to Node533
+Node533 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501938
+EU501938 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502009
+EU502009 has 0 parameters - branch length not assigned
+No nodel was assigned to Node548
+Node548 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502015
+EU502015 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501597
+EU501597 has 0 parameters - branch length not assigned
+No nodel was assigned to Node551
+Node551 has 0 parameters - branch length not assigned
+No nodel was assigned to Node547
+Node547 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502132
+EU502132 has 0 parameters - branch length not assigned
+No nodel was assigned to Node546
+Node546 has 0 parameters - branch length not assigned
+No nodel was assigned to Node532
+Node532 has 0 parameters - branch length not assigned
+No nodel was assigned to Node530
+Node530 has 0 parameters - branch length not assigned
+No nodel was assigned to Node514
+Node514 has 0 parameters - branch length not assigned
+No nodel was assigned to Node510
+Node510 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501960
+EU501960 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501989
+EU501989 has 0 parameters - branch length not assigned
+No nodel was assigned to Node557
+Node557 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502054
+EU502054 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501983
+EU501983 has 0 parameters - branch length not assigned
+No nodel was assigned to Node560
+Node560 has 0 parameters - branch length not assigned
+No nodel was assigned to Node556
+Node556 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502379
+EU502379 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502078
+EU502078 has 0 parameters - branch length not assigned
+No nodel was assigned to Node563
+Node563 has 0 parameters - branch length not assigned
+No nodel was assigned to Node555
+Node555 has 0 parameters - branch length not assigned
+No nodel was assigned to Node509
+Node509 has 0 parameters - branch length not assigned
+No nodel was assigned to Node497
+Node497 has 0 parameters - branch length not assigned
+No nodel was assigned to Node475
+Node475 has 0 parameters - branch length not assigned
+No nodel was assigned to Node473
+Node473 has 0 parameters - branch length not assigned
+No nodel was assigned to Node471
+Node471 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502321
+EU502321 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502166
+EU502166 has 0 parameters - branch length not assigned
+No nodel was assigned to CY172223
+CY172223 has 0 parameters - branch length not assigned
+No nodel was assigned to CY054275
+CY054275 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502311
+EU502311 has 0 parameters - branch length not assigned
+No nodel was assigned to CY058073
+CY058073 has 0 parameters - branch length not assigned
+No nodel was assigned to Node574
+Node574 has 0 parameters - branch length not assigned
+No nodel was assigned to Node572
+Node572 has 0 parameters - branch length not assigned
+No nodel was assigned to Node570
+Node570 has 0 parameters - branch length not assigned
+No nodel was assigned to Node568
+Node568 has 0 parameters - branch length not assigned
+No nodel was assigned to Node566
+Node566 has 0 parameters - branch length not assigned
+No nodel was assigned to Node470
+Node470 has 0 parameters - branch length not assigned
+No nodel was assigned to Node25
+Node25 has 0 parameters - branch length not assigned
+No nodel was assigned to Node13
+Node13 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501747
+EU501747 has 0 parameters - branch length not assigned
+No nodel was assigned to AB434113
+AB434113 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502095
+EU502095 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501722
+EU501722 has 0 parameters - branch length not assigned
+No nodel was assigned to Node583
+Node583 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501977
+EU501977 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501975
+EU501975 has 0 parameters - branch length not assigned
+No nodel was assigned to Node591
+Node591 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501857
+EU501857 has 0 parameters - branch length not assigned
+No nodel was assigned to Node590
+Node590 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501856
+EU501856 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501745
+EU501745 has 0 parameters - branch length not assigned
+No nodel was assigned to Node595
+Node595 has 0 parameters - branch length not assigned
+No nodel was assigned to Node589
+Node589 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501904
+EU501904 has 0 parameters - branch length not assigned
+No nodel was assigned to Node588
+Node588 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501855
+EU501855 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502045
+EU502045 has 0 parameters - branch length not assigned
+No nodel was assigned to Node599
+Node599 has 0 parameters - branch length not assigned
+No nodel was assigned to Node587
+Node587 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501947
+EU501947 has 0 parameters - branch length not assigned
+No nodel was assigned to Node586
+Node586 has 0 parameters - branch length not assigned
+No nodel was assigned to Node582
+Node582 has 0 parameters - branch length not assigned
+No nodel was assigned to Node580
+Node580 has 0 parameters - branch length not assigned
+No nodel was assigned to Node578
+Node578 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501859
+EU501859 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501888
+EU501888 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501958
+EU501958 has 0 parameters - branch length not assigned
+No nodel was assigned to Node605
+Node605 has 0 parameters - branch length not assigned
+No nodel was assigned to Node603
+Node603 has 0 parameters - branch length not assigned
+No nodel was assigned to Node577
+Node577 has 0 parameters - branch length not assigned
+No nodel was assigned to Node12
+Node12 has 0 parameters - branch length not assigned
+No nodel was assigned to Node10
+Node10 has 0 parameters - branch length not assigned
+No nodel was assigned to Node8
+Node8 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501624
+EU501624 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502022
+EU502022 has 0 parameters - branch length not assigned
+No nodel was assigned to Node608
+Node608 has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to EU501935
+EU501935 has 0 parameters - branch length not assigned
+No nodel was assigned to Node6
+Node6 has 0 parameters - branch length not assigned
+No nodel was assigned to EU502273
+EU502273 has 0 parameters - branch length not assigned
+No nodel was assigned to Node5
+Node5 has 0 parameters - branch length not assigned
+Reroot was called with an unrooted tree. Rerooting was still performed.
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Model NucModel assigned to EU502249
+Branch parameter of EU502249 set to :0.00311
+Model NucModel assigned to EU502197
+Branch parameter of EU502197 set to :0.00414
+Model NucModel assigned to CY172271
+Branch parameter of CY172271 set to :0.00055
+Model NucModel assigned to Node19
+Branch parameter of Node19 set to :0.00103
+Model NucModel assigned to Node17
+Branch parameter of Node17 set to :0.00055
+Model NucModel assigned to EU502273
+Branch parameter of EU502273 set to :0.00207
+Model NucModel assigned to Node16
+Branch parameter of Node16 set to :0.00055
+Model NucModel assigned to EU501935
+Branch parameter of EU501935 set to :0.00206
+Model NucModel assigned to Node15
+Branch parameter of Node15 set to :0.00055
+Model NucModel assigned to EU501624
+Branch parameter of EU501624 set to :0.00207
+Model NucModel assigned to EU502022
+Branch parameter of EU502022 set to :0.00102
+Model NucModel assigned to Node24
+Branch parameter of Node24 set to :0.00055
+Model NucModel assigned to Node14
+Branch parameter of Node14 set to :0.00055
+Model NucModel assigned to JF710738
+Branch parameter of JF710738 set to :0.00207
+Model NucModel assigned to Node13
+Branch parameter of Node13 set to :0.00055
+Model NucModel assigned to CY054228
+Branch parameter of CY054228 set to :0.00055
+Model NucModel assigned to Node12
+Branch parameter of Node12 set to :0.00055
+Model NucModel assigned to EU501747
+Branch parameter of EU501747 set to :0.00103
+Model NucModel assigned to AB434113
+Branch parameter of AB434113 set to :0.00055
+Model NucModel assigned to EU502095
+Branch parameter of EU502095 set to :0.00103
+Model NucModel assigned to EU501722
+Branch parameter of EU501722 set to :0.00103
+Model NucModel assigned to Node35
+Branch parameter of Node35 set to :0.00055
+Model NucModel assigned to EU501977
+Branch parameter of EU501977 set to :0.00102
+Model NucModel assigned to EU501975
+Branch parameter of EU501975 set to :0.00311
+Model NucModel assigned to Node43
+Branch parameter of Node43 set to :0.00055
+Model NucModel assigned to EU501857
+Branch parameter of EU501857 set to :0.00055
+Model NucModel assigned to Node42
+Branch parameter of Node42 set to :0.00055
+Model NucModel assigned to EU501856
+Branch parameter of EU501856 set to :0.00103
+Model NucModel assigned to EU501745
+Branch parameter of EU501745 set to :0.00103
+Model NucModel assigned to Node47
+Branch parameter of Node47 set to :0.00055
+Model NucModel assigned to Node41
+Branch parameter of Node41 set to :0.00055
+Model NucModel assigned to EU501904
+Branch parameter of EU501904 set to :0.0031
+Model NucModel assigned to Node40
+Branch parameter of Node40 set to :0.00055
+Model NucModel assigned to EU501855
+Branch parameter of EU501855 set to :0.00103
+Model NucModel assigned to EU502045
+Branch parameter of EU502045 set to :0.00103
+Model NucModel assigned to Node51
+Branch parameter of Node51 set to :0.00055
+Model NucModel assigned to Node39
+Branch parameter of Node39 set to :0.00055
+Model NucModel assigned to EU501947
+Branch parameter of EU501947 set to :0.00103
+Model NucModel assigned to Node38
+Branch parameter of Node38 set to :0.00055
+Model NucModel assigned to Node34
+Branch parameter of Node34 set to :0.00055
+Model NucModel assigned to Node32
+Branch parameter of Node32 set to :0.0009700000000000001
+Model NucModel assigned to Node30
+Branch parameter of Node30 set to :0.00483
+Model NucModel assigned to EU501859
+Branch parameter of EU501859 set to :0.00055
+Model NucModel assigned to EU501888
+Branch parameter of EU501888 set to :0.00103
+Model NucModel assigned to EU501958
+Branch parameter of EU501958 set to :0.00206
+Model NucModel assigned to Node57
+Branch parameter of Node57 set to :0.00103
+Model NucModel assigned to Node55
+Branch parameter of Node55 set to :0.00103
+Model NucModel assigned to Node29
+Branch parameter of Node29 set to :0.00096
+Model NucModel assigned to Node11
+Branch parameter of Node11 set to :0.00055
+Model NucModel assigned to EU502167
+Branch parameter of EU502167 set to :0.00055
+Model NucModel assigned to CY172287
+Branch parameter of CY172287 set to :0.00189
+Model NucModel assigned to CY091501
+Branch parameter of CY091501 set to :0.00055
+Model NucModel assigned to EU501894
+Branch parameter of EU501894 set to :0.00206
+Model NucModel assigned to EU501998
+Branch parameter of EU501998 set to :0.00103
+Model NucModel assigned to CY091013
+Branch parameter of CY091013 set to :0.00079
+Model NucModel assigned to Node68
+Branch parameter of Node68 set to :0.00055
+Model NucModel assigned to Node66
+Branch parameter of Node66 set to :0.00055
+Model NucModel assigned to Node64
+Branch parameter of Node64 set to :0.00055
+Model NucModel assigned to Node62
+Branch parameter of Node62 set to :0.00104
+Model NucModel assigned to Node60
+Branch parameter of Node60 set to :0.00055
+Model NucModel assigned to Node10
+Branch parameter of Node10 set to :0.00055
+Model NucModel assigned to CY091021
+Branch parameter of CY091021 set to :0.00252
+Model NucModel assigned to JF340085
+Branch parameter of JF340085 set to :0.00055
+Model NucModel assigned to EU516031
+Branch parameter of EU516031 set to :0.00106
+Model NucModel assigned to AB271810
+Branch parameter of AB271810 set to :0.06208
+Model NucModel assigned to AB271839
+Branch parameter of AB271839 set to :0.78973
+Model NucModel assigned to AB271847
+Branch parameter of AB271847 set to :0.00055
+Model NucModel assigned to Node84
+Branch parameter of Node84 set to :0.01234
+Model NucModel assigned to Node82
+Branch parameter of Node82 set to :3.80019
+Model NucModel assigned to AB271831
+Branch parameter of AB271831 set to :0.00319
+Model NucModel assigned to AB271825
+Branch parameter of AB271825 set to :0.00052
+Model NucModel assigned to AB271820
+Branch parameter of AB271820 set to :0.19125
+Model NucModel assigned to AB271822
+Branch parameter of AB271822 set to :0.00055
+Model NucModel assigned to Node91
+Branch parameter of Node91 set to :0.00053
+Model NucModel assigned to Node89
+Branch parameter of Node89 set to :4.1272
+Model NucModel assigned to Node87
+Branch parameter of Node87 set to :0.00183
+Model NucModel assigned to Node81
+Branch parameter of Node81 set to :0.00133
+Model NucModel assigned to AB271827
+Branch parameter of AB271827 set to :0.00686
+Model NucModel assigned to Node80
+Branch parameter of Node80 set to :4.04921
+Model NucModel assigned to Node78
+Branch parameter of Node78 set to :0.0007
+Model NucModel assigned to EU502195
+Branch parameter of EU502195 set to :0.00055
+Model NucModel assigned to EU502168
+Branch parameter of EU502168 set to :0.00102
+Model NucModel assigned to Node95
+Branch parameter of Node95 set to :0.00052
+Model NucModel assigned to Node77
+Branch parameter of Node77 set to :0.00054
+Model NucModel assigned to AB462542
+Branch parameter of AB462542 set to :0.00055
+Model NucModel assigned to AB462540
+Branch parameter of AB462540 set to :0.00088
+Model NucModel assigned to Node101
+Branch parameter of Node101 set to :0.00744
+Model NucModel assigned to EU501751
+Branch parameter of EU501751 set to :0.03286
+Model NucModel assigned to CY054183
+Branch parameter of CY054183 set to :0.00309
+Model NucModel assigned to CY054182
+Branch parameter of CY054182 set to :0.00055
+Model NucModel assigned to Node106
+Branch parameter of Node106 set to :0.00418
+Model NucModel assigned to Node104
+Branch parameter of Node104 set to :0.00202
+Model NucModel assigned to Node100
+Branch parameter of Node100 set to :0.00055
+Model NucModel assigned to EU501948
+Branch parameter of EU501948 set to :0.00207
+Model NucModel assigned to Node99
+Branch parameter of Node99 set to :0.00054
+Model NucModel assigned to CY114389
+Branch parameter of CY114389 set to :0.00315
+Model NucModel assigned to EU501959
+Branch parameter of EU501959 set to :0.00207
+Model NucModel assigned to Node112
+Branch parameter of Node112 set to :0.00315
+Model NucModel assigned to EU502381
+Branch parameter of EU502381 set to :0.00414
+Model NucModel assigned to EU501988
+Branch parameter of EU501988 set to :0.00055
+Model NucModel assigned to EU501656
+Branch parameter of EU501656 set to :0.00206
+Model NucModel assigned to Node119
+Branch parameter of Node119 set to :0.00055
+Model NucModel assigned to Node117
+Branch parameter of Node117 set to :0.00309
+Model NucModel assigned to EU502092
+Branch parameter of EU502092 set to :0.00103
+Model NucModel assigned to EU502002
+Branch parameter of EU502002 set to :0.00103
+Model NucModel assigned to Node123
+Branch parameter of Node123 set to :0.00518
+Model NucModel assigned to EU501608
+Branch parameter of EU501608 set to :0.00055
+Model NucModel assigned to EU501760
+Branch parameter of EU501760 set to :0.00103
+Model NucModel assigned to EU501667
+Branch parameter of EU501667 set to :0.00055
+Model NucModel assigned to Node128
+Branch parameter of Node128 set to :0.00102
+Model NucModel assigned to Node126
+Branch parameter of Node126 set to :0.00103
+Model NucModel assigned to Node122
+Branch parameter of Node122 set to :0.00055
+Model NucModel assigned to Node116
+Branch parameter of Node116 set to :0.00207
+Model NucModel assigned to CY091525
+Branch parameter of CY091525 set to :0.00055
+Model NucModel assigned to AB271001
+Branch parameter of AB271001 set to :0.00203
+Model NucModel assigned to EU501906
+Branch parameter of EU501906 set to :0.00206
+Model NucModel assigned to EU501933
+Branch parameter of EU501933 set to :0.0031
+Model NucModel assigned to Node137
+Branch parameter of Node137 set to :0.00055
+Model NucModel assigned to EU501647
+Branch parameter of EU501647 set to :0.00055
+Model NucModel assigned to EU501969
+Branch parameter of EU501969 set to :0.00103
+Model NucModel assigned to EU501934
+Branch parameter of EU501934 set to :0.00102
+Model NucModel assigned to Node143
+Branch parameter of Node143 set to :0.00055
+Model NucModel assigned to Node141
+Branch parameter of Node141 set to :0.00055
+Model NucModel assigned to EU502043
+Branch parameter of EU502043 set to :0.00103
+Model NucModel assigned to Node140
+Branch parameter of Node140 set to :0.00055
+Model NucModel assigned to Node136
+Branch parameter of Node136 set to :0.00055
+Model NucModel assigned to Node134
+Branch parameter of Node134 set to :0.00101
+Model NucModel assigned to EU501938
+Branch parameter of EU501938 set to :0.00055
+Model NucModel assigned to EU502009
+Branch parameter of EU502009 set to :0.00102
+Model NucModel assigned to Node149
+Branch parameter of Node149 set to :0.00055
+Model NucModel assigned to EU502015
+Branch parameter of EU502015 set to :0.00206
+Model NucModel assigned to EU501597
+Branch parameter of EU501597 set to :0.00309
+Model NucModel assigned to Node152
+Branch parameter of Node152 set to :0.00055
+Model NucModel assigned to Node148
+Branch parameter of Node148 set to :0.00055
+Model NucModel assigned to EU502132
+Branch parameter of EU502132 set to :0.00103
+Model NucModel assigned to Node147
+Branch parameter of Node147 set to :0.00055
+Model NucModel assigned to Node133
+Branch parameter of Node133 set to :0.00101
+Model NucModel assigned to Node131
+Branch parameter of Node131 set to :0.00209
+Model NucModel assigned to Node115
+Branch parameter of Node115 set to :0.00209
+Model NucModel assigned to Node111
+Branch parameter of Node111 set to :0.00054
+Model NucModel assigned to EU501960
+Branch parameter of EU501960 set to :0.00103
+Model NucModel assigned to EU501989
+Branch parameter of EU501989 set to :0.00103
+Model NucModel assigned to Node158
+Branch parameter of Node158 set to :0.00621
+Model NucModel assigned to EU502054
+Branch parameter of EU502054 set to :0.00102
+Model NucModel assigned to EU501983
+Branch parameter of EU501983 set to :0.00103
+Model NucModel assigned to Node161
+Branch parameter of Node161 set to :0.00055
+Model NucModel assigned to Node157
+Branch parameter of Node157 set to :0.00206
+Model NucModel assigned to EU502379
+Branch parameter of EU502379 set to :0.00518
+Model NucModel assigned to EU502078
+Branch parameter of EU502078 set to :0.00102
+Model NucModel assigned to Node164
+Branch parameter of Node164 set to :0.00311
+Model NucModel assigned to Node156
+Branch parameter of Node156 set to :0.00725
+Model NucModel assigned to Node110
+Branch parameter of Node110 set to :0.00211
+Model NucModel assigned to Node98
+Branch parameter of Node98 set to :0.0046
+Model NucModel assigned to Node76
+Branch parameter of Node76 set to :0.00055
+Model NucModel assigned to Node74
+Branch parameter of Node74 set to :0.00055
+Model NucModel assigned to Node72
+Branch parameter of Node72 set to :0.00055
+Model NucModel assigned to EU502321
+Branch parameter of EU502321 set to :0.00055
+Model NucModel assigned to EU502166
+Branch parameter of EU502166 set to :0.00103
+Model NucModel assigned to CY172223
+Branch parameter of CY172223 set to :0.00063
+Model NucModel assigned to CY054275
+Branch parameter of CY054275 set to :0.00103
+Model NucModel assigned to EU502311
+Branch parameter of EU502311 set to :0.00055
+Model NucModel assigned to CY058073
+Branch parameter of CY058073 set to :0.00103
+Model NucModel assigned to Node175
+Branch parameter of Node175 set to :0.00207
+Model NucModel assigned to Node173
+Branch parameter of Node173 set to :0.00055
+Model NucModel assigned to Node171
+Branch parameter of Node171 set to :0.00063
+Model NucModel assigned to Node169
+Branch parameter of Node169 set to :0.00127
+Model NucModel assigned to Node167
+Branch parameter of Node167 set to :0.00063
+Model NucModel assigned to Node71
+Branch parameter of Node71 set to :0.00055
+Model NucModel assigned to Node9
+Branch parameter of Node9 set to :0.00055
+Model NucModel assigned to CY172239
+Branch parameter of CY172239 set to :0.00127
+Model NucModel assigned to EU501979
+Branch parameter of EU501979 set to :0.00311
+Model NucModel assigned to CY172191
+Branch parameter of CY172191 set to :0.00127
+Model NucModel assigned to CY020061
+Branch parameter of CY020061 set to :1e-10
+Model NucModel assigned to CY020069
+Branch parameter of CY020069 set to :1e-10
+Model NucModel assigned to CY019827
+Branch parameter of CY019827 set to :1e-10
+Model NucModel assigned to Node185
+Branch parameter of Node185 set to :0.00055
+Model NucModel assigned to CY020077
+Branch parameter of CY020077 set to :0.00055
+Model NucModel assigned to CY020357
+Branch parameter of CY020357 set to :0.00055
+Model NucModel assigned to Node189
+Branch parameter of Node189 set to :0.00055
+Model NucModel assigned to Node184
+Branch parameter of Node184 set to :0.0006400000000000001
+Model NucModel assigned to Node182
+Branch parameter of Node182 set to :0.00055
+Model NucModel assigned to Node180
+Branch parameter of Node180 set to :0.00063
+Model NucModel assigned to Node178
+Branch parameter of Node178 set to :0.00055
+Model NucModel assigned to Node8
+Branch parameter of Node8 set to :0.00055
+Model NucModel assigned to CY172231
+Branch parameter of CY172231 set to :0.00125
+Model NucModel assigned to CY091053
+Branch parameter of CY091053 set to :0.00223
+Model NucModel assigned to EU501764
+Branch parameter of EU501764 set to :0.00406
+Model NucModel assigned to Node195
+Branch parameter of Node195 set to :0.00055
+Model NucModel assigned to CY054160
+Branch parameter of CY054160 set to :0.00103
+Model NucModel assigned to CY054152
+Branch parameter of CY054152 set to :0.00207
+Model NucModel assigned to FJ794153
+Branch parameter of FJ794153 set to :0.00102
+Model NucModel assigned to Node204
+Branch parameter of Node204 set to :0.00055
+Model NucModel assigned to FJ794154
+Branch parameter of FJ794154 set to :0.00055
+Model NucModel assigned to Node203
+Branch parameter of Node203 set to :0.00055
+Model NucModel assigned to FJ794151
+Branch parameter of FJ794151 set to :0.00103
+Model NucModel assigned to FJ794155
+Branch parameter of FJ794155 set to :0.00207
+Model NucModel assigned to Node208
+Branch parameter of Node208 set to :0.00055
+Model NucModel assigned to Node202
+Branch parameter of Node202 set to :0.00055
+Model NucModel assigned to Node200
+Branch parameter of Node200 set to :0.00206
+Model NucModel assigned to CY054232
+Branch parameter of CY054232 set to :0.00103
+Model NucModel assigned to CY054231
+Branch parameter of CY054231 set to :0.00103
+Model NucModel assigned to EU501953
+Branch parameter of EU501953 set to :0.00055
+Model NucModel assigned to Node218
+Branch parameter of Node218 set to :0.00103
+Model NucModel assigned to CY054256
+Branch parameter of CY054256 set to :0.00103
+Model NucModel assigned to Node217
+Branch parameter of Node217 set to :0.00055
+Model NucModel assigned to EU501916
+Branch parameter of EU501916 set to :0.00103
+Model NucModel assigned to Node216
+Branch parameter of Node216 set to :0.00055
+Model NucModel assigned to FJ794156
+Branch parameter of FJ794156 set to :0.00102
+Model NucModel assigned to CY054226
+Branch parameter of CY054226 set to :0.00103
+Model NucModel assigned to Node223
+Branch parameter of Node223 set to :0.00055
+Model NucModel assigned to Node215
+Branch parameter of Node215 set to :0.00055
+Model NucModel assigned to EU501901
+Branch parameter of EU501901 set to :0.00102
+Model NucModel assigned to EU501884
+Branch parameter of EU501884 set to :0.00055
+Model NucModel assigned to Node226
+Branch parameter of Node226 set to :0.00055
+Model NucModel assigned to Node214
+Branch parameter of Node214 set to :0.00052
+Model NucModel assigned to Node212
+Branch parameter of Node212 set to :0.0009
+Model NucModel assigned to CY112997
+Branch parameter of CY112997 set to :0.00054
+Model NucModel assigned to EU501899
+Branch parameter of EU501899 set to :0.00193
+Model NucModel assigned to Node229
+Branch parameter of Node229 set to :0.00103
+Model NucModel assigned to Node211
+Branch parameter of Node211 set to :0.00054
+Model NucModel assigned to Node199
+Branch parameter of Node199 set to :0.00055
+Model NucModel assigned to EU501862
+Branch parameter of EU501862 set to :0.00206
+Model NucModel assigned to EU501961
+Branch parameter of EU501961 set to :0.00055
+Model NucModel assigned to EU501950
+Branch parameter of EU501950 set to :0.00103
+Model NucModel assigned to Node236
+Branch parameter of Node236 set to :0.00055
+Model NucModel assigned to Node234
+Branch parameter of Node234 set to :0.00103
+Model NucModel assigned to EU502006
+Branch parameter of EU502006 set to :0.00055
+Model NucModel assigned to EU501688
+Branch parameter of EU501688 set to :0.00103
+Model NucModel assigned to EU501598
+Branch parameter of EU501598 set to :0.00103
+Model NucModel assigned to Node241
+Branch parameter of Node241 set to :0.00055
+Model NucModel assigned to Node239
+Branch parameter of Node239 set to :0.00055
+Model NucModel assigned to Node233
+Branch parameter of Node233 set to :0.00621
+Model NucModel assigned to EU502323
+Branch parameter of EU502323 set to :0.00103
+Model NucModel assigned to EU501621
+Branch parameter of EU501621 set to :0.00415
+Model NucModel assigned to Node244
+Branch parameter of Node244 set to :0.00102
+Model NucModel assigned to Node232
+Branch parameter of Node232 set to :0.00055
+Model NucModel assigned to Node198
+Branch parameter of Node198 set to :0.00055
+Model NucModel assigned to Node194
+Branch parameter of Node194 set to :0.00055
+Model NucModel assigned to Node192
+Branch parameter of Node192 set to :0.00055
+Model NucModel assigned to Node7
+Branch parameter of Node7 set to :0.00055
+Model NucModel assigned to EU502404
+Branch parameter of EU502404 set to :0.00103
+Model NucModel assigned to EU502234
+Branch parameter of EU502234 set to :0.00055
+Model NucModel assigned to Node250
+Branch parameter of Node250 set to :0.00102
+Model NucModel assigned to EU501845
+Branch parameter of EU501845 set to :0.00055
+Model NucModel assigned to CY172207
+Branch parameter of CY172207 set to :0.00111
+Model NucModel assigned to Node254
+Branch parameter of Node254 set to :0.00135
+Model NucModel assigned to EU501661
+Branch parameter of EU501661 set to :0.00102
+Model NucModel assigned to CY116586
+Branch parameter of CY116586 set to :0.00207
+Model NucModel assigned to Node259
+Branch parameter of Node259 set to :0.00055
+Model NucModel assigned to EU501660
+Branch parameter of EU501660 set to :0.00103
+Model NucModel assigned to Node258
+Branch parameter of Node258 set to :0.00055
+Model NucModel assigned to EU501662
+Branch parameter of EU501662 set to :0.00055
+Model NucModel assigned to Node257
+Branch parameter of Node257 set to :0.00055
+Model NucModel assigned to Node253
+Branch parameter of Node253 set to :0.00112
+Model NucModel assigned to Node249
+Branch parameter of Node249 set to :0.00055
+Model NucModel assigned to EU502287
+Branch parameter of EU502287 set to :0.00103
+Model NucModel assigned to EU501848
+Branch parameter of EU501848 set to :0.00103
+Model NucModel assigned to EU501946
+Branch parameter of EU501946 set to :0.00055
+Model NucModel assigned to AB289677
+Branch parameter of AB289677 set to :0.00517
+Model NucModel assigned to EU502093
+Branch parameter of EU502093 set to :0.0031
+Model NucModel assigned to Node272
+Branch parameter of Node272 set to :0.00055
+Model NucModel assigned to EU501772
+Branch parameter of EU501772 set to :0.00103
+Model NucModel assigned to Node271
+Branch parameter of Node271 set to :0.00055
+Model NucModel assigned to Node269
+Branch parameter of Node269 set to :0.00055
+Model NucModel assigned to EU502074
+Branch parameter of EU502074 set to :0.00103
+Model NucModel assigned to Node268
+Branch parameter of Node268 set to :0.00055
+Model NucModel assigned to Node266
+Branch parameter of Node266 set to :0.00207
+Model NucModel assigned to Node264
+Branch parameter of Node264 set to :0.00103
+Model NucModel assigned to Node248
+Branch parameter of Node248 set to :0.00055
+Model NucModel assigned to EU501645
+Branch parameter of EU501645 set to :0.00207
+Model NucModel assigned to EU501919
+Branch parameter of EU501919 set to :0.00103
+Model NucModel assigned to EU501765
+Branch parameter of EU501765 set to :0.00103
+Model NucModel assigned to EU501683
+Branch parameter of EU501683 set to :0.00055
+Model NucModel assigned to EU502085
+Branch parameter of EU502085 set to :0.00103
+Model NucModel assigned to EU502094
+Branch parameter of EU502094 set to :0.00207
+Model NucModel assigned to Node286
+Branch parameter of Node286 set to :0.00055
+Model NucModel assigned to Node284
+Branch parameter of Node284 set to :0.00055
+Model NucModel assigned to Node282
+Branch parameter of Node282 set to :0.00103
+Model NucModel assigned to Node280
+Branch parameter of Node280 set to :0.00055
+Model NucModel assigned to Node278
+Branch parameter of Node278 set to :0.00102
+Model NucModel assigned to CY091517
+Branch parameter of CY091517 set to :1e-10
+Model NucModel assigned to CY091541
+Branch parameter of CY091541 set to :1e-10
+Model NucModel assigned to Node290
+Branch parameter of Node290 set to :0.00055
+Model NucModel assigned to CY091509
+Branch parameter of CY091509 set to :0.00055
+Model NucModel assigned to EU501908
+Branch parameter of EU501908 set to :0.00103
+Model NucModel assigned to Node293
+Branch parameter of Node293 set to :0.00104
+Model NucModel assigned to Node289
+Branch parameter of Node289 set to :0.00055
+Model NucModel assigned to Node277
+Branch parameter of Node277 set to :0.00055
+Model NucModel assigned to Node247
+Branch parameter of Node247 set to :0.00055
+Model NucModel assigned to Node6
+Branch parameter of Node6 set to :0.00055
+Model NucModel assigned to EU502196
+Branch parameter of EU502196 set to :0.00183
+Model NucModel assigned to EU502347
+Branch parameter of EU502347 set to :0.00311
+Model NucModel assigned to CY172279
+Branch parameter of CY172279 set to :0.00055
+Model NucModel assigned to Node302
+Branch parameter of Node302 set to :0.00104
+Model NucModel assigned to EU516029
+Branch parameter of EU516029 set to :0.00124
+Model NucModel assigned to CY091045
+Branch parameter of CY091045 set to :0.00125
+Model NucModel assigned to Node305
+Branch parameter of Node305 set to :0.00055
+Model NucModel assigned to Node301
+Branch parameter of Node301 set to :0.00055
+Model NucModel assigned to Node299
+Branch parameter of Node299 set to :0.00114
+Model NucModel assigned to EU502280
+Branch parameter of EU502280 set to :0.00207
+Model NucModel assigned to EU501835
+Branch parameter of EU501835 set to :0.00206
+Model NucModel assigned to Node308
+Branch parameter of Node308 set to :0.0008
+Model NucModel assigned to Node298
+Branch parameter of Node298 set to :0.00055
+Model NucModel assigned to EU501703
+Branch parameter of EU501703 set to :0.00053
+Model NucModel assigned to EU501706
+Branch parameter of EU501706 set to :0.00201
+Model NucModel assigned to Node311
+Branch parameter of Node311 set to :0.00311
+Model NucModel assigned to Node297
+Branch parameter of Node297 set to :0.00055
+Model NucModel assigned to CY054156
+Branch parameter of CY054156 set to :0.00206
+Model NucModel assigned to EF473458
+Branch parameter of EF473458 set to :0.00055
+Model NucModel assigned to EU502216
+Branch parameter of EU502216 set to :0.00055
+Model NucModel assigned to Node317
+Branch parameter of Node317 set to :0.00177
+Model NucModel assigned to CY054253
+Branch parameter of CY054253 set to :0.00716
+Model NucModel assigned to CY172431
+Branch parameter of CY172431 set to :0.00108
+Model NucModel assigned to EU502099
+Branch parameter of EU502099 set to :0.00207
+Model NucModel assigned to Node322
+Branch parameter of Node322 set to :0.0012
+Model NucModel assigned to Node320
+Branch parameter of Node320 set to :0.00108
+Model NucModel assigned to Node316
+Branch parameter of Node316 set to :0.00055
+Model NucModel assigned to Node314
+Branch parameter of Node314 set to :0.00055
+Model NucModel assigned to Node296
+Branch parameter of Node296 set to :0.00055
+Model NucModel assigned to Node5
+Branch parameter of Node5 set to :0.00055
+Model NucModel assigned to EU501697
+Branch parameter of EU501697 set to :0.00055
+Model NucModel assigned to EU501698
+Branch parameter of EU501698 set to :0.00103
+Model NucModel assigned to EU502007
+Branch parameter of EU502007 set to :0.00207
+Model NucModel assigned to Node329
+Branch parameter of Node329 set to :0.00055
+Model NucModel assigned to Node327
+Branch parameter of Node327 set to :0.00055
+Model NucModel assigned to EU502024
+Branch parameter of EU502024 set to :0.00103
+Model NucModel assigned to Node326
+Branch parameter of Node326 set to :0.00103
+Model NucModel assigned to EU502055
+Branch parameter of EU502055 set to :0.00195
+Model NucModel assigned to EU791293
+Branch parameter of EU791293 set to :0.00055
+Model NucModel assigned to EU501920
+Branch parameter of EU501920 set to :0.00055
+Model NucModel assigned to Node336
+Branch parameter of Node336 set to :0.00055
+Model NucModel assigned to Node334
+Branch parameter of Node334 set to :0.00094
+Model NucModel assigned to AB434112
+Branch parameter of AB434112 set to :0.00082
+Model NucModel assigned to EU501907
+Branch parameter of EU501907 set to :0.00055
+Model NucModel assigned to EU502038
+Branch parameter of EU502038 set to :0.00055
+Model NucModel assigned to EU501939
+Branch parameter of EU501939 set to :0.00103
+Model NucModel assigned to EU501936
+Branch parameter of EU501936 set to :0.00207
+Model NucModel assigned to Node346
+Branch parameter of Node346 set to :0.00055
+Model NucModel assigned to Node344
+Branch parameter of Node344 set to :0.00103
+Model NucModel assigned to Node342
+Branch parameter of Node342 set to :0.00055
+Model NucModel assigned to EU501628
+Branch parameter of EU501628 set to :0.00103
+Model NucModel assigned to AB289672
+Branch parameter of AB289672 set to :0.00207
+Model NucModel assigned to Node350
+Branch parameter of Node350 set to :0.00055
+Model NucModel assigned to EU502204
+Branch parameter of EU502204 set to :0.00103
+Model NucModel assigned to Node349
+Branch parameter of Node349 set to :0.00055
+Model NucModel assigned to Node341
+Branch parameter of Node341 set to :0.00055
+Model NucModel assigned to Node339
+Branch parameter of Node339 set to :0.00055
+Model NucModel assigned to Node333
+Branch parameter of Node333 set to :0.00073
+Model NucModel assigned to Node325
+Branch parameter of Node325 set to :0.00055
+Model NucModel assigned to Node4
+Branch parameter of Node4 set to :0.00055
+Model NucModel assigned to CY173599
+Branch parameter of CY173599 set to :1e-10
+Model NucModel assigned to CY172247
+Branch parameter of CY172247 set to :1e-10
+Model NucModel assigned to CY091141
+Branch parameter of CY091141 set to :1e-10
+Model NucModel assigned to Node355
+Branch parameter of Node355 set to :0.00055
+Model NucModel assigned to CY091029
+Branch parameter of CY091029 set to :0.00063
+Model NucModel assigned to Node354
+Branch parameter of Node354 set to :0.00055
+Model NucModel assigned to Node3
+Branch parameter of Node3 set to :0.00055
+Model NucModel assigned to CY172255
+Branch parameter of CY172255 set to :0.00055
+Model NucModel assigned to CY172199
+Branch parameter of CY172199 set to :0.00245
+Model NucModel assigned to Node360
+Branch parameter of Node360 set to :0.00063
+Model NucModel assigned to Node2
+Branch parameter of Node2 set to :0.00056
+Model NucModel assigned to EU501885
+Branch parameter of EU501885 set to :0.00103
+Model NucModel assigned to EU502033
+Branch parameter of EU502033 set to :0.00207
+Model NucModel assigned to EU501724
+Branch parameter of EU501724 set to :0.00208
+Model NucModel assigned to Node365
+Branch parameter of Node365 set to :0.00103
+Model NucModel assigned to Node363
+Branch parameter of Node363 set to :0.00103
+Model NucModel assigned to Node1
+Branch parameter of Node1 set to :0.00055
+Model NucModel assigned to EU502292
+Branch parameter of EU502292 set to :0.0031
+Model NucModel assigned to CY172295
+Branch parameter of CY172295 set to :0.00083
+Model NucModel assigned to Node371
+Branch parameter of Node371 set to :0.00168
+Model NucModel assigned to CY091533
+Branch parameter of CY091533 set to :0.00251
+Model NucModel assigned to Node370
+Branch parameter of Node370 set to :0.00055
+Model NucModel assigned to EU502377
+Branch parameter of EU502377 set to :0.00055
+Model NucModel assigned to EU501992
+Branch parameter of EU501992 set to :0.00103
+Model NucModel assigned to EU501929
+Branch parameter of EU501929 set to :0.00055
+Model NucModel assigned to EU502011
+Branch parameter of EU502011 set to :0.00055
+Model NucModel assigned to EU502014
+Branch parameter of EU502014 set to :0.00206
+Model NucModel assigned to Node389
+Branch parameter of Node389 set to :0.00103
+Model NucModel assigned to EU501964
+Branch parameter of EU501964 set to :0.00311
+Model NucModel assigned to Node388
+Branch parameter of Node388 set to :0.00055
+Model NucModel assigned to AB289675
+Branch parameter of AB289675 set to :0.00055
+Model NucModel assigned to AB289678
+Branch parameter of AB289678 set to :0.00055
+Model NucModel assigned to AB289673
+Branch parameter of AB289673 set to :0.00207
+Model NucModel assigned to Node397
+Branch parameter of Node397 set to :0.00055
+Model NucModel assigned to EU501889
+Branch parameter of EU501889 set to :0.00102
+Model NucModel assigned to EU501921
+Branch parameter of EU501921 set to :0.00055
+Model NucModel assigned to AB289676
+Branch parameter of AB289676 set to :0.00207
+Model NucModel assigned to EU501886
+Branch parameter of EU501886 set to :0.00207
+Model NucModel assigned to Node404
+Branch parameter of Node404 set to :0.00055
+Model NucModel assigned to Node402
+Branch parameter of Node402 set to :0.00055
+Model NucModel assigned to Node400
+Branch parameter of Node400 set to :0.00096
+Model NucModel assigned to Node396
+Branch parameter of Node396 set to :0.00102
+Model NucModel assigned to Node394
+Branch parameter of Node394 set to :0.00055
+Model NucModel assigned to AB289674
+Branch parameter of AB289674 set to :0.00181
+Model NucModel assigned to Node393
+Branch parameter of Node393 set to :0.00078
+Model NucModel assigned to Node387
+Branch parameter of Node387 set to :0.00055
+Model NucModel assigned to Node385
+Branch parameter of Node385 set to :0.00055
+Model NucModel assigned to Node383
+Branch parameter of Node383 set to :0.00103
+Model NucModel assigned to Node381
+Branch parameter of Node381 set to :0.00103
+Model NucModel assigned to EU502171
+Branch parameter of EU502171 set to :0.00103
+Model NucModel assigned to Node380
+Branch parameter of Node380 set to :0.00055
+Model NucModel assigned to EU501725
+Branch parameter of EU501725 set to :0.00055
+Model NucModel assigned to Node379
+Branch parameter of Node379 set to :0.00055
+Model NucModel assigned to EU501976
+Branch parameter of EU501976 set to :0.00207
+Model NucModel assigned to Node378
+Branch parameter of Node378 set to :0.00055
+Model NucModel assigned to EU501922
+Branch parameter of EU501922 set to :0.00055
+Model NucModel assigned to EU501949
+Branch parameter of EU501949 set to :0.00103
+Model NucModel assigned to Node414
+Branch parameter of Node414 set to :0.00055
+Model NucModel assigned to EU501893
+Branch parameter of EU501893 set to :0.00103
+Model NucModel assigned to Node413
+Branch parameter of Node413 set to :0.00055
+Model NucModel assigned to EU502073
+Branch parameter of EU502073 set to :0.00103
+Model NucModel assigned to EU501887
+Branch parameter of EU501887 set to :0.00055
+Model NucModel assigned to Node419
+Branch parameter of Node419 set to :0.00102
+Model NucModel assigned to EU501758
+Branch parameter of EU501758 set to :0.00103
+Model NucModel assigned to Node418
+Branch parameter of Node418 set to :0.00055
+Model NucModel assigned to Node412
+Branch parameter of Node412 set to :0.00055
+Model NucModel assigned to AB434111
+Branch parameter of AB434111 set to :0.00209
+Model NucModel assigned to EU501891
+Branch parameter of EU501891 set to :0.00103
+Model NucModel assigned to Node423
+Branch parameter of Node423 set to :0.00055
+Model NucModel assigned to Node411
+Branch parameter of Node411 set to :0.00104
+Model NucModel assigned to Node377
+Branch parameter of Node377 set to :0.00055
+Model NucModel assigned to EU502012
+Branch parameter of EU502012 set to :0.00103
+Model NucModel assigned to Node376
+Branch parameter of Node376 set to :0.00055
+Model NucModel assigned to EU502324
+Branch parameter of EU502324 set to :0.00311
+Model NucModel assigned to EU502322
+Branch parameter of EU502322 set to :0.00312
+Model NucModel assigned to Node431
+Branch parameter of Node431 set to :0.0018
+Model NucModel assigned to EU502250
+Branch parameter of EU502250 set to :0.00415
+Model NucModel assigned to CY019325
+Branch parameter of CY019325 set to :0.00063
+Model NucModel assigned to CY020093
+Branch parameter of CY020093 set to :0.00063
+Model NucModel assigned to CY020085
+Branch parameter of CY020085 set to :1e-10
+Model NucModel assigned to CY019939
+Branch parameter of CY019939 set to :1e-10
+Model NucModel assigned to CY019835
+Branch parameter of CY019835 set to :1e-10
+Model NucModel assigned to Node443
+Branch parameter of Node443 set to :0.00055
+Model NucModel assigned to Node441
+Branch parameter of Node441 set to :0.00055
+Model NucModel assigned to Node439
+Branch parameter of Node439 set to :0.00092
+Model NucModel assigned to Node437
+Branch parameter of Node437 set to :0.00055
+Model NucModel assigned to EU502133
+Branch parameter of EU502133 set to :0.00055
+Model NucModel assigned to EF473493
+Branch parameter of EF473493 set to :0.00055
+Model NucModel assigned to Node447
+Branch parameter of Node447 set to :0.0009700000000000001
+Model NucModel assigned to Node436
+Branch parameter of Node436 set to :0.00055
+Model NucModel assigned to CY172311
+Branch parameter of CY172311 set to :0.00188
+Model NucModel assigned to Node435
+Branch parameter of Node435 set to :0.0009300000000000001
+Model NucModel assigned to EU502391
+Branch parameter of EU502391 set to :0.00103
+Model NucModel assigned to EU501858
+Branch parameter of EU501858 set to :0.00055
+Model NucModel assigned to Node451
+Branch parameter of Node451 set to :0.00055
+Model NucModel assigned to Node434
+Branch parameter of Node434 set to :0.00078
+Model NucModel assigned to Node430
+Branch parameter of Node430 set to :0.00054
+Model NucModel assigned to EF462555
+Branch parameter of EF462555 set to :0.00395
+Model NucModel assigned to Node429
+Branch parameter of Node429 set to :0.00055
+Model NucModel assigned to EF462552
+Branch parameter of EF462552 set to :0.00102
+Model NucModel assigned to EU501951
+Branch parameter of EU501951 set to :0.00104
+Model NucModel assigned to CY058070
+Branch parameter of CY058070 set to :0.00055
+Model NucModel assigned to CY054271
+Branch parameter of CY054271 set to :0.00055
+Model NucModel assigned to Node461
+Branch parameter of Node461 set to :0.00183
+Model NucModel assigned to Node459
+Branch parameter of Node459 set to :0.00103
+Model NucModel assigned to EU502271
+Branch parameter of EU502271 set to :0.00103
+Model NucModel assigned to EU502194
+Branch parameter of EU502194 set to :0.00103
+Model NucModel assigned to Node464
+Branch parameter of Node464 set to :0.00055
+Model NucModel assigned to Node458
+Branch parameter of Node458 set to :0.00055
+Model NucModel assigned to Node456
+Branch parameter of Node456 set to :0.00055
+Model NucModel assigned to EU502090
+Branch parameter of EU502090 set to :0.00207
+Model NucModel assigned to EF473486
+Branch parameter of EF473486 set to :0.00055
+Model NucModel assigned to EU502242
+Branch parameter of EU502242 set to :0.00055
+Model NucModel assigned to Node470
+Branch parameter of Node470 set to :0.0029
+Model NucModel assigned to Node468
+Branch parameter of Node468 set to :0.00189
+Model NucModel assigned to AB246366
+Branch parameter of AB246366 set to :0.0005
+Model NucModel assigned to EU501980
+Branch parameter of EU501980 set to :0.00203
+Model NucModel assigned to Node473
+Branch parameter of Node473 set to :0.00103
+Model NucModel assigned to Node467
+Branch parameter of Node467 set to :0.00055
+Model NucModel assigned to Node455
+Branch parameter of Node455 set to :0.00055
+Model NucModel assigned to Node428
+Branch parameter of Node428 set to :0.00055
+Model NucModel assigned to CY172479
+Branch parameter of CY172479 set to :1e-10
+Model NucModel assigned to CY013232
+Branch parameter of CY013232 set to :1e-10
+Model NucModel assigned to Node481
+Branch parameter of Node481 set to :0.00055
+Model NucModel assigned to CY172391
+Branch parameter of CY172391 set to :0.00063
+Model NucModel assigned to Node480
+Branch parameter of Node480 set to :0.00055
+Model NucModel assigned to CY172319
+Branch parameter of CY172319 set to :0.00055
+Model NucModel assigned to EU502272
+Branch parameter of EU502272 set to :0.00414
+Model NucModel assigned to Node486
+Branch parameter of Node486 set to :0.00055
+Model NucModel assigned to CY091069
+Branch parameter of CY091069 set to :0.0006400000000000001
+Model NucModel assigned to CY172263
+Branch parameter of CY172263 set to :0.00055
+Model NucModel assigned to Node489
+Branch parameter of Node489 set to :0.00063
+Model NucModel assigned to Node485
+Branch parameter of Node485 set to :0.00055
+Model NucModel assigned to Node479
+Branch parameter of Node479 set to :0.00055
+Model NucModel assigned to CY054274
+Branch parameter of CY054274 set to :0.00103
+Model NucModel assigned to CY172487
+Branch parameter of CY172487 set to :0.00063
+Model NucModel assigned to CY172423
+Branch parameter of CY172423 set to :0.00055
+Model NucModel assigned to CY172351
+Branch parameter of CY172351 set to :0.00055
+Model NucModel assigned to CY172335
+Branch parameter of CY172335 set to :0.00063
+Model NucModel assigned to Node499
+Branch parameter of Node499 set to :0.00063
+Model NucModel assigned to Node497
+Branch parameter of Node497 set to :0.00055
+Model NucModel assigned to Node495
+Branch parameter of Node495 set to :0.00055
+Model NucModel assigned to EU502420
+Branch parameter of EU502420 set to :0.00055
+Model NucModel assigned to Node494
+Branch parameter of Node494 set to :0.00055
+Model NucModel assigned to Node492
+Branch parameter of Node492 set to :0.00055
+Model NucModel assigned to Node478
+Branch parameter of Node478 set to :0.00055
+Model NucModel assigned to EU502312
+Branch parameter of EU502312 set to :0.00103
+Model NucModel assigned to Node477
+Branch parameter of Node477 set to :0.00055
+Model NucModel assigned to CY014159
+Branch parameter of CY014159 set to :0.00125
+Model NucModel assigned to CY019859
+Branch parameter of CY019859 set to :1e-10
+Model NucModel assigned to CY020117
+Branch parameter of CY020117 set to :1e-10
+Model NucModel assigned to CY020125
+Branch parameter of CY020125 set to :1e-10
+Model NucModel assigned to Node507
+Branch parameter of Node507 set to :0.00055
+Model NucModel assigned to CY020365
+Branch parameter of CY020365 set to :0.00055
+Model NucModel assigned to CY020133
+Branch parameter of CY020133 set to :0.00055
+Model NucModel assigned to Node511
+Branch parameter of Node511 set to :0.00055
+Model NucModel assigned to Node506
+Branch parameter of Node506 set to :0.00055
+Model NucModel assigned to Node504
+Branch parameter of Node504 set to :0.00141
+Model NucModel assigned to Node476
+Branch parameter of Node476 set to :0.00063
+Model NucModel assigned to Node427
+Branch parameter of Node427 set to :0.00055
+Model NucModel assigned to Node375
+Branch parameter of Node375 set to :0.00055
+Model NucModel assigned to Node369
+Branch parameter of Node369 set to :0.00055
+Model NucModel assigned to EU502096
+Branch parameter of EU502096 set to :0.00102
+Model NucModel assigned to CY012792
+Branch parameter of CY012792 set to :0.00131
+Model NucModel assigned to Node517
+Branch parameter of Node517 set to :0.00055
+Model NucModel assigned to EU501997
+Branch parameter of EU501997 set to :0.00073
+Model NucModel assigned to EU502026
+Branch parameter of EU502026 set to :0.0009300000000000001
+Model NucModel assigned to Node520
+Branch parameter of Node520 set to :0.00054
+Model NucModel assigned to Node516
+Branch parameter of Node516 set to :0.00055
+Model NucModel assigned to EU502421
+Branch parameter of EU502421 set to :0.00103
+Model NucModel assigned to EU199252
+Branch parameter of EU199252 set to :0.00055
+Model NucModel assigned to EU502434
+Branch parameter of EU502434 set to :0.00055
+Model NucModel assigned to Node526
+Branch parameter of Node526 set to :0.00111
+Model NucModel assigned to Node524
+Branch parameter of Node524 set to :0.00212
+Model NucModel assigned to EU502040
+Branch parameter of EU502040 set to :0.00196
+Model NucModel assigned to EU501914
+Branch parameter of EU501914 set to :0.00055
+Model NucModel assigned to EU501912
+Branch parameter of EU501912 set to :0.00055
+Model NucModel assigned to EU501911
+Branch parameter of EU501911 set to :0.00102
+Model NucModel assigned to Node536
+Branch parameter of Node536 set to :0.00103
+Model NucModel assigned to EU502048
+Branch parameter of EU502048 set to :0.00206
+Model NucModel assigned to EU502005
+Branch parameter of EU502005 set to :0.00103
+Model NucModel assigned to Node540
+Branch parameter of Node540 set to :0.00055
+Model NucModel assigned to EU502017
+Branch parameter of EU502017 set to :0.00103
+Model NucModel assigned to Node539
+Branch parameter of Node539 set to :0.00055
+Model NucModel assigned to Node535
+Branch parameter of Node535 set to :0.00055
+Model NucModel assigned to EU501962
+Branch parameter of EU501962 set to :0.00206
+Model NucModel assigned to EU501860
+Branch parameter of EU501860 set to :0.00103
+Model NucModel assigned to Node545
+Branch parameter of Node545 set to :0.00055
+Model NucModel assigned to EU501913
+Branch parameter of EU501913 set to :0.00102
+Model NucModel assigned to Node544
+Branch parameter of Node544 set to :0.00055
+Model NucModel assigned to Node534
+Branch parameter of Node534 set to :0.00055
+Model NucModel assigned to Node532
+Branch parameter of Node532 set to :0.00055
+Model NucModel assigned to EU502098
+Branch parameter of EU502098 set to :0.00055
+Model NucModel assigned to EU502386
+Branch parameter of EU502386 set to :0.0031
+Model NucModel assigned to Node549
+Branch parameter of Node549 set to :0.00103
+Model NucModel assigned to Node531
+Branch parameter of Node531 set to :0.00054
+Model NucModel assigned to Node529
+Branch parameter of Node529 set to :0.00103
+Model NucModel assigned to Node523
+Branch parameter of Node523 set to :0.00055
+Model NucModel assigned to Node515
+Branch parameter of Node515 set to :0.00055
+Model NucModel assigned to EU502376
+Branch parameter of EU502376 set to :0.00103
+Model NucModel assigned to CY172463
+Branch parameter of CY172463 set to :0.00404
+Model NucModel assigned to Node553
+Branch parameter of Node553 set to :0.00101
+Model NucModel assigned to EF473460
+Branch parameter of EF473460 set to :0.00095
+Model NucModel assigned to EU502075
+Branch parameter of EU502075 set to :0.00055
+Model NucModel assigned to Node557
+Branch parameter of Node557 set to :0.00095
+Model NucModel assigned to CY091085
+Branch parameter of CY091085 set to :0.00055
+Model NucModel assigned to EU502251
+Branch parameter of EU502251 set to :0.00055
+Model NucModel assigned to EU501966
+Branch parameter of EU501966 set to :0.00055
+Model NucModel assigned to EF473496
+Branch parameter of EF473496 set to :0.00055
+Model NucModel assigned to Node570
+Branch parameter of Node570 set to :0.00094
+Model NucModel assigned to Node568
+Branch parameter of Node568 set to :0.00055
+Model NucModel assigned to Node566
+Branch parameter of Node566 set to :0.0024
+Model NucModel assigned to EU502185
+Branch parameter of EU502185 set to :0.00052
+Model NucModel assigned to CY054272
+Branch parameter of CY054272 set to :0.00055
+Model NucModel assigned to Node576
+Branch parameter of Node576 set to :0.00051
+Model NucModel assigned to CY172303
+Branch parameter of CY172303 set to :0.00055
+Model NucModel assigned to CY172415
+Branch parameter of CY172415 set to :0.00188
+Model NucModel assigned to Node579
+Branch parameter of Node579 set to :0.00055
+Model NucModel assigned to Node575
+Branch parameter of Node575 set to :0.00055
+Model NucModel assigned to EU501905
+Branch parameter of EU501905 set to :0.00116
+Model NucModel assigned to CY058071
+Branch parameter of CY058071 set to :0.00055
+Model NucModel assigned to Node582
+Branch parameter of Node582 set to :0.00091
+Model NucModel assigned to Node574
+Branch parameter of Node574 set to :0.00055
+Model NucModel assigned to CY172383
+Branch parameter of CY172383 set to :0.00063
+Model NucModel assigned to CY172455
+Branch parameter of CY172455 set to :0.0006400000000000001
+Model NucModel assigned to CY172503
+Branch parameter of CY172503 set to :0.00126
+Model NucModel assigned to Node587
+Branch parameter of Node587 set to :0.00055
+Model NucModel assigned to Node585
+Branch parameter of Node585 set to :0.00055
+Model NucModel assigned to Node573
+Branch parameter of Node573 set to :0.0006400000000000001
+Model NucModel assigned to Node565
+Branch parameter of Node565 set to :0.00055
+Model NucModel assigned to EU502519
+Branch parameter of EU502519 set to :0.00207
+Model NucModel assigned to EU501986
+Branch parameter of EU501986 set to :0.00103
+Model NucModel assigned to Node590
+Branch parameter of Node590 set to :0.00055
+Model NucModel assigned to Node564
+Branch parameter of Node564 set to :0.00055
+Model NucModel assigned to EU502516
+Branch parameter of EU502516 set to :0.00055
+Model NucModel assigned to EU502226
+Branch parameter of EU502226 set to :0.00207
+Model NucModel assigned to EU502277
+Branch parameter of EU502277 set to :0.00207
+Model NucModel assigned to Node595
+Branch parameter of Node595 set to :0.00055
+Model NucModel assigned to Node593
+Branch parameter of Node593 set to :0.00055
+Model NucModel assigned to Node563
+Branch parameter of Node563 set to :0.00053
+Model NucModel assigned to CY091077
+Branch parameter of CY091077 set to :0.00126
+Model NucModel assigned to Node562
+Branch parameter of Node562 set to :0.00055
+Model NucModel assigned to CY172215
+Branch parameter of CY172215 set to :0.00127
+Model NucModel assigned to CY019851
+Branch parameter of CY019851 set to :0.00055
+Model NucModel assigned to CY019843
+Branch parameter of CY019843 set to :0.00055
+Model NucModel assigned to Node602
+Branch parameter of Node602 set to :0.00055
+Model NucModel assigned to CY020109
+Branch parameter of CY020109 set to :1e-10
+Model NucModel assigned to CY019333
+Branch parameter of CY019333 set to :1e-10
+Model NucModel assigned to CY020101
+Branch parameter of CY020101 set to :1e-10
+Model NucModel assigned to Node606
+Branch parameter of Node606 set to :0.00055
+Model NucModel assigned to CY172447
+Branch parameter of CY172447 set to :0.0006400000000000001
+Model NucModel assigned to Node605
+Branch parameter of Node605 set to :0.00055
+Model NucModel assigned to Node601
+Branch parameter of Node601 set to :0.00126
+Model NucModel assigned to Node599
+Branch parameter of Node599 set to :0.00055
+Model NucModel assigned to Node561
+Branch parameter of Node561 set to :0.0006400000000000001
+Model NucModel assigned to CY172343
+Branch parameter of CY172343 set to :0.00189
+Model NucModel assigned to EU502331
+Branch parameter of EU502331 set to :0.00207
+Model NucModel assigned to Node611
+Branch parameter of Node611 set to :0.00063
+Model NucModel assigned to Node560
+Branch parameter of Node560 set to :0.00103
+Model NucModel assigned to Node556
+Branch parameter of Node556 set to :0.00055
+Model NucModel assigned to Node552
+Branch parameter of Node552 set to :0.00125
+Model NucModel assigned to Node514
+Branch parameter of Node514 set to :0.00055
+Model NucModel assigned to Node368
+Branch parameter of Node368 set to :0.00055
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+The tips of the tree:givenTree were matched with the species names from the data as follows {295,20,262,38,95,206,302,90,263,274,57,123,284,290,292,204,252,273,79,32,62,253,43,175,218,29,251,136,227,166,171,272,297,189,13,207,71,200,243,246,247,244,18,69,209,137,240,168,173,261,141,219,144,98,1,132,233,73,163,198,146,305,77,111,81,0,116,291,120,239,188,164,202,7,97,22,82,100,94,52,11,68,42,118,145,86,296,298,23,117,277,64,183,93,14,83,30,129,153,158,155,159,35,72,214,193,275,15,151,80,179,181,229,250,6,212,236,191,152,162,211,192,208,5,286,157,63,53,103,65,8,182,47,113,74,91,278,259,112,186,49,169,31,293,67,75,128,245,269,150,294,61,130,33,264,142,89,283,196,44,285,104,140,235,303,148,17,280,56,76,276,121,114,203,213,3,2,143,225,70,28,300,180,270,288,26,287,108,105,58,40,184,187,10,51,102,107,176,156,133,177,170,41,226,289,24,257,172,87,178,234,55,223,258,160,161,221,199,281,4,96,222,201,279,256,185,241,195,217,299,126,268,36,19,99,238,242,115,139,216,260,125,228,37,215,224,271,50,138,21,101,266,119,220,84,131,205,88,309,124,109,48,304,265,134,232,66,39,45,308,60,237,25,9,248,46,110,147,106,174,54,92,149,194,12,210,231,267,230,135,78,127,154,301,16,307,282,306,249,34,255,27,122,190,85,165,167,254,59,197}
+HyPhy killed by signal 2

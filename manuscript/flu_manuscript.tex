@@ -1,76 +1,153 @@
-\documentclass[12pt]{article}
+\documentclass[10pt]{article}
 
-\usepackage[margin=2.5cm]{geometry}
-\usepackage{graphicx}
-\usepackage{natbib}
-\usepackage{lineno}
-\usepackage{color}
-
-\usepackage{times}
-
+% amsmath package, useful for mathematical formulas
 \usepackage{amsmath}
+% amssymb package, useful for mathematical symbols
+\usepackage{amssymb}
 
-\renewcommand{\bottomfraction}{.9}
-\renewcommand{\topfraction}{.9}
-\renewcommand{\textfraction}{0.1}
-\renewcommand{\floatpagefraction}{.9}
+% cite package, to clean up citations in the main text. Do not remove.
+\usepackage{cite}
 
-\linespread{1.5}
-\begin{document}
+\usepackage{hyperref}
 
-\title{\textbf{Analyzing Machupo virus-receptor binding by molecular dynamics simulations}}
-\author{Austin G. Meyer$^{1,2,3*}$ and Claus O. Wilke$^{1}$}
+% line numbers
+\usepackage{lineno}
+
+% ligatures disabled
+\usepackage{microtype}
+\DisableLigatures[f]{encoding = *, family = * }
+
+% rotating package for sideways tables
+%\usepackage{rotating}
+
+% If you wish to include algorithms, please use one of the packages below. Also, please see the algorithm section of our LaTeX guidelines (http://www.plosone.org/static/latexGuidelines) for important information about required formatting.
+%\usepackage{algorithmic}
+%\usepackage{algorithmicx}
+
+% Use doublespacing - comment out for single spacing
+%\usepackage{setspace} 
+%\doublespacing
+
+
+% Text layout
+\topmargin 0.0cm
+\oddsidemargin 0.5cm
+\evensidemargin 0.5cm
+\textwidth 16cm 
+\textheight 21cm
+
+% Bold the 'Figure #' in the caption and separate it with a period
+% Captions will be left justified
+\usepackage[labelfont=bf,labelsep=period,justification=raggedright]{caption}
+
+% Use the PLoS provided BiBTeX style
+\bibliographystyle{plos2009}
+
+% Remove brackets from numbering in List of References
+\makeatletter
+\renewcommand{\@biblabel}[1]{\quad#1.}
+\makeatother
+
+
+% Leave date blank
 \date{}
 
-\maketitle
-\noindent
-Address:\\
-$^1$Department of Integrative Biology, Institute for Cellular and Molecular
-Biology, and Center for\\Computational Biology and Bioinformatics. The University
-of Texas at Austin, Austin, TX 78712, USA.\\
-$^2$Department of Molecular Biosciences, Institute for Cellular and Molecular 
-Biology, The University of Texas at Austin, Austin, TX 78712, USA.\\
-$^3$School of Medicine, Texas Tech University Health Sciences Center, 
-Lubbock, TX 79430, USA.\\
+\pagestyle{myheadings}
 
-\bigskip
-\noindent
-$^*$Corresponding author\\
-$\phantom{^*}$Email: austin.meyer@utexas.edu\\
-$\phantom{^*}$Phone: +1 512 971 0123\\
-
-\bigskip
-\noindent
-Manuscript type: review article
-
-\bigskip
-\noindent Keywords: hemagglutinin, flu, protein evolution, virus
-
-\linenumbers
-
-\newpage
-\begin{abstract}
-Abstract goes here.
-\end{abstract}
-
-\newpage
-\section{Introduction}
-Introduction goes here.
-
-\section{Evolutionary epitopes}
-
-\section{Experimental epitopes}
+\begin{document}
 
 
-\section{Combining approaches}
+% Title must be 150 characters or less
+\begin{flushleft}
+{\Large
+\textbf{Identifying sites under selection in influenza hemagglutinin}
+}
+% Insert Author names, affiliations and corresponding author email.
+\\
+Austin G. Meyer$^{1,2,3, \ast}$, 
+Claus O. Wilke$^{1,2}$
+\\
+\bf{1} Department of Integrative Biology, Institute for Cellular and Molecular Biology, and Center for Computational Biology and Bioinformatics. The University of Texas at Austin, Austin, TX 78712, USA.
+\\
+\bf{2} Department of Molecular Biosciences, Institute for Cellular and Molecular Biology, The University of Texas at Austin, Austin, TX 78712, USA.
+\\
+\bf{3} School of Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+\\
+$\ast$ E-mail: austin.meyer@utexas.edu
+\end{flushleft}
 
-\section{Future directions}
+% Please keep the abstract between 250 and 300 words
+\section*{Abstract}
+
+% Please keep the Author Summary between 150 and 200 words
+% Use first person. PLOS ONE authors please skip this step. 
+% Author Summary not valid for PLOS ONE submissions.   
+\section*{Author Summary}
 
 
-\section{Acknowledgments}
-Acknowledgments
 
-\bibliographystyle{plos2009}
-\bibliography{bibliography}
+\section*{Introduction}
+
+\cite{Smithetal2009}
+
+
+% You may title this section "Methods" or "Models". 
+% "Models" is not a valid title for PLoS ONE authors. However, PLoS ONE
+% authors may use "Analysis" 
+\section*{Materials and Methods}
+
+% Results and Discussion can be combined.
+\section*{Results}
+
+% We only support three levels of headings, please do not create a heading level below \subsubsection.
+\subsection*{Subsection 1}
+
+\subsubsection*{SubSubsection 1.1}
+
+\subsection*{Subsection 2}
+
+\section*{Discussion}
+
+
+
+% Do NOT remove this, even if you are not including acknowledgments.
+
+\section*{Acknowledgments}
+
+
+\section*{References}
+
+\bibliography{flu_manuscript}
+
+\section*{Figure Legends}
+% This section is for figure legends only, do not include
+% graphics in your manuscript file.
+%
+%\begin{figure}
+%\caption{
+%{\bf Bold the first sentence.}  Rest of figure caption.  
+%}
+%\label{Figure_label}
+%\end{figure}
+
+
+\section*{Tables}
+% 
+% See introductory notes if you wish to include sideways tables.
+%
+% NOTE: Please look over our table guidelines at http://www.plosone.org/static/figureGuidelines#tables to make sure that your tables meet our requirements. Certain types of spacing, cell merging, and other formatting tricks may have unintended results and will be returned for revision.
+%
+%\begin{table}[!ht]
+%\caption{
+%\bf{Table title}}
+%\begin{tabular}{|c|c|c|}
+%table information
+%\end{tabular}
+%\begin{flushleft}Table caption
+%\end{flushleft}
+%\label{tab:label}
+% \end{table}
+
 
 \end{document}
+
