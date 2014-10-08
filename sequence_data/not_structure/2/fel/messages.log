@@ -13,7 +13,8 @@ Variable 'p23' was not initialized prior to being used
 Variable 'p31' was not initialized prior to being used
 Variable 'p32' was not initialized prior to being used
 Variable 'p33' was not initialized prior to being used
-Set GUI update interval to every 2100-th LF evaluation.
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 3937-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -31,7 +32,7 @@ p31 = 0.290736049069938
 p32 = 0.3623011303550866
 p33 = 0.4133991745283019
 Optimization finished in 5 loop passes.
-271 likelihood evaluation calls and 0 matrix exponentiations calls were made
+274 likelihood evaluation calls and 0 matrix exponentiations calls were made
 
 Variable 'ModelMatrixDimension' was not initialized prior to being used
 Variable '_WRAP_PASSTHROUGH_FLAG_' was not initialized prior to being used
@@ -444,106 +445,107 @@ The tips of the tree:givenTree were matched with the species names from the data
 Pseudo-optimal path's cost 2616 vs 7845 for 1..k=> a 2.99885 x improvement
 Partition  reversible model flag computed as 1
 Variable 'nucLF' was not initialized prior to being used
-Set GUI update interval to every 615-th LF evaluation.
-Initial guess for givenTree.Node2.t is 1.894784337764482e-05
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 910-th LF evaluation.
+Initial guess for givenTree.Node2.t is 1.894784337764478e-05
 Initial guess for givenTree.Node3.t is 0.0003765606925660126
 Initial guess for givenTree.Node4.t is 1.66596006351574e-05
 Initial guess for givenTree.Node5.t is -8.631617729770313e-07
 Initial guess for givenTree.Node6.t is -1.213096308975425e-05
 Initial guess for givenTree.Node7.t is -7.600859436862311e-06
-Initial guess for givenTree.CY013717.t is 0.0004157185353925096
-Initial guess for givenTree.CY012120.t is 0.0007635507147198417
+Initial guess for givenTree.CY013717.t is 0.000415718535392509
+Initial guess for givenTree.CY012120.t is 0.0007635507147198412
 Initial guess for givenTree.Node10.t is 4.625090268723701e-06
 Initial guess for givenTree.Node11.t is -5.973621981557655e-06
 Initial guess for givenTree.Node12.t is 0.0003756140231974336
-Initial guess for givenTree.CY012744.t is 0.0003585169905240382
-Initial guess for givenTree.CY013677.t is 3.425991379079168e-05
-Initial guess for givenTree.CY013613.t is 0.0004105653938392595
+Initial guess for givenTree.CY012744.t is 0.0003585169905240357
+Initial guess for givenTree.CY013677.t is 3.425991379079312e-05
+Initial guess for givenTree.CY013613.t is 0.0004105653938392591
 Initial guess for givenTree.Node16.t is 1.159027276704691e-05
-Initial guess for givenTree.CY013629.t is -1.87584199788247e-17
-Initial guess for givenTree.CY013621.t is -1.759421880323706e-17
-Initial guess for givenTree.CY013184.t is -1.780007755492536e-17
-Initial guess for givenTree.CY013773.t is -1.822886021901997e-17
-Initial guess for givenTree.CY012176.t is -2.007404608980738e-17
-Initial guess for givenTree.CY013781.t is 0.0004005663021696059
-Initial guess for givenTree.CY012752.t is 0.0004000416352095608
-Initial guess for givenTree.CY013605.t is 0.001169159956578478
+Initial guess for givenTree.CY013629.t is -1.800095408894342e-17
+Initial guess for givenTree.CY013621.t is -1.753850563413244e-17
+Initial guess for givenTree.CY013184.t is -1.773320187218926e-17
+Initial guess for givenTree.CY013773.t is -1.782749081970209e-17
+Initial guess for givenTree.CY012176.t is -2.001828485066902e-17
+Initial guess for givenTree.CY013781.t is 0.0004005663021696047
+Initial guess for givenTree.CY012752.t is 0.00040004163520956
+Initial guess for givenTree.CY013605.t is 0.001169159956578477
 Initial guess for givenTree.Node25.t is 7.878857075112072e-06
-Initial guess for givenTree.CY012760.t is 0.0007864928446225806
-Initial guess for givenTree.CY013200.t is 0.0007864928446225807
-Initial guess for givenTree.CY012152.t is 0.0003540442455994097
-Initial guess for givenTree.Node29.t is 2.274135264720216e-05
-Initial guess for givenTree.Node30.t is -8.583089479123949e-06
-Initial guess for givenTree.CY013693.t is 0.0004194096442026075
-Initial guess for givenTree.Node32.t is 5.305875777796566e-06
-Initial guess for givenTree.CY112605.t is 0.001138790595273649
+Initial guess for givenTree.CY012760.t is 0.0007864928446225803
+Initial guess for givenTree.CY013200.t is 0.0007864928446225803
+Initial guess for givenTree.CY012152.t is 0.0003540442455994087
+Initial guess for givenTree.Node29.t is 2.274135264720202e-05
+Initial guess for givenTree.Node30.t is -8.583089479123877e-06
+Initial guess for givenTree.CY013693.t is 0.0004194096442026079
+Initial guess for givenTree.Node32.t is 5.305875777796558e-06
+Initial guess for givenTree.CY112605.t is 0.001138790595273648
 Initial guess for givenTree.Node34.t is 0.0007424389897039036
-Initial guess for givenTree.CY014143.t is 0.0003773084839129569
+Initial guess for givenTree.CY014143.t is 0.0003773084839129566
 Initial guess for givenTree.Node36.t is -0.0001493219543419813
-Initial guess for givenTree.Node37.t is 0.0001224699949624869
-Initial guess for givenTree.Node38.t is 9.017166308251698e-05
-Initial guess for givenTree.Node39.t is -2.181139397648819e-06
-Initial guess for givenTree.Node40.t is 2.328367824899043e-06
-Initial guess for givenTree.CY012768.t is -3.94598466505315e-18
-Initial guess for givenTree.CY012160.t is -1.062161251725925e-18
-Initial guess for givenTree.CY013653.t is -1.783656908043661e-18
-Initial guess for givenTree.Node44.t is -5.312116150439462e-07
-Initial guess for givenTree.Node45.t is 6.426113793052448e-06
-Initial guess for givenTree.CY012784.t is 0.0003917877863199974
-Initial guess for givenTree.CY013669.t is 0.0007874814637925142
-Initial guess for givenTree.Node48.t is -1.912434860124421e-06
-Initial guess for givenTree.CY012168.t is 0.0007953430156467323
-Initial guess for givenTree.Node50.t is 0.0003766132816503081
-Initial guess for givenTree.Node51.t is 2.263460351469242e-05
-Initial guess for givenTree.CY013725.t is 3.436156735124356e-17
-Initial guess for givenTree.CY013765.t is 3.525159172920318e-17
-Initial guess for givenTree.CY013637.t is -2.26346035147737e-05
-Initial guess for givenTree.CY013685.t is 0.0003960379828048042
-Initial guess for givenTree.Node56.t is -3.816163030091609e-05
+Initial guess for givenTree.Node37.t is 0.0001224699949624867
+Initial guess for givenTree.Node38.t is 9.017166308251774e-05
+Initial guess for givenTree.Node39.t is -2.181139397649434e-06
+Initial guess for givenTree.Node40.t is 2.328367824899032e-06
+Initial guess for givenTree.CY012768.t is -3.487669165712699e-18
+Initial guess for givenTree.CY012160.t is -7.714644880956722e-19
+Initial guess for givenTree.CY013653.t is -1.873119323494127e-18
+Initial guess for givenTree.Node44.t is -5.312116150439832e-07
+Initial guess for givenTree.Node45.t is 6.426113793052477e-06
+Initial guess for givenTree.CY012784.t is 0.000391787786319997
+Initial guess for givenTree.CY013669.t is 0.0007874814637925136
+Initial guess for givenTree.Node48.t is -1.91243486012446e-06
+Initial guess for givenTree.CY012168.t is 0.0007953430156467327
+Initial guess for givenTree.Node50.t is 0.0003766132816503084
+Initial guess for givenTree.Node51.t is 2.263460351469226e-05
+Initial guess for givenTree.CY013725.t is 3.357261099291017e-17
+Initial guess for givenTree.CY013765.t is 3.538030844769369e-17
+Initial guess for givenTree.CY013637.t is -2.263460351477375e-05
+Initial guess for givenTree.CY013685.t is 0.0003960379828048046
+Initial guess for givenTree.Node56.t is -3.816163030091599e-05
 Initial guess for givenTree.CY013208.t is 0.00127974876923196
-Initial guess for givenTree.Node58.t is 0.0002942279727440452
-Initial guess for givenTree.CY016483.t is 0.0003935553166923487
+Initial guess for givenTree.Node58.t is 0.0002942279727440451
+Initial guess for givenTree.CY016483.t is 0.0003935553166923489
 Initial guess for givenTree.Node60.t is -6.220725545089727e-07
-Initial guess for givenTree.CY014151.t is 0.0003941529942447191
-Initial guess for givenTree.CY012136.t is -1.376089929714703e-06
+Initial guess for givenTree.CY014151.t is 0.0003941529942447194
+Initial guess for givenTree.CY012136.t is -1.376089929713667e-06
 Initial guess for givenTree.CY012184.t is 0.001414287090037969
-Initial guess for givenTree.Node64.t is 0.0001438443961144612
+Initial guess for givenTree.Node64.t is 0.0001438443961144611
 Initial guess for givenTree.Node65.t is 0.001022268321020863
-Initial guess for givenTree.CY012728.t is 2.558224541011027e-05
-Initial guess for givenTree.CY013701.t is 0.00036719465890462
+Initial guess for givenTree.CY012728.t is 2.558224541010943e-05
+Initial guess for givenTree.CY013701.t is 0.0003671946589046198
 Initial guess for givenTree.Node68.t is 0.0009630535077709341
 Initial guess for givenTree.CY113981.t is 0.001672585201804929
 Initial guess for givenTree.Node70.t is -0.0001295725060545845
-Initial guess for givenTree.Node71.t is 0.0004096310953295032
+Initial guess for givenTree.Node71.t is 0.0004096310953295034
 Initial guess for givenTree.Node72.t is 0.0005006068945994518
-Initial guess for givenTree.Node73.t is 0.000776948635409865
-Initial guess for givenTree.CY013168.t is 0.001155821927636577
-Initial guess for givenTree.Node75.t is 0.000419677196906439
-Initial guess for givenTree.CY012144.t is 0.0003873967706776397
-Initial guess for givenTree.CY012736.t is 0.001579619535613157
+Initial guess for givenTree.Node73.t is 0.0007769486354098743
+Initial guess for givenTree.CY013168.t is 0.001155821927636568
+Initial guess for givenTree.Node75.t is 0.0004196771969064107
+Initial guess for givenTree.CY012144.t is 0.0003873967706776586
+Initial guess for givenTree.CY012736.t is 0.001579619535613176
 Initial guess for givenTree.Node78.t is 0.0004074863914528652
-Initial guess for givenTree.CY114045.t is 0.004746590429819615
-Initial guess for givenTree.CY113909.t is -1.252051801090661e-05
+Initial guess for givenTree.CY114045.t is 0.004746590429819617
+Initial guess for givenTree.CY113909.t is -1.252051801090698e-05
 Initial guess for givenTree.Node81.t is 0.000288746657194343
 Initial guess for givenTree.Node82.t is 0.0006203181610822222
-Initial guess for givenTree.CY012128.t is 0.002224223963983771
+Initial guess for givenTree.CY012128.t is 0.002224223963983772
 Initial guess for givenTree.Node84.t is 0.0005347858395003236
-Initial guess for givenTree.CY112581.t is 0.0008145816014173198
-Initial guess for givenTree.CY112589.t is 0.0003646876486946564
+Initial guess for givenTree.CY112581.t is 0.0008145816014173195
+Initial guess for givenTree.CY112589.t is 0.000364687648694657
 Initial guess for givenTree.Node87.t is 0.01068206760552324
 Initial guess for givenTree.CY114061.t is 0.00118033087606586
 Initial guess for givenTree.Node89.t is 0.003159499965374518
-Initial guess for givenTree.CY113941.t is 0.0003953245593920308
+Initial guess for givenTree.CY113941.t is 0.0003953245593920305
 Initial guess for givenTree.Node91.t is -2.54765507692449e-06
-Initial guess for givenTree.CY113917.t is -2.708982325087906e-16
-Initial guess for givenTree.CY113933.t is -2.736254245395486e-16
-Initial guess for givenTree.Node94.t is 0.0002391673807097018
-Initial guess for givenTree.Node95.t is 0.002314967994239276
-Initial guess for givenTree.CY114053.t is 0.0003662960582744937
-Initial guess for givenTree.CY112597.t is 2.671239185831019e-05
-Initial guess for givenTree.Node98.t is 0.001536646946433557
-Initial guess for givenTree.CY013192.t is 0.0008097073127351805
-Initial guess for givenTree.CY013733.t is 0.0007632783765098185
+Initial guess for givenTree.CY113917.t is -2.710721981874882e-16
+Initial guess for givenTree.CY113933.t is -2.73816245076004e-16
+Initial guess for givenTree.Node94.t is 0.0002391673807096994
+Initial guess for givenTree.Node95.t is 0.002314967994239288
+Initial guess for givenTree.CY114053.t is 0.0003662960582744836
+Initial guess for givenTree.CY112597.t is 2.671239185830153e-05
+Initial guess for givenTree.Node98.t is 0.001536646946433558
+Initial guess for givenTree.CY013192.t is 0.0008097073127351807
+Initial guess for givenTree.CY013733.t is 0.0007632783765098182
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -552,13 +554,13 @@ Optimization settings:
 Initial parameter values
 
 AC = 1
-givenTree.CY013717.t = 0.0004157185353925096
-givenTree.CY012120.t = 0.0007635507147198417
+givenTree.CY013717.t = 0.000415718535392509
+givenTree.CY012120.t = 0.0007635507147198412
 givenTree.Node7.t = 0.00055
-givenTree.CY012744.t = 0.0003585169905240382
-givenTree.CY013677.t = 3.425991379079168e-05
+givenTree.CY012744.t = 0.0003585169905240357
+givenTree.CY013677.t = 3.425991379079312e-05
 givenTree.Node12.t = 0.0003756140231974336
-givenTree.CY013613.t = 0.0004105653938392595
+givenTree.CY013613.t = 0.0004105653938392591
 givenTree.Node11.t = 0.00055
 givenTree.CY013629.t = 1e-10
 givenTree.CY013621.t = 1e-10
@@ -568,91 +570,91 @@ givenTree.CY012176.t = 1e-10
 givenTree.Node16.t = 1.159027276704691e-05
 givenTree.Node10.t = 4.625090268723701e-06
 givenTree.Node6.t = 0.00055
-givenTree.CY013781.t = 0.0004005663021696059
+givenTree.CY013781.t = 0.0004005663021696047
 givenTree.Node5.t = 0.00055
-givenTree.CY012752.t = 0.0004000416352095608
+givenTree.CY012752.t = 0.00040004163520956
 givenTree.Node4.t = 1.66596006351574e-05
-givenTree.CY013605.t = 0.001169159956578478
+givenTree.CY013605.t = 0.001169159956578477
 givenTree.Node3.t = 0.0003765606925660126
-givenTree.CY012760.t = 0.0007864928446225806
-givenTree.CY013200.t = 0.0007864928446225807
+givenTree.CY012760.t = 0.0007864928446225803
+givenTree.CY013200.t = 0.0007864928446225803
 givenTree.Node25.t = 7.878857075112072e-06
-givenTree.Node2.t = 1.894784337764482e-05
-givenTree.CY012152.t = 0.0003540442455994097
-givenTree.CY013693.t = 0.0004194096442026075
-givenTree.CY112605.t = 0.001138790595273649
-givenTree.CY014143.t = 0.0003773084839129569
+givenTree.Node2.t = 1.894784337764478e-05
+givenTree.CY012152.t = 0.0003540442455994087
+givenTree.CY013693.t = 0.0004194096442026079
+givenTree.CY112605.t = 0.001138790595273648
+givenTree.CY014143.t = 0.0003773084839129566
 givenTree.CY012768.t = 1e-10
 givenTree.CY012160.t = 1e-10
 givenTree.CY013653.t = 1e-10
-givenTree.Node40.t = 2.328367824899043e-06
-givenTree.CY012784.t = 0.0003917877863199974
-givenTree.CY013669.t = 0.0007874814637925142
-givenTree.Node45.t = 6.426113793052448e-06
-givenTree.CY012168.t = 0.0007953430156467323
-givenTree.CY013725.t = 3.436156735124356e-17
-givenTree.CY013765.t = 3.525159172920318e-17
-givenTree.Node51.t = 2.263460351469242e-05
+givenTree.Node40.t = 2.328367824899032e-06
+givenTree.CY012784.t = 0.000391787786319997
+givenTree.CY013669.t = 0.0007874814637925136
+givenTree.Node45.t = 6.426113793052477e-06
+givenTree.CY012168.t = 0.0007953430156467327
+givenTree.CY013725.t = 3.357261099291017e-17
+givenTree.CY013765.t = 3.538030844769369e-17
+givenTree.Node51.t = 2.263460351469226e-05
 givenTree.CY013637.t = 0.00055
-givenTree.Node50.t = 0.0003766132816503081
+givenTree.Node50.t = 0.0003766132816503084
 givenTree.Node48.t = 0.00055
 givenTree.Node44.t = 0.00055
 givenTree.Node39.t = 0.00055
-givenTree.CY013685.t = 0.0003960379828048042
-givenTree.Node38.t = 9.017166308251698e-05
+givenTree.CY013685.t = 0.0003960379828048046
+givenTree.Node38.t = 9.017166308251774e-05
 givenTree.CY013208.t = 0.00127974876923196
-givenTree.CY016483.t = 0.0003935553166923487
-givenTree.CY014151.t = 0.0003941529942447191
+givenTree.CY016483.t = 0.0003935553166923489
+givenTree.CY014151.t = 0.0003941529942447194
 givenTree.CY012136.t = 0.00055
 givenTree.Node60.t = 0.00055
-givenTree.Node58.t = 0.0002942279727440452
+givenTree.Node58.t = 0.0002942279727440451
 givenTree.Node56.t = 0.00055
-givenTree.Node37.t = 0.0001224699949624869
+givenTree.Node37.t = 0.0001224699949624867
 givenTree.CY012184.t = 0.001414287090037969
 givenTree.Node36.t = 0.00055
 givenTree.Node34.t = 0.0007424389897039036
-givenTree.Node32.t = 5.305875777796566e-06
+givenTree.Node32.t = 5.305875777796558e-06
 givenTree.Node30.t = 0.00055
-givenTree.CY012728.t = 2.558224541011027e-05
-givenTree.CY013701.t = 0.00036719465890462
+givenTree.CY012728.t = 2.558224541010943e-05
+givenTree.CY013701.t = 0.0003671946589046198
 givenTree.Node65.t = 0.001022268321020863
 givenTree.CY113981.t = 0.001672585201804929
-givenTree.CY013168.t = 0.001155821927636577
-givenTree.CY012144.t = 0.0003873967706776397
-givenTree.CY012736.t = 0.001579619535613157
-givenTree.Node75.t = 0.000419677196906439
-givenTree.Node73.t = 0.000776948635409865
-givenTree.CY114045.t = 0.004746590429819615
+givenTree.CY013168.t = 0.001155821927636568
+givenTree.CY012144.t = 0.0003873967706776586
+givenTree.CY012736.t = 0.001579619535613176
+givenTree.Node75.t = 0.0004196771969064107
+givenTree.Node73.t = 0.0007769486354098743
+givenTree.CY114045.t = 0.004746590429819617
 givenTree.CY113909.t = 0.00055
 givenTree.Node78.t = 0.0004074863914528652
 givenTree.Node72.t = 0.0005006068945994518
-givenTree.CY012128.t = 0.002224223963983771
-givenTree.CY112581.t = 0.0008145816014173198
-givenTree.CY112589.t = 0.0003646876486946564
+givenTree.CY012128.t = 0.002224223963983772
+givenTree.CY112581.t = 0.0008145816014173195
+givenTree.CY112589.t = 0.000364687648694657
 givenTree.Node84.t = 0.0005347858395003236
 givenTree.Node82.t = 0.0006203181610822222
 givenTree.CY114061.t = 0.00118033087606586
-givenTree.CY113941.t = 0.0003953245593920308
+givenTree.CY113941.t = 0.0003953245593920305
 givenTree.CY113917.t = 1e-10
 givenTree.CY113933.t = 1e-10
 givenTree.Node91.t = 0.00055
 givenTree.Node89.t = 0.003159499965374518
 givenTree.Node87.t = 0.01068206760552324
 givenTree.Node81.t = 0.000288746657194343
-givenTree.Node71.t = 0.0004096310953295032
-givenTree.CY114053.t = 0.0003662960582744937
-givenTree.CY112597.t = 2.671239185831019e-05
-givenTree.Node95.t = 0.002314967994239276
-givenTree.CY013192.t = 0.0008097073127351805
-givenTree.CY013733.t = 0.0007632783765098185
-givenTree.Node98.t = 0.001536646946433557
-givenTree.Node94.t = 0.0002391673807097018
+givenTree.Node71.t = 0.0004096310953295034
+givenTree.CY114053.t = 0.0003662960582744836
+givenTree.CY112597.t = 2.671239185830153e-05
+givenTree.Node95.t = 0.002314967994239288
+givenTree.CY013192.t = 0.0008097073127351807
+givenTree.CY013733.t = 0.0007632783765098182
+givenTree.Node98.t = 0.001536646946433558
+givenTree.Node94.t = 0.0002391673807096994
 givenTree.Node70.t = 0.00055
 givenTree.Node68.t = 0.0009630535077709341
-givenTree.Node64.t = 0.0001438443961144612
-givenTree.Node29.t = 2.274135264720216e-05
-Optimization finished in 9 loop passes.
-5287 likelihood evaluation calls and 26941 matrix exponentiations calls were made
+givenTree.Node64.t = 0.0001438443961144611
+givenTree.Node29.t = 2.274135264720202e-05
+Optimization finished in 10 loop passes.
+5738 likelihood evaluation calls and 30832 matrix exponentiations calls were made
 
 Variable 'LIKELIHOOD_FUNCTION_OUTPUT' was not initialized prior to being used
 Serializing nucLF with mode 0
@@ -966,7 +968,8 @@ codonTree.Node29.synRate:=rConstr*givenTree.Node29.t__;
 
 Variable 'SKIP_CONJUGATE_GRADIENT' was not initialized prior to being used
 Variable 'lf' was not initialized prior to being used
-Set GUI update interval to every 3-th LF evaluation.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 9-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -975,9 +978,9 @@ Optimization settings:
 Initial parameter values
 
 dNdS = 0.5
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-3334.830784403872] does not match the last recorded LF maximum [-3334.830741884638]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-3334.831311037951] does not match the last recorded LF maximum [-3334.831268552482]
 Optimization finished in 4 loop passes.
-63 likelihood evaluation calls and 5742 matrix exponentiations calls were made
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
 
 Model MGModel assigned to CY013717
 Branch parameter of CY013717 set to :0.00062
@@ -1296,7 +1299,8 @@ The tips of the tree:siteTree were matched with the species names from the data 
 Partition  reversible model flag computed as 1
 Variable 'siteLikelihood' was not initialized prior to being used
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 12-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -1305,15 +1309,16 @@ Optimization settings:
 Initial parameter values
 
 dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.580103243766201] does not match the last recorded LF maximum [-8.580059387731223]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.580013797453894] does not match the last recorded LF maximum [-8.579969948520146]
 Optimization finished in 4 loop passes.
-80 likelihood evaluation calls and 7524 matrix exponentiations calls were made
+74 likelihood evaluation calls and 6732 matrix exponentiations calls were made
 
 Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 11-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -1322,163 +1327,18 @@ Optimization settings:
 Initial parameter values
 
 dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.58771469113436] does not match the last recorded LF maximum [-10.58677598562245]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.58677598639262] does not match the last recorded LF maximum [-10.5867759856372]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.58769508956525] does not match the last recorded LF maximum [-10.58675680121237]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.58675680198279] does not match the last recorded LF maximum [-10.58675680122709]
 Optimization finished in 7 loop passes.
-127 likelihood evaluation calls and 11385 matrix exponentiations calls were made
+134 likelihood evaluation calls and 12078 matrix exponentiations calls were made
 
 Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-13.56193556713682] does not match the last recorded LF maximum [-13.56176511490959]
-Optimization finished in 4 loop passes.
-86 likelihood evaluation calls and 7821 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-64 likelihood evaluation calls and 5940 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 19-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -1496,7 +1356,8 @@ Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 13-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -1505,95 +1366,18 @@ Optimization settings:
 Initial parameter values
 
 dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-13.56194248320781] does not match the last recorded LF maximum [-13.56177178807399]
 Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
+84 likelihood evaluation calls and 7623 matrix exponentiations calls were made
 
 Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
 Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 6 loop passes.
-47 likelihood evaluation calls and 4356 matrix exponentiations calls were made
-
 Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.341773672506585] does not match the last recorded LF maximum [-8.341446378437837]
-Optimization finished in 4 loop passes.
-90 likelihood evaluation calls and 8217 matrix exponentiations calls were made
-
+Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
@@ -1601,125 +1385,8 @@ Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-68 likelihood evaluation calls and 6435 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-64 likelihood evaluation calls and 5940 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.980804018397805] does not match the last recorded LF maximum [-8.980802224230999]
-Optimization finished in 4 loop passes.
-60 likelihood evaluation calls and 5346 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.12413403987913] does not match the last recorded LF maximum [-10.12413259971782]
-Optimization finished in 4 loop passes.
-70 likelihood evaluation calls and 6435 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 12-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -1736,6 +1403,168 @@ Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 29-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 13-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+70 likelihood evaluation calls and 6534 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 11-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 14-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 18-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 13-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 15-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 17-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 14-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
 Set GUI update interval to every 10-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
@@ -1746,12 +1575,32 @@ Initial parameter values
 
 dNdS = 1
 Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
+68 likelihood evaluation calls and 6336 matrix exponentiations calls were made
 
+Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 11-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 6 loop passes.
+48 likelihood evaluation calls and 4455 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
 Set GUI update interval to every 10-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
@@ -1761,7 +1610,188 @@ Optimization settings:
 Initial parameter values
 
 dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.88276937225572] does not match the last recorded LF maximum [-10.88259168004427]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.341698160072619] does not match the last recorded LF maximum [-8.34137058616127]
+Optimization finished in 4 loop passes.
+91 likelihood evaluation calls and 8316 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 13-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 10-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 21-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 19-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 22-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 8-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.980731368703262] does not match the last recorded LF maximum [-8.980729582434217]
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 29-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.1243257645315] does not match the last recorded LF maximum [-10.12432432980708]
+Optimization finished in 4 loop passes.
+51 likelihood evaluation calls and 4554 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 10-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+70 likelihood evaluation calls and 6633 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 11-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+70 likelihood evaluation calls and 6633 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 15-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.88273168388084] does not match the last recorded LF maximum [-10.88255374294046]
 Optimization finished in 4 loop passes.
 86 likelihood evaluation calls and 7821 matrix exponentiations calls were made
 
@@ -1773,6 +1803,96 @@ Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 23-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+68 likelihood evaluation calls and 6336 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 12-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 25-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-13.9509253303114] does not match the last recorded LF maximum [-13.95089195281217]
+Optimization finished in 4 loop passes.
+68 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 10-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.69761604042852] does not match the last recorded LF maximum [-10.69749577595569]
+Optimization finished in 4 loop passes.
+65 likelihood evaluation calls and 5940 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 20-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
 Set GUI update interval to every 9-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
@@ -1782,65 +1902,17 @@ Optimization settings:
 Initial parameter values
 
 dNdS = 1
-Optimization finished in 4 loop passes.
-64 likelihood evaluation calls and 5940 matrix exponentiations calls were made
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.6690677927575] does not match the last recorded LF maximum [-10.66836412576287]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.66836412699775] does not match the last recorded LF maximum [-10.6683641257937]
+Optimization finished in 7 loop passes.
+127 likelihood evaluation calls and 11385 matrix exponentiations calls were made
 
-Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-13.95115183009733] does not match the last recorded LF maximum [-13.95111858958152]
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.69784499238271] does not match the last recorded LF maximum [-10.69772458508089]
-Optimization finished in 4 loop passes.
-64 likelihood evaluation calls and 5841 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
 Set GUI update interval to every 10-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
@@ -1850,88 +1922,56 @@ Optimization settings:
 Initial parameter values
 
 dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-22.65444459155874] does not match the last recorded LF maximum [-22.64941744518992]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-22.64941746044929] does not match the last recorded LF maximum [-22.64941744524164]
+Optimization finished in 7 loop passes.
+130 likelihood evaluation calls and 11583 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 12-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-36.79259153929389] does not match the last recorded LF maximum [-36.77054976327352]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-36.77054979219545] does not match the last recorded LF maximum [-36.77054976333076]
+Optimization finished in 7 loop passes.
+128 likelihood evaluation calls and 11385 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 13-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-16.51483511765132] does not match the last recorded LF maximum [-16.51479847001966]
 Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
+76 likelihood evaluation calls and 7029 matrix exponentiations calls were made
 
+Row and/or column partition is empty. All the data will be used by default.
 Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
 Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.66911517975234] does not match the last recorded LF maximum [-10.6684105478909]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.66841054912578] does not match the last recorded LF maximum [-10.66841054792174]
-Optimization finished in 7 loop passes.
-122 likelihood evaluation calls and 10791 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-22.65431595803268] does not match the last recorded LF maximum [-22.64927957301315]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-22.6492795882738] does not match the last recorded LF maximum [-22.64927957306486]
-Optimization finished in 7 loop passes.
-126 likelihood evaluation calls and 11187 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-36.79280610753528] does not match the last recorded LF maximum [-36.77078509168241]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-36.7707851206066] does not match the last recorded LF maximum [-36.77078509173965]
-Optimization finished in 7 loop passes.
-125 likelihood evaluation calls and 11088 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-16.51448914687582] does not match the last recorded LF maximum [-16.51445209586248]
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6138 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -1947,1175 +1987,7 @@ Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.05991269525108] does not match the last recorded LF maximum [-10.05966020767384]
-Optimization finished in 4 loop passes.
-87 likelihood evaluation calls and 7920 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 6 loop passes.
-75 likelihood evaluation calls and 7029 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.475221698161118] does not match the last recorded LF maximum [-9.474809811369546]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.474809811587029] does not match the last recorded LF maximum [-9.474809811377638]
-Optimization finished in 7 loop passes.
-129 likelihood evaluation calls and 11682 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-11.95189932794113] does not match the last recorded LF maximum [-11.95170887110767]
-Optimization finished in 4 loop passes.
-98 likelihood evaluation calls and 9009 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.900745271154479] does not match the last recorded LF maximum [-8.90048692370679]
-Optimization finished in 4 loop passes.
-92 likelihood evaluation calls and 8514 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-68 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.740348968823907] does not match the last recorded LF maximum [-9.740346237898493]
-Optimization finished in 4 loop passes.
-59 likelihood evaluation calls and 5346 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.41274177881772] does not match the last recorded LF maximum [-9.412504038233276]
-Optimization finished in 4 loop passes.
-57 likelihood evaluation calls and 5148 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-7.387480533493826] does not match the last recorded LF maximum [-7.38745331843969]
-Optimization finished in 4 loop passes.
-74 likelihood evaluation calls and 6732 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.09435783881095] does not match the last recorded LF maximum [-10.09422881132036]
-Optimization finished in 4 loop passes.
-90 likelihood evaluation calls and 8217 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-11.24814563862209] does not match the last recorded LF maximum [-11.24814559002858]
-Optimization finished in 5 loop passes.
-63 likelihood evaluation calls and 5742 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-12.55428063149628] does not match the last recorded LF maximum [-12.55087242632826]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-12.55087242788877] does not match the last recorded LF maximum [-12.55087242635749]
-Optimization finished in 7 loop passes.
-128 likelihood evaluation calls and 11484 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.64360199011741] does not match the last recorded LF maximum [-10.64234973658403]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.6423497373689] does not match the last recorded LF maximum [-10.64234973659885]
-Optimization finished in 7 loop passes.
-126 likelihood evaluation calls and 11286 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.53256472589527] does not match the last recorded LF maximum [-10.5319099747656]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.53190997505015] does not match the last recorded LF maximum [-10.53190997477974]
-Optimization finished in 7 loop passes.
-102 likelihood evaluation calls and 9108 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-21.44742406639166] does not match the last recorded LF maximum [-21.44734396404064]
-Optimization finished in 4 loop passes.
-71 likelihood evaluation calls and 6435 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-14.05267329926056] does not match the last recorded LF maximum [-14.04914189591777]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-14.04914189748193] does not match the last recorded LF maximum [-14.04914189594669]
-Optimization finished in 7 loop passes.
-123 likelihood evaluation calls and 10890 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.24856902636972] does not match the last recorded LF maximum [-9.248547363765145]
-Optimization finished in 4 loop passes.
-70 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.785204407852174] does not match the last recorded LF maximum [-8.785014524624437]
-Optimization finished in 4 loop passes.
-86 likelihood evaluation calls and 7920 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-18.73369972352359] does not match the last recorded LF maximum [-18.73366785772375]
-Optimization finished in 4 loop passes.
-70 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-17.15323003099311] does not match the last recorded LF maximum [-17.15321723843661]
-Optimization finished in 4 loop passes.
-63 likelihood evaluation calls and 5643 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-16.87014137903646] does not match the last recorded LF maximum [-16.86944361209124]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-16.86944361237728] does not match the last recorded LF maximum [-16.86944361210554]
-Optimization finished in 7 loop passes.
-95 likelihood evaluation calls and 8316 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.190749430138387] does not match the last recorded LF maximum [-9.190387887881398]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.190387888098387] does not match the last recorded LF maximum [-9.190387887889479]
-Optimization finished in 7 loop passes.
-133 likelihood evaluation calls and 11880 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.57196023196863] does not match the last recorded LF maximum [-9.571926867050061]
-Optimization finished in 4 loop passes.
-55 likelihood evaluation calls and 4950 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 6 loop passes.
-70 likelihood evaluation calls and 6435 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-13.11402162220329] does not match the last recorded LF maximum [-13.11381970749948]
-Optimization finished in 4 loop passes.
-91 likelihood evaluation calls and 8415 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-14.36171406266852] does not match the last recorded LF maximum [-14.36163308906017]
-Optimization finished in 4 loop passes.
-72 likelihood evaluation calls and 6732 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.209699626771577] does not match the last recorded LF maximum [-9.20969950085523]
-Optimization finished in 4 loop passes.
-61 likelihood evaluation calls and 5445 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.940060819286732] does not match the last recorded LF maximum [-8.940060819080259]
-Optimization finished in 5 loop passes.
-48 likelihood evaluation calls and 4059 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.633193781979315] does not match the last recorded LF maximum [-9.633152293113758]
-Optimization finished in 4 loop passes.
-66 likelihood evaluation calls and 5940 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.878833870936349] does not match the last recorded LF maximum [-8.878800713536849]
-Optimization finished in 4 loop passes.
-56 likelihood evaluation calls and 5049 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-12.44404840878872] does not match the last recorded LF maximum [-12.44404827640501]
-Optimization finished in 4 loop passes.
-59 likelihood evaluation calls and 5148 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.88077896230394] does not match the last recorded LF maximum [-10.87987493584719]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.87987493613925] does not match the last recorded LF maximum [-10.87987493586204]
-Optimization finished in 7 loop passes.
-123 likelihood evaluation calls and 10989 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.4055136465988] does not match the last recorded LF maximum [-10.40511755829918]
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.40511755851687] does not match the last recorded LF maximum [-10.40511755830733]
-Optimization finished in 7 loop passes.
-130 likelihood evaluation calls and 11682 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-14.82834870562341] does not match the last recorded LF maximum [-14.82830016894536]
-Optimization finished in 4 loop passes.
-68 likelihood evaluation calls and 6138 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 9-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 8-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-32 likelihood evaluation calls and 3069 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.973173861468105] does not match the last recorded LF maximum [-9.973173031594794]
-Optimization finished in 4 loop passes.
-60 likelihood evaluation calls and 5346 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
 Set GUI update interval to every 11-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
@@ -3125,63 +1997,16 @@ Optimization settings:
 Initial parameter values
 
 dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.05985503471173] does not match the last recorded LF maximum [-10.05960300536551]
 Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
+95 likelihood evaluation calls and 8811 matrix exponentiations calls were made
 
 Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-67 likelihood evaluation calls and 6336 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Optimization finished in 4 loop passes.
-64 likelihood evaluation calls and 5940 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
-Optimization settings:
-	OPTIMIZATION_METHOD = 4
-	OPTIMIZATION_PRECISION = 0.001
-	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
-
-Initial parameter values
-
-dNdS = 1
-Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.732543979372162] does not match the last recorded LF maximum [-9.732543444371034]
-Optimization finished in 4 loop passes.
-45 likelihood evaluation calls and 3960 matrix exponentiations calls were made
-
-Row and/or column partition is empty. All the data will be used by default.
-The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
-Partition  reversible model flag computed as 1
-Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 15-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -3197,6 +2022,131 @@ Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 14-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 25-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+68 likelihood evaluation calls and 6336 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 11-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 6 loop passes.
+80 likelihood evaluation calls and 7425 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 13-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.475329872042668] does not match the last recorded LF maximum [-9.474918663185703]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.474918663403297] does not match the last recorded LF maximum [-9.474918663193815]
+Optimization finished in 7 loop passes.
+133 likelihood evaluation calls and 11880 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 15-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-11.95193724201589] does not match the last recorded LF maximum [-11.95174761578319]
+Optimization finished in 4 loop passes.
+87 likelihood evaluation calls and 7920 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 26-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.900769678178428] does not match the last recorded LF maximum [-8.900511117897924]
+Optimization finished in 4 loop passes.
+61 likelihood evaluation calls and 5544 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 13-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+69 likelihood evaluation calls and 6534 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
 Set GUI update interval to every 10-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
@@ -3207,13 +2157,105 @@ Initial parameter values
 
 dNdS = 1
 Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
+68 likelihood evaluation calls and 6435 matrix exponentiations calls were made
 
 Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 7-th LF evaluation.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 14-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.740509352310921] does not match the last recorded LF maximum [-9.740506628468804]
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6039 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 13-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.412899954192111] does not match the last recorded LF maximum [-9.412661994682134]
+Optimization finished in 4 loop passes.
+84 likelihood evaluation calls and 7623 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 18-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-7.387515805042717] does not match the last recorded LF maximum [-7.387488601848633]
+Optimization finished in 4 loop passes.
+77 likelihood evaluation calls and 7029 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 12-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.09429513516146] does not match the last recorded LF maximum [-10.09416674127637]
+Optimization finished in 4 loop passes.
+62 likelihood evaluation calls and 5643 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 12-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-11.24830770583342] does not match the last recorded LF maximum [-11.24830770583202]
+Optimization finished in 6 loop passes.
+60 likelihood evaluation calls and 5148 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 12-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -3223,13 +2265,34 @@ Initial parameter values
 
 dNdS = 1
 Optimization finished in 4 loop passes.
-65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
+70 likelihood evaluation calls and 6534 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 15-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-12.5542576593532] does not match the last recorded LF maximum [-12.55085349400996]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-12.55085349557261] does not match the last recorded LF maximum [-12.55085349403889]
+Optimization finished in 7 loop passes.
+131 likelihood evaluation calls and 11781 matrix exponentiations calls were made
 
 Row and/or column partition is empty. All the data will be used by default.
 The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
 Partition  reversible model flag computed as 1
 Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
-Set GUI update interval to every 10-th LF evaluation.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 9-th LF evaluation.
 Optimization settings:
 	OPTIMIZATION_METHOD = 4
 	OPTIMIZATION_PRECISION = 0.001
@@ -3241,5 +2304,250 @@ dNdS = 1
 Optimization finished in 4 loop passes.
 67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
 
-Variable 'FEL_RUN_TIMER' was not initialized prior to being used
-Variable 'FEL_MASTER_TIMER' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 26-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 11-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.64361226239254] does not match the last recorded LF maximum [-10.64236011441729]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.64236011520218] does not match the last recorded LF maximum [-10.64236011443211]
+Optimization finished in 7 loop passes.
+126 likelihood evaluation calls and 11286 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 11-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.53257047365252] does not match the last recorded LF maximum [-10.53191614701645]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-10.5319161473009] does not match the last recorded LF maximum [-10.53191614703057]
+Optimization finished in 7 loop passes.
+135 likelihood evaluation calls and 12078 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 20-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-21.4473896827458] does not match the last recorded LF maximum [-21.44730896180478]
+Optimization finished in 4 loop passes.
+73 likelihood evaluation calls and 6633 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 8-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 26-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+67 likelihood evaluation calls and 6237 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 16-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+65 likelihood evaluation calls and 6039 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 22-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-14.05271696463976] does not match the last recorded LF maximum [-14.04918969034699]
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-14.04918969191105] does not match the last recorded LF maximum [-14.04918969037591]
+Optimization finished in 7 loop passes.
+124 likelihood evaluation calls and 10989 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 16-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+66 likelihood evaluation calls and 6138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 12-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-9.248617945274434] does not match the last recorded LF maximum [-9.248596411455285]
+Optimization finished in 4 loop passes.
+58 likelihood evaluation calls and 5247 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 19-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Optimization finished in 4 loop passes.
+69 likelihood evaluation calls and 6534 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 15-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-8.785120722272723] does not match the last recorded LF maximum [-8.784930589395465]
+Optimization finished in 4 loop passes.
+86 likelihood evaluation calls and 7821 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 14-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1
+Internal error in _LikelihoodFunction::ConjugateGradientDescent. The function evaluated at current parameter values [-18.73379767631453] does not match the last recorded LF maximum [-18.7337662102463]
+Optimization finished in 4 loop passes.
+64 likelihood evaluation calls and 5742 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+The tips of the tree:siteTree were matched with the species names from the data as follows {40,21,10,37,28,9,15,34,46,51,2,38,16,12,44,20,27,1,3,18,23,35,52,17,19,5,49,45,48,39,0,29,13,4,6,36,31,50,24,30,7,42,25,8,14,11,33,41,47,22,43,26,32}
+Partition  reversible model flag computed as 1
+Internal error in '_LikelihoodFunction::RankVariables': missing parameter name dNdS
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 9-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dNdS = 1

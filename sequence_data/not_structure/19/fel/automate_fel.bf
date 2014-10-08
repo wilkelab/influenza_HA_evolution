@@ -1,6 +1,6 @@
 /* Automates FEL with the following input. Written 10/1/2014 AGM. */
 
-BASEDIR = "/Users/austin/Google Drive/Data/influenza_HA_evolution/sequence_data/not_structure/19/";
+BASEDIR = "/home/austin/Work/influenza_HA_evolution/sequence_data/not_structure/19/fel/";
 datafile="nucleotide.fasta";
 output="run.log";
 treefile="nucleotide.tree";

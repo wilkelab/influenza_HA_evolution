@@ -20,7 +20,7 @@ def parse_args():
     parser.add_argument("-prot_outfile", dest = "prot_outfile", default = "protein.fasta", type = str, help = "Output file for protein alignment.")
     parser.add_argument("-nuc_outfile", dest = "nuc_outfile", default = "nucleotide.fasta", type = str, help = "Output file for nucleotide alignment.")
     parser.add_argument("-aligner", dest = "aln_exec", default = "mafft", type = str, help="Any mafft algorithm (mafft, linsi, ginsi, einsi...). Default is linsi.")
-    parser.add_argument("-options", dest="aln_opt", default = " --op 10 ", type = str, help = "Optional mafft options.")
+    parser.add_argument("-options", dest="aln_opt", default = " --op 100 ", type = str, help = "Optional mafft options.")
     
     return parser.parse_args()
 
