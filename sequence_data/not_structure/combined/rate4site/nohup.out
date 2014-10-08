@@ -11,8 +11,8 @@ START OF LOG FILE
 
 
  ---------------------- THE PARAMETERS ----------------------------
-tree file is: tree.tre
-seq file is: cleaned_protein.fasta
+tree file is: cleaned_proteins.tree
+seq file is: cleaned_proteins.aligned
 output file is: r4s.res
 rate inference method is: empirical Bayesian estimate
 using a Gamma prior distribution with: 16 discrete categories
@@ -21,5 +21,3 @@ branch lengths optimization is ML using a gamma model
 
  -----------------------------------------------------------------
 Optimizing branch lengths and alpha...
-The tree was written to a file name called TheTree.txt
-Computing the rates...
