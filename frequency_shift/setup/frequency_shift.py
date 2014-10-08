@@ -4,8 +4,9 @@ import scipy.stats as ss
 from sets import Set
 from rpy2.robjects.packages import importr
 import rpy2.robjects as ro
+from copy import deepcopy
 
-allowed = ['a','c','t','g']
+allowed = ['A','C','T','G','-']
 
 gencode = { 'ATA':'I',
   'ATC':'I', 'ATT':'I', 'ATG':'M', 'ACA':'T', 'ACC':'T', 'ACG':'T',
@@ -18,29 +19,29 @@ gencode = { 'ATA':'I',
   'GAG':'E', 'GGA':'G', 'GGC':'G', 'GGG':'G', 'GGT':'G', 'TCA':'S',
   'TCC':'S', 'TCG':'S', 'TCT':'S', 'TTC':'F', 'TTT':'F', 'TTA':'L',
   'TTG':'L', 'TAC':'Y', 'TAT':'Y', 'TAA':'*', 'TAG':'*', 'TGC':'C',
-  'TGT':'C', 'TGA':'*', 'TGG':'W', }
+  'TGT':'C', 'TGA':'*', 'TGG':'W', '---':'-'}
 
 max_sa = {'A':129 ,'R':274, 'N':195, 'D':193, 'C':167, 'E':223, 'Q':225, 'G':104, 'H':224, 'I':197, 'L':201, 'K':236, 'M':224, 'F':240, 'P':159, 'S':155, 'T':172, 'W':285, 'Y':263, 'V':174}
 
 #Generate epitope dictionary
 eps = {}
-#for key in [122, 124, 126, 130, 131, 132, 133, 135, 137, 138, 140, 142, 143, 144, 145, 146, 150, 152, 168]:
-#  eps[key] = 'A'
-#for key in [128, 129, 155, 156, 157, 158, 159, 160, 163, 164, 165, 186, 187, 188, 189, 190, 192, 193, 194, 196, 197, 198]:
-#  eps[key] = 'B'
-#for key in [44, 45, 46, 47, 48, 50, 51, 53, 54, 273, 275, 276, 278, 279, 280, 294, 297, 299, 300, 304, 305, 307, 308, 309, 310, 311, 312]:
-#  eps[key] = 'C'
-#for key in [96, 102, 103, 117, 121, 167, 170, 171, 172, 173, 174, 175, 176, 177, 179, 182, 201, 203, 207, 208, 209, 212, 213, 214, 215, 216, 217, 218, 219, 226, 227, 228, 229, 230, 238, 240, 242, 244, 246, 247, 248]:
-#  eps[key] = 'D'
-#for key in [57, 59, 62, 63, 67, 75, 78, 80, 81, 82, 83, 86, 87, 88, 91, 92, 94, 109, 260, 261, 262, 265]:
-#  eps[key] = 'E'
+for key in [122, 124, 126, 130, 131, 132, 133, 135, 137, 138, 140, 142, 143, 144, 145, 146, 150, 152, 168]:
+  eps[key] = 'A'
+for key in [128, 129, 155, 156, 157, 158, 159, 160, 163, 164, 165, 186, 187, 188, 189, 190, 192, 193, 194, 196, 197, 198]:
+  eps[key] = 'B'
+for key in [44, 45, 46, 47, 48, 50, 51, 53, 54, 273, 275, 276, 278, 279, 280, 294, 297, 299, 300, 304, 305, 307, 308, 309, 310, 311, 312]:
+  eps[key] = 'C'
+for key in [96, 102, 103, 117, 121, 167, 170, 171, 172, 173, 174, 175, 176, 177, 179, 182, 201, 203, 207, 208, 209, 212, 213, 214, 215, 216, 217, 218, 219, 226, 227, 228, 229, 230, 238, 240, 242, 244, 246, 247, 248]:
+  eps[key] = 'D'
+for key in [57, 59, 62, 63, 67, 75, 78, 80, 81, 82, 83, 86, 87, 88, 91, 92, 94, 109, 260, 261, 262, 265]:
+  eps[key] = 'E'
 #for key in [49, 60, 74, 79, 90, 274, 151, 52, 277, 220, 134, 136, 153, 17, 199, 2, 3, 4, 31, 112, 205, 220, 271]:
 #  eps[key] = 'O'
 #for key in [98, 135, 136, 137, 138, 153, 155, 183, 190, 194, 195, 224, 225, 226]:
 #  eps[key] = 'R'
 
-for key in [18,  20,  34,  37,  38,  54,  66,  67,  98, 105, 106, 107, 108, 110, 115, 117, 119, 120, 121, 122, 124, 126, 127, 128, 129, 130, 131, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 155, 156, 157, 158, 159, 160, 173, 174, 175, 176, 177, 178, 179, 180, 181, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 222, 225, 226, 259, 260, 262, 276, 278, 289, 291, 318, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 347, 348, 349, 350, 363, 364, 366, 367, 368, 370, 371, 374, 375, 377, 378, 379, 381, 382, 385, 387, 388, 389, 482]:
-    eps[key] = 'A'
+#for key in [18,  20,  34,  37,  38,  54,  66,  67,  98, 105, 106, 107, 108, 110, 115, 117, 119, 120, 121, 122, 124, 126, 127, 128, 129, 130, 131, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 155, 156, 157, 158, 159, 160, 173, 174, 175, 176, 177, 178, 179, 180, 181, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 222, 225, 226, 259, 260, 262, 276, 278, 289, 291, 318, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 347, 348, 349, 350, 363, 364, 366, 367, 368, 370, 371, 374, 375, 377, 378, 379, 381, 382, 385, 387, 388, 389, 482]:
+#    eps[key] = 'A'
 
 def main():
     stats = importr('stats')
@@ -56,8 +57,6 @@ def main():
     
     pvalue_list = np.array(pvalue_list)
     pvals_only = pvalue_list[:, 1]
-    
-    #save_aa_freq_trajectories(freq_list, pvalue_list)
     
     p_adjust = stats.p_adjust(ro.FloatVector(pvals_only), method = 'BH')
     
@@ -158,6 +157,9 @@ def calc_pvalues(frequencies1, frequencies2):
     freq_list = []
     
     pvalue_list = []
+
+    print(len(frequencies1))
+    print(len(frequencies2))
     
     for obs in range(len(frequencies2)):
         temp_obs = np.array(frequencies2[obs].values())
@@ -205,39 +207,39 @@ def invert_dict(d):
 def calculate_frequencies(in_file, freqs):
     alignment = Bio.AlignIO.read(in_file, 'fasta')
 
-    dat = []
+    count = 0
+    dat = np.chararray(shape=(len(alignment), len(alignment[0].seq)/3 - 1), itemsize=3)
     for sequence in alignment:
-        temp_dat = []
+        temp_dat = np.chararray(len(alignment[0].seq)/3 - 1, itemsize=3)
         for nuc in range(len(sequence.seq)/3 - 1):  
-            codon = sequence.seq[(nuc*3)] + sequence.seq[(nuc*3)+1] + sequence.seq[(nuc*3)+2]
-            temp_dat.append(codon)
-        dat.append(temp_dat)
-    easy_dat = np.array(dat)
+            codon = str(sequence.seq[(nuc*3)]) + str(sequence.seq[(nuc*3)+1]) + str(sequence.seq[(nuc*3)+2])
+            temp_dat[nuc] = codon
+        dat[count] = np.array(temp_dat)
+        count += 1
 
     aas = []
     rep_seq = []
-    for count in range(len(easy_dat[0,:])):
+    for count in range(dat.shape[0]):
         temp_aas = []
         #Don't try to understand this
-        codons = [temp for temp in easy_dat[:, count] if temp[0] in allowed and temp[1] in allowed and temp[2] in allowed]
+        codons = []
+        for temp in dat[count, ]:
+          if temp[0] in allowed and temp[1] in allowed and temp[2] in allowed:
+            codons.append(temp)
         for codon in range(len(codons)):
             temp_aas.append(gencode[codons[codon].upper()])
             if codon == 0:
                 rep_seq.append(gencode[codons[codon].upper()])
-        aas.append(np.array(temp_aas))
+        aas.append(temp_aas)
+ 
+    counts = {'A':0, 'C':0, 'D':0, 'E':0, 'F':0, 'G':0, 'H':0, 'I':0, 'K':0, 'L':0, 'M':0, 'N':0, 'P':0, 'Q':0, 'R':0, 'S':0, 'T':0, 'V':0, 'W':0, 'Y':0}
+    frequencies = [counts for x in range(len(aas[0]))]
 
-    frequencies = []
-
-    for site in aas:
-        counts = {'A':0, 'C':0, 'D':0, 'E':0, 'F':0, 'G':0, 'H':0, 'I':0, 'K':0, 'L':0, 'M':0, 'N':0, 'P':0, 'Q':0, 'R':0, 'S':0, 'T':0, 'V':0, 'W':0, 'Y':0}
-        types = set(site)
-        for aa in types:
-            if freqs and aa in counts.keys():
-              counts[aa] = float(list(site).count(aa))/len(site)
-            elif aa in counts.keys():
-              counts[aa] = float(list(site).count(aa))
-
-        frequencies.append(counts)
+    for sequence in aas:
+        for aa in enumerate(sequence):
+            tmp_dict = deepcopy(frequencies[aa[0]])
+            tmp_dict[aa[1]] += 1
+            frequencies[aa[0]] = tmp_dict
 
     return(np.array(frequencies), rep_seq)
 

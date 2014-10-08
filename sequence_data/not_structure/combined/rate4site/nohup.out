@@ -20,3 +20,4 @@ probablistic_model is: JTT
 branch lengths optimization is ML using a gamma model
 
  -----------------------------------------------------------------
+Optimizing branch lengths and alpha...

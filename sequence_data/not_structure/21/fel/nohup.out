@@ -339,4 +339,265 @@ Site   310 dN/dS =      0.00000 Full Log(L) =    -21.01397 LRT =      5.90901 p-
 Site   311 dN/dS =      0.00000 Full Log(L) =    -11.39061 LRT =      4.35459 p-value =      0.01845 *N
 Site   312 dN/dS =      0.00000 Full Log(L) =    -16.72734 LRT =      6.71312 p-value =      0.00479 *N
 Site   313 dN/dS =      0.29195 Full Log(L) =    -13.95417 LRT =      2.35129 p-value =      0.06259 *N
-Site   314 dN/dS =      0.29629 Full Log(L) =    -13.21418 LRT =      2.27335 
+Site   314 dN/dS =      0.29629 Full Log(L) =    -13.21418 LRT =      2.27335 p-value =      0.06581 *N
+Site   315 dN/dS =      0.51592 Full Log(L) =    -28.43080 LRT =      1.09060 p-value =      0.14817
+Site   316 dN/dS =      0.32414 Full Log(L) =    -19.49914 LRT =      1.88390 p-value =      0.08495 *N
+Site   317 dN/dS =      0.30694 Full Log(L) =    -13.52888 LRT =      2.11915 p-value =      0.07273 *N
+Site   318 dN/dS =      0.00000 Full Log(L) =    -18.37170 LRT =      5.29392 p-value =      0.01070 *N
+Site   319 dN/dS =      0.00000 Full Log(L) =    -15.72002 LRT =      8.31978 p-value =      0.00196 *N
+Site   320 dN/dS =      1.00000 Full Log(L) =      0.00000 LRT =      0.00000 p-value =      1.00000
+Site   321 dN/dS =      0.00000 Full Log(L) =    -16.90237 LRT =      6.97859 p-value =      0.00412 *N
+Site   322 dN/dS =      0.00000 Full Log(L) =    -13.47867 LRT =      6.65820 p-value =      0.00494 *N
+Site   323 dN/dS =      0.00000 Full Log(L) =    -11.90961 LRT =      7.52049 p-value =      0.00305 *N
+Site   324 dN/dS =      0.00000 Full Log(L) =    -11.58035 LRT =      5.29393 p-value =      0.01070 *N
+Site   325 dN/dS =      1.19222 Full Log(L) =    -54.05189 LRT =      0.11400 p-value =      0.36782
+Site   326 dN/dS =      0.31448 Full Log(L) =    -27.43863 LRT =      2.00532 p-value =      0.07837 *N
+Site   327 dN/dS =      1.00000 Full Log(L) =      0.00000 LRT =      0.00000 p-value =      1.00000
+Site   328 dN/dS =      1.84257 Full Log(L) =    -41.25824 LRT =      1.97056 p-value =      0.08019 *P
+Site   329 dN/dS =      0.00000 Full Log(L) =    -12.98303 LRT =      6.48736 p-value =      0.00543 *N
+Site   330 dN/dS =      0.00000 Full Log(L) =    -51.19222 LRT =      3.56180 p-value =      0.02956 *N
+Site   331 dN/dS =      0.00000 Full Log(L) =     -4.13957 LRT =      6.32573 p-value =      0.00595 *N
+Site   332 dN/dS =      2.78285 Full Log(L) =    -64.40357 LRT =      3.75576 p-value =      0.02631 *P
+Site   333 dN/dS =      0.00000 Full Log(L) =     -5.40105 LRT =      7.26535 p-value =      0.00351 *N
+Site   334 dN/dS =      0.00000 Full Log(L) =    -21.01343 LRT =      6.33798 p-value =      0.00591 *N
+Site   335 dN/dS =      0.25424 Full Log(L) =    -35.74884 LRT =      3.07710 p-value =      0.03970 *N
+Site   336 dN/dS =      0.00000 Full Log(L) =     -4.06034 LRT =      9.62130 p-value =      0.00096 *N
+Site   337 dN/dS =      0.00000 Full Log(L) =    -24.26482 LRT =      5.49329 p-value =      0.00954 *N
+Site   338 dN/dS =      0.00000 Full Log(L) =     -4.55475 LRT =      6.51350 p-value =      0.00535 *N
+Site   339 dN/dS =      0.30078 Full Log(L) =    -28.01881 LRT =      2.21100 p-value =      0.06851 *N
+Site   340 dN/dS =      0.00000 Full Log(L) =     -5.86763 LRT =      6.46060 p-value =      0.00551 *N
+Site   341 dN/dS =      0.28174 Full Log(L) =    -14.23573 LRT =      2.51919 p-value =      0.05623 *N
+Site   342 dN/dS =      0.32419 Full Log(L) =    -12.02514 LRT =      1.87658 p-value =      0.08536 *N
+Site   343 dN/dS =      0.47308 Full Log(L) =    -26.27282 LRT =      0.71866 p-value =      0.19829
+Site   344 dN/dS =      0.00000 Full Log(L) =     -5.55211 LRT =      6.29459 p-value =      0.00606 *N
+Site   345 dN/dS =      0.00000 Full Log(L) =     -4.70737 LRT =      7.29325 p-value =      0.00346 *N
+Site   346 dN/dS =      0.00000 Full Log(L) =    -10.68358 LRT =      8.09825 p-value =      0.00222 *N
+Site   347 dN/dS =      0.26205 Full Log(L) =    -13.70878 LRT =      2.89704 p-value =      0.04437 *N
+Site   348 dN/dS =      0.00000 Full Log(L) =    -13.08197 LRT =      5.73360 p-value =      0.00832 *N
+Site   349 dN/dS =      0.49650 Full Log(L) =    -23.69465 LRT =      1.23260 p-value =      0.13345
+Site   350 dN/dS =      0.00000 Full Log(L) =     -5.39221 LRT =      7.21563 p-value =      0.00361 *N
+Site   351 dN/dS =      0.00000 Full Log(L) =     -7.60348 LRT =      7.35866 p-value =      0.00334 *N
+Site   352 dN/dS =      0.00000 Full Log(L) =    -29.39744 LRT =      7.21563 p-value =      0.00361 *N
+Site   353 dN/dS =      0.00000 Full Log(L) =    -21.83338 LRT =      8.09825 p-value =      0.00222 *N
+Site   354 dN/dS =      0.00000 Full Log(L) =     -5.50055 LRT =      5.74037 p-value =      0.00829 *N
+Site   355 dN/dS =      0.00000 Full Log(L) =     -3.86123 LRT =      7.59413 p-value =      0.00293 *N
+Site   356 dN/dS =      0.00000 Full Log(L) =    -10.48102 LRT =      7.05809 p-value =      0.00395 *N
+Site   357 dN/dS =      0.00000 Full Log(L) =    -10.83763 LRT =      6.51342 p-value =      0.00535 *N
+Site   358 dN/dS =      0.00000 Full Log(L) =     -5.70477 LRT =      8.09825 p-value =      0.00222 *N
+Site   359 dN/dS =      0.54715 Full Log(L) =    -12.68657 LRT =      0.44528 p-value =      0.25229
+Site   360 dN/dS =      0.00000 Full Log(L) =    -16.36289 LRT =      7.05859 p-value =      0.00394 *N
+Site   361 dN/dS =      0.00000 Full Log(L) =    -26.34862 LRT =      7.76860 p-value =      0.00266 *N
+Site   362 dN/dS =      0.00000 Full Log(L) =     -4.06034 LRT =      9.60807 p-value =      0.00097 *N
+Site   363 dN/dS =      1.54812 Full Log(L) =    -43.51932 LRT =      0.79911 p-value =      0.18568
+Site   364 dN/dS =      0.00000 Full Log(L) =     -6.72469 LRT =      7.42808 p-value =      0.00321 *N
+Site   365 dN/dS =      0.00000 Full Log(L) =    -17.86555 LRT =      8.09825 p-value =      0.00222 *N
+Site   366 dN/dS =      0.00000 Full Log(L) =     -4.54396 LRT =      3.65979 p-value =      0.02787 *N
+Site   367 dN/dS =      0.00000 Full Log(L) =    -23.14702 LRT =      5.13657 p-value =      0.01171 *N
+Site   368 dN/dS =      0.00000 Full Log(L) =    -11.98862 LRT =      8.09825 p-value =      0.00222 *N
+Site   369 dN/dS =      0.00000 Full Log(L) =     -5.50055 LRT =      5.74037 p-value =      0.00829 *N
+Site   370 dN/dS =      0.00000 Full Log(L) =    -28.20183 LRT =      7.62076 p-value =      0.00289 *N
+Site   371 dN/dS =      0.29845 Full Log(L) =    -21.72631 LRT =      2.25135 p-value =      0.06675 *N
+Site   372 dN/dS =      0.47384 Full Log(L) =    -24.11167 LRT =      0.71417 p-value =      0.19903
+Site   373 dN/dS =      0.00000 Full Log(L) =     -4.55475 LRT =      6.51350 p-value =      0.00535 *N
+Site   374 dN/dS =      0.00000 Full Log(L) =     -5.91375 LRT =      5.62641 p-value =      0.00885 *N
+Site   375 dN/dS =      0.00000 Full Log(L) =    -24.12877 LRT =      7.05234 p-value =      0.00396 *N
+Site   376 dN/dS =      0.00000 Full Log(L) =    -15.43202 LRT =      7.79710 p-value =      0.00262 *N
+Site   377 dN/dS =      0.58036 Full Log(L) =    -36.69919 LRT =      0.70614 p-value =      0.20036
+Site   378 dN/dS =      0.00000 Full Log(L) =     -5.23780 LRT =      7.76739 p-value =      0.00266 *N
+Site   379 dN/dS =      0.00000 Full Log(L) =    -12.05185 LRT =      4.22536 p-value =      0.01991 *N
+Site   380 dN/dS =      0.00000 Full Log(L) =     -5.39221 LRT =      7.21563 p-value =      0.00361 *N
+Site   381 dN/dS =      0.00000 Full Log(L) =    -20.73029 LRT =      7.21563 p-value =      0.00361 *N
+Site   382 dN/dS =      0.00000 Full Log(L) =     -4.86182 LRT =      7.43457 p-value =      0.00320 *N
+Site   383 dN/dS =      0.00000 Full Log(L) =     -8.01878 LRT =      5.86510 p-value =      0.00772 *N
+Site   384 dN/dS =      0.00000 Full Log(L) =     -4.11043 LRT =      6.13735 p-value =      0.00662 *N
+Site   385 dN/dS =      0.00000 Full Log(L) =     -5.26089 LRT =      7.88665 p-value =      0.00249 *N
+Site   386 dN/dS =      0.00000 Full Log(L) =    -10.32640 LRT =      6.29459 p-value =      0.00606 *N
+Site   387 dN/dS =      0.00000 Full Log(L) =     -4.89292 LRT =      4.22539 p-value =      0.01991 *N
+Site   388 dN/dS =      0.27613 Full Log(L) =    -23.06997 LRT =      2.63010 p-value =      0.05243 *N
+Site   389 dN/dS =      0.00000 Full Log(L) =     -5.39221 LRT =      7.21563 p-value =      0.00361 *N
+Site   390 dN/dS =      0.00000 Full Log(L) =    -18.91777 LRT =      5.99556 p-value =      0.00717 *N
+Site   391 dN/dS =      0.54273 Full Log(L) =    -24.93946 LRT =      0.91125 p-value =      0.16989
+Site   392 dN/dS =      0.00000 Full Log(L) =    -10.95550 LRT =      4.22528 p-value =      0.01991 *N
+Site   393 dN/dS =      0.00000 Full Log(L) =    -13.28715 LRT =      5.96154 p-value =      0.00731 *N
+Site   394 dN/dS =      0.32112 Full Log(L) =    -12.63312 LRT =      1.93163 p-value =      0.08229 *N
+Site   395 dN/dS =      0.00000 Full Log(L) =    -26.76422 LRT =      8.09538 p-value =      0.00222 *N
+Site   396 dN/dS =      0.00000 Full Log(L) =    -19.33372 LRT =      6.13169 p-value =      0.00664 *N
+Site   397 dN/dS =      0.00000 Full Log(L) =    -22.27978 LRT =      3.45940 p-value =      0.03145 *N
+Site   398 dN/dS =      0.00000 Full Log(L) =    -16.28149 LRT =      6.51326 p-value =      0.00535 *N
+Site   399 dN/dS =      0.75344 Full Log(L) =    -65.34718 LRT =      0.16323 p-value =      0.34310
+Site   400 dN/dS =      0.55335 Full Log(L) =    -26.48072 LRT =      0.41410 p-value =      0.25995
+Site   401 dN/dS =      0.00000 Full Log(L) =     -5.17172 LRT =      5.19640 p-value =      0.01132 *N
+Site   402 dN/dS =      0.57557 Full Log(L) =    -19.89071 LRT =      0.73330 p-value =      0.19591
+Site   403 dN/dS =      0.37242 Full Log(L) =    -12.32510 LRT =      1.36098 p-value =      0.12168
+Site   404 dN/dS =      0.00000 Full Log(L) =    -15.20421 LRT =      5.48699 p-value =      0.00958 *N
+Site   405 dN/dS =      0.00000 Full Log(L) =    -15.72294 LRT =      5.67593 p-value =      0.00860 *N
+Site   406 dN/dS =      0.32347 Full Log(L) =    -20.05263 LRT =      1.88537 p-value =      0.08486 *N
+Site   407 dN/dS =      0.00000 Full Log(L) =    -10.05132 LRT =      5.34776 p-value =      0.01037 *N
+Site   408 dN/dS =      0.00000 Full Log(L) =     -5.33838 LRT =      5.00599 p-value =      0.01263 *N
+Site   409 dN/dS =      0.00000 Full Log(L) =     -5.19026 LRT =      5.82405 p-value =      0.00790 *N
+Site   410 dN/dS =      0.00000 Full Log(L) =     -7.34475 LRT =      3.67935 p-value =      0.02755 *N
+Site   411 dN/dS =      0.38380 Full Log(L) =    -15.98387 LRT =      1.26775 p-value =      0.13009
+Site   412 dN/dS =      0.00000 Full Log(L) =     -4.29535 LRT =      6.15160 p-value =      0.00656 *N
+Site   413 dN/dS =      0.00000 Full Log(L) =     -8.95124 LRT =      5.34753 p-value =      0.01038 *N
+Site   414 dN/dS =      0.00000 Full Log(L) =    -11.45728 LRT =      6.15156 p-value =      0.00656 *N
+Site   415 dN/dS =      0.00000 Full Log(L) =    -12.21635 LRT =      5.00595 p-value =      0.01263 *N
+Site   416 dN/dS =      0.47345 Full Log(L) =    -15.59237 LRT =      0.71647 p-value =      0.19865
+Site   417 dN/dS =      0.00000 Full Log(L) =    -10.76455 LRT =      6.15153 p-value =      0.00656 *N
+Site   418 dN/dS =      0.34542 Full Log(L) =    -41.64651 LRT =      1.63320 p-value =      0.10063
+Site   419 dN/dS =      0.00000 Full Log(L) =     -9.84525 LRT =      6.15142 p-value =      0.00657 *N
+Site   420 dN/dS =      0.00000 Full Log(L) =    -22.74051 LRT =      7.05729 p-value =      0.00395 *N
+Site   421 dN/dS =      0.00000 Full Log(L) =     -4.57139 LRT =      6.35688 p-value =      0.00585 *N
+Site   422 dN/dS =      0.38362 Full Log(L) =    -18.99049 LRT =      1.27018 p-value =      0.12987
+Site   423 dN/dS =      0.00000 Full Log(L) =     -5.89078 LRT =      3.68624 p-value =      0.02743 *N
+Site   424 dN/dS =      0.00000 Full Log(L) =     -4.91750 LRT =      6.48023 p-value =      0.00545 *N
+Site   425 dN/dS =      0.40551 Full Log(L) =    -24.54105 LRT =      1.11202 p-value =      0.14582
+Site   426 dN/dS =      0.00000 Full Log(L) =     -5.41536 LRT =      6.15246 p-value =      0.00656 *N
+Site   427 dN/dS =      0.37243 Full Log(L) =    -41.32669 LRT =      1.36065 p-value =      0.12171
+Site   428 dN/dS =      0.00000 Full Log(L) =     -6.63228 LRT =      4.47726 p-value =      0.01717 *N
+Site   429 dN/dS =      0.00000 Full Log(L) =    -13.43963 LRT =      5.77109 p-value =      0.00815 *N
+Site   430 dN/dS =      0.00000 Full Log(L) =     -6.86933 LRT =      6.14604 p-value =      0.00659 *N
+Site   431 dN/dS =      0.00000 Full Log(L) =    -10.69676 LRT =      6.48012 p-value =      0.00545 *N
+Site   432 dN/dS =      0.73390 Full Log(L) =    -40.95369 LRT =      0.20782 p-value =      0.32424
+Site   433 dN/dS =      0.00000 Full Log(L) =     -3.98828 LRT =      5.34786 p-value =      0.01037 *N
+Site   434 dN/dS =      0.00000 Full Log(L) =     -3.81897 LRT =      6.61786 p-value =      0.00505 *N
+Site   435 dN/dS =      0.00000 Full Log(L) =     -4.71484 LRT =      6.48012 p-value =      0.00545 *N
+Site   436 dN/dS =      0.39051 Full Log(L) =    -20.55237 LRT =      1.22373 p-value =      0.13432
+Site   437 dN/dS =      0.00000 Full Log(L) =     -4.54396 LRT =      3.19278 p-value =      0.03698 *N
+Site   438 dN/dS =      0.00000 Full Log(L) =     -8.90689 LRT =      4.28595 p-value =      0.01921 *N
+Site   439 dN/dS =      0.00000 Full Log(L) =     -4.97207 LRT =      4.47728 p-value =      0.01717 *N
+Site   440 dN/dS =      0.00000 Full Log(L) =    -15.31721 LRT =      5.67590 p-value =      0.00860 *N
+Site   441 dN/dS =      0.00000 Full Log(L) =    -26.28327 LRT =      6.29093 p-value =      0.00607 *N
+Site   442 dN/dS =      0.00000 Full Log(L) =     -5.41536 LRT =      6.15246 p-value =      0.00656 *N
+Site   443 dN/dS =      0.00000 Full Log(L) =     -5.86615 LRT =      5.11530 p-value =      0.01186 *N
+Site   444 dN/dS =      0.78660 Full Log(L) =    -25.47674 LRT =      0.12294 p-value =      0.36294
+Site   445 dN/dS =      0.00000 Full Log(L) =     -5.39070 LRT =      5.77109 p-value =      0.00815 *N
+Site   446 dN/dS =      0.00000 Full Log(L) =    -37.82980 LRT =      6.29094 p-value =      0.00607 *N
+Site   447 dN/dS =      0.00000 Full Log(L) =    -26.69827 LRT =      3.01432 p-value =      0.04127 *N
+Site   448 dN/dS =      0.00000 Full Log(L) =    -16.64230 LRT =      6.15226 p-value =      0.00656 *N
+Site   449 dN/dS =      0.00000 Full Log(L) =    -10.50637 LRT =      5.67618 p-value =      0.00860 *N
+Site   450 dN/dS =      0.00000 Full Log(L) =    -11.94041 LRT =      3.68387 p-value =      0.02747 *N
+Site   451 dN/dS =      0.00000 Full Log(L) =    -12.15877 LRT =      5.82399 p-value =      0.00790 *N
+Site   452 dN/dS =      0.00000 Full Log(L) =     -4.92073 LRT =      5.48697 p-value =      0.00958 *N
+Site   453 dN/dS =      0.00000 Full Log(L) =     -4.96903 LRT =      5.19635 p-value =      0.01132 *N
+Site   454 dN/dS =      0.00000 Full Log(L) =     -4.71484 LRT =      6.48012 p-value =      0.00545 *N
+Site   455 dN/dS =      0.00000 Full Log(L) =    -13.53613 LRT =      2.99614 p-value =      0.04173 *N
+Site   456 dN/dS =      0.00000 Full Log(L) =    -24.31126 LRT =      5.48699 p-value =      0.00958 *N
+Site   457 dN/dS =      0.30701 Full Log(L) =    -26.78445 LRT =      2.10965 p-value =      0.07319 *N
+Site   458 dN/dS =      0.00000 Full Log(L) =     -5.28237 LRT =      4.22382 p-value =      0.01993 *N
+Site   459 dN/dS =      0.32369 Full Log(L) =    -15.08766 LRT =      1.87963 p-value =      0.08519 *N
+Site   460 dN/dS =      0.00000 Full Log(L) =     -4.06034 LRT =      8.37578 p-value =      0.00190 *N
+Site   461 dN/dS =      0.34356 Full Log(L) =     -8.58719 LRT =      1.65658 p-value =      0.09903 *N
+Site   462 dN/dS =      0.00000 Full Log(L) =     -3.98828 LRT =      5.34786 p-value =      0.01037 *N
+Site   463 dN/dS =      0.66409 Full Log(L) =    -26.44333 LRT =      0.19015 p-value =      0.33140
+Site   464 dN/dS =      0.00000 Full Log(L) =     -6.99858 LRT =      4.99933 p-value =      0.01268 *N
+Site   465 dN/dS =      0.00000 Full Log(L) =     -4.29535 LRT =      6.15160 p-value =      0.00656 *N
+Site   466 dN/dS =      0.36545 Full Log(L) =     -7.91225 LRT =      1.43385 p-value =      0.11557
+Site   467 dN/dS =      0.00000 Full Log(L) =    -12.68820 LRT =      5.48697 p-value =      0.00958 *N
+Site   468 dN/dS =      0.73938 Full Log(L) =    -18.13630 LRT =      0.19743 p-value =      0.32840
+Site   469 dN/dS =      0.36371 Full Log(L) =    -21.19705 LRT =      1.45029 p-value =      0.11424
+Site   470 dN/dS =      0.00000 Full Log(L) =     -4.77076 LRT =      3.68390 p-value =      0.02747 *N
+Site   471 dN/dS =      0.00000 Full Log(L) =     -7.59761 LRT =      3.01421 p-value =      0.04127 *N
+Site   472 dN/dS =      0.00000 Full Log(L) =    -21.58352 LRT =      6.25872 p-value =      0.00618 *N
+Site   473 dN/dS =      0.00000 Full Log(L) =     -4.29535 LRT =      6.15160 p-value =      0.00656 *N
+Site   474 dN/dS =      0.00000 Full Log(L) =     -4.40777 LRT =      5.67617 p-value =      0.00860 *N
+Site   475 dN/dS =      0.00000 Full Log(L) =     -5.66709 LRT =      6.29094 p-value =      0.00607 *N
+Site   476 dN/dS =      0.00000 Full Log(L) =    -10.43211 LRT =      6.15228 p-value =      0.00656 *N
+Site   477 dN/dS =      0.00000 Full Log(L) =     -6.57771 LRT =      6.47363 p-value =      0.00547 *N
+Site   478 dN/dS =      0.00000 Full Log(L) =     -4.06034 LRT =      8.37578 p-value =      0.00190 *N
+Site   479 dN/dS =      0.00000 Full Log(L) =    -11.20475 LRT =      7.05950 p-value =      0.00394 *N
+Site   480 dN/dS =      0.00000 Full Log(L) =     -4.40777 LRT =      5.67617 p-value =      0.00860 *N
+Site   481 dN/dS =      0.00000 Full Log(L) =    -28.92849 LRT =      7.05950 p-value =      0.00394 *N
+Site   482 dN/dS =      0.00000 Full Log(L) =     -7.12056 LRT =      5.90185 p-value =      0.00756 *N
+Site   483 dN/dS =      0.00000 Full Log(L) =    -17.47629 LRT =      5.00575 p-value =      0.01263 *N
+Site   484 dN/dS =      0.00000 Full Log(L) =     -3.98828 LRT =      5.34786 p-value =      0.01037 *N
+Site   485 dN/dS =      0.00000 Full Log(L) =     -3.81897 LRT =      6.61786 p-value =      0.00505 *N
+Site   486 dN/dS =      0.00000 Full Log(L) =     -4.97207 LRT =      4.47728 p-value =      0.01717 *N
+Site   487 dN/dS =      0.00000 Full Log(L) =     -5.39292 LRT =      5.82417 p-value =      0.00790 *N
+Site   488 dN/dS =      0.37241 Full Log(L) =    -19.62330 LRT =      1.36106 p-value =      0.12168
+Site   489 dN/dS =      0.00000 Full Log(L) =     -5.25770 LRT =      5.90439 p-value =      0.00755 *N
+Site   490 dN/dS =      0.30717 Full Log(L) =    -18.93558 LRT =      2.10739 p-value =      0.07329 *N
+Site   491 dN/dS =      0.00000 Full Log(L) =     -4.40777 LRT =      5.67617 p-value =      0.00860 *N
+Site   492 dN/dS =      0.00000 Full Log(L) =    -18.87675 LRT =      6.29094 p-value =      0.00607 *N
+Site   493 dN/dS =      0.00000 Full Log(L) =     -5.46035 LRT =      5.90443 p-value =      0.00755 *N
+Site   494 dN/dS =      0.30000 Full Log(L) =    -12.49284 LRT =      2.20832 p-value =      0.06863 *N
+Site   495 dN/dS =      0.00000 Full Log(L) =    -11.54003 LRT =      6.77102 p-value =      0.00463 *N
+Site   496 dN/dS =      0.00000 Full Log(L) =    -16.00597 LRT =      4.22565 p-value =      0.01991 *N
+Site   497 dN/dS =      0.00000 Full Log(L) =    -10.95070 LRT =      5.19635 p-value =      0.01132 *N
+Site   498 dN/dS =      0.00000 Full Log(L) =    -14.83028 LRT =      6.35841 p-value =      0.00584 *N
+Site   499 dN/dS =      0.35074 Full Log(L) =    -13.49752 LRT =      1.57025 p-value =      0.10509
+Site   500 dN/dS =      0.00000 Full Log(L) =    -11.13674 LRT =      6.77116 p-value =      0.00463 *N
+Site   501 dN/dS =      0.00000 Full Log(L) =    -12.33660 LRT =      5.48699 p-value =      0.00958 *N
+Site   502 dN/dS =      0.00000 Full Log(L) =    -11.74669 LRT =      4.47728 p-value =      0.01717 *N
+Site   503 dN/dS =      0.32264 Full Log(L) =    -40.26307 LRT =      1.89499 p-value =      0.08432 *N
+Site   504 dN/dS =      0.00000 Full Log(L) =    -17.84721 LRT =      5.81690 p-value =      0.00794 *N
+Site   505 dN/dS =      0.93901 Full Log(L) =    -27.01542 LRT =      0.01180 p-value =      0.45675
+Site   506 dN/dS =      1.03565 Full Log(L) =    -32.89142 LRT =      0.00357 p-value =      0.47617
+Site   507 dN/dS =      0.00000 Full Log(L) =     -4.97207 LRT =      4.47728 p-value =      0.01717 *N
+Site   508 dN/dS =      0.00000 Full Log(L) =    -11.04510 LRT =      6.36162 p-value =      0.00583 *N
+Site   509 dN/dS =      0.31019 Full Log(L) =    -23.41976 LRT =      2.07429 p-value =      0.07490 *N
+Site   510 dN/dS =      0.00000 Full Log(L) =     -6.38680 LRT =      6.14598 p-value =      0.00659 *N
+Site   511 dN/dS =      0.31719 Full Log(L) =    -23.75221 LRT =      1.97461 p-value =      0.07998 *N
+Site   512 dN/dS =      0.00000 Full Log(L) =    -10.61972 LRT =      2.91098 p-value =      0.04399 *N
+Site   513 dN/dS =      0.00000 Full Log(L) =    -10.79534 LRT =      5.67621 p-value =      0.00860 *N
+Site   514 dN/dS =      0.00000 Full Log(L) =    -12.53964 LRT =      5.66962 p-value =      0.00863 *N
+Site   515 dN/dS =      0.00000 Full Log(L) =    -27.64879 LRT =      5.51955 p-value =      0.00940 *N
+Site   516 dN/dS =      0.00000 Full Log(L) =    -15.65721 LRT =      5.00546 p-value =      0.01263 *N
+Site   517 dN/dS =      0.54099 Full Log(L) =    -25.48810 LRT =      0.46006 p-value =      0.24880
+Site   518 dN/dS =      0.00000 Full Log(L) =    -13.09748 LRT =      5.19618 p-value =      0.01132 *N
+Site   519 dN/dS =      0.37279 Full Log(L) =    -33.20028 LRT =      1.35535 p-value =      0.12217
+Site   520 dN/dS =      0.00000 Full Log(L) =    -15.86151 LRT =      6.79899 p-value =      0.00456 *N
+Site   521 dN/dS =      0.00000 Full Log(L) =    -10.75487 LRT =      5.77109 p-value =      0.00815 *N
+Site   522 dN/dS =      0.34838 Full Log(L) =    -28.79473 LRT =      1.61299 p-value =      0.10204
+Site   523 dN/dS =      0.00000 Full Log(L) =    -31.85702 LRT =      3.01454 p-value =      0.04126 *N
+Site   524 dN/dS =      0.37238 Full Log(L) =    -18.40726 LRT =      1.36179 p-value =      0.12161
+Site   525 dN/dS =      0.00000 Full Log(L) =    -27.13067 LRT =      4.22973 p-value =      0.01986 *N
+Site   526 dN/dS =      0.00000 Full Log(L) =    -29.86589 LRT =      7.02876 p-value =      0.00401 *N
+Site   527 dN/dS =      0.00000 Full Log(L) =     -4.97207 LRT =      4.47728 p-value =      0.01717 *N
+Site   528 dN/dS =      0.00000 Full Log(L) =     -3.98828 LRT =      5.34786 p-value =      0.01037 *N
+Site   529 dN/dS =      0.00000 Full Log(L) =    -15.67068 LRT =      6.47976 p-value =      0.00546 *N
+Site   530 dN/dS =      0.00000 Full Log(L) =     -4.54396 LRT =      3.19278 p-value =      0.03698 *N
+Site   531 dN/dS =      0.00000 Full Log(L) =    -15.11297 LRT =      5.19619 p-value =      0.01132 *N
+Site   532 dN/dS =      0.00000 Full Log(L) =     -6.47727 LRT =      3.01409 p-value =      0.04127 *N
+Site   533 dN/dS =      0.00000 Full Log(L) =     -4.54396 LRT =      3.19278 p-value =      0.03698 *N
+Site   534 dN/dS =      0.00000 Full Log(L) =     -4.96903 LRT =      5.19635 p-value =      0.01132 *N
+Site   535 dN/dS =      0.00000 Full Log(L) =    -20.85096 LRT =      4.90188 p-value =      0.01341 *N
+Site   536 dN/dS =      0.00000 Full Log(L) =     -5.13572 LRT =      5.00587 p-value =      0.01263 *N
+Site   537 dN/dS =      0.31698 Full Log(L) =    -16.24725 LRT =      1.97744 p-value =      0.07983 *N
+Site   538 dN/dS =      0.30050 Full Log(L) =    -12.52166 LRT =      2.20070 p-value =      0.06897 *N
+Site   539 dN/dS =      0.00000 Full Log(L) =     -5.28237 LRT =      4.22382 p-value =      0.01993 *N
+Site   540 dN/dS =      0.33780 Full Log(L) =    -21.84825 LRT =      1.72066 p-value =      0.09480 *N
+Site   541 dN/dS =      1.21701 Full Log(L) =    -27.05017 LRT =      0.10624 p-value =      0.37224
+Site   542 dN/dS =      0.63141 Full Log(L) =    -20.51491 LRT =      0.24442 p-value =      0.31052
+Site   543 dN/dS =      0.00000 Full Log(L) =    -11.74300 LRT =      5.11530 p-value =      0.01186 *N
+Site   544 dN/dS =      0.00000 Full Log(L) =     -5.25770 LRT =      5.90439 p-value =      0.00755 *N
+Site   545 dN/dS =      0.00000 Full Log(L) =     -5.39070 LRT =      5.77109 p-value =      0.00815 *N
+Site   546 dN/dS =      1.30160 Full Log(L) =    -31.18958 LRT =      0.24966 p-value =      0.30866
+Site   547 dN/dS =      0.00000 Full Log(L) =     -8.80562 LRT =      3.14895 p-value =      0.03799 *N
+Site   548 dN/dS =      0.00000 Full Log(L) =     -8.80562 LRT =      3.14895 p-value =      0.03799 *N
+Site   549 dN/dS =      0.00000 Full Log(L) =    -20.03472 LRT =      7.04325 p-value =      0.00398 *N
+Site   550 dN/dS =      0.00000 Full Log(L) =     -5.33838 LRT =      5.00599 p-value =      0.01263 *N
+Site   551 dN/dS =      0.00000 Full Log(L) =     -6.91540 LRT =      5.19395 p-value =      0.01133 *N
+Site   552 dN/dS = 
+Check messages.log details of this run.
+     0.47754 Full Log(L) =    -20.11828 LRT =      1.38956 p-value =      0.11924
+Site   553 dN/dS =      0.00000 Full Log(L) =     -4.54396 LRT =      3.19278 p-value =      0.03698 *N
+Site   554 dN/dS =      0.00000 Full Log(L) =    -54.51368 LRT =      6.29094 p-value =      0.00607 *N
+Site   555 dN/dS =      0.00000 Full Log(L) =     -5.46035 LRT =      5.90443 p-value =      0.00755 *N
+Site   556 dN/dS =      0.00000 Full Log(L) =     -4.77076 LRT =      3.68390 p-value =      0.02747 *N
+Site   557 dN/dS =      0.00000 Full Log(L) =    -60.85550 LRT =      5.34075 p-value =      0.01042 *N
+Site   558 dN/dS =      0.00000 Full Log(L) =    -20.61233 LRT =      7.04460 p-value =      0.00398 *N
+Site   559 dN/dS =      0.00000 Full Log(L) =     -4.60834 LRT =      5.66549 p-value =      0.00865 *N
+Site   560 dN/dS =      0.00000 Full Log(L) =     -4.96676 LRT =      5.18648 p-value =      0.01138 *N
+Site   561 dN/dS =      0.29991 Full Log(L) =    -23.77840 LRT =      2.21615 p-value =      0.06829 *N
+Site   562 dN/dS =      0.00000 Full Log(L) =     -5.45826 LRT =      5.89324 p-value =      0.00760 *N
+Site   563 dN/dS =      0.00000 Full Log(L) =     -4.60834 LRT =      5.66549 p-value =      0.00865 *N
+Site   564 dN/dS =      0.00000 Full Log(L) =     -4.96228 LRT =      5.16692 p-value =      0.01151 *N
+Site   565 dN/dS =      0.00000 Full Log(L) =     -5.45412 LRT =      5.87109 p-value =      0.00770 *N
+Site   566 dN/dS =      0.00000 Full Log(L) =     -4.96005 LRT =      5.15719 p-value =      0.01158 *N
+
+
+Wall-clock run-time (seconds): 1412795630
+Process time on the master node: 7770.403732
+MPI nodes used: 0
+
+Wall-clock time per site (seconds): 2831253.76753507
