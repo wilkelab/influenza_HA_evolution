@@ -48,9 +48,9 @@ cbbPalette <- c('A' = mycols[1], 'B' = mycols[2], 'D' = mycols[3], 'C' = mycols[
 p <- ggplot(aes(x=index, y=binary.eps, colour=id, fill=id), data=df) + geom_bar(stat='identity', width=0.6) + 
   scale_colour_manual(values=cbbPalette) + 
   scale_fill_manual(values=cbbPalette)
-p <- p + geom_tile(aes(x=index-0.01, y=rep(-0.05, length(index)), fill=id), height=0.1, width=0.92)
+p <- p + geom_tile(aes(x=index-0.01, y=rep(-0.1, length(index)), fill=id), height=0.12, width=0.92)
 p <- p + scale_x_continuous(breaks=seq(0, 550, 100), limits=c(0, 550), expand=c(0,0))
-p <- p + scale_y_continuous(breaks=seq(0, 5, 1), limits=c(-0.1, 5), expand=c(0,0))
+p <- p + scale_y_continuous(breaks=seq(0, 5, 1), limits=c(-0.16, 5), expand=c(0,0))
 p <- p + ylab('Count in B cell Epitopes')
 p <- p + xlab('Site in Mature Hemagglutinin')
 p <- p + theme_bw()
@@ -103,9 +103,9 @@ cbbPalette <- c('A' = mycols[1], 'B' = mycols[2], 'D' = mycols[3], 'C' = mycols[
 p <- ggplot(aes(x=index, y=binary.eps, colour=id, fill=id), data=df) + geom_bar(stat='identity', width=0.6) + 
   scale_colour_manual(values=cbbPalette) + 
   scale_fill_manual(values=cbbPalette)
-p <- p + geom_tile(aes(x=index-0.01, y=rep(-0.3, length(index)), fill=id), height=0.5, width=0.92)
+p <- p + geom_tile(aes(x=index-0.01, y=rep(-0.4, length(index)), fill=id), height=0.5, width=0.92)
 p <- p + scale_x_continuous(breaks=seq(0, 550, 100), limits=c(0, 550), expand=c(0,0))
-p <- p + scale_y_continuous(breaks=seq(0, 25, 5), limits=c(-0.6, 25), expand=c(0,0))
+p <- p + scale_y_continuous(breaks=seq(0, 25, 5), limits=c(-0.65, 25), expand=c(0,0))
 p <- p + ylab('Count in T cell Epitopes')
 p <- p + xlab('Site in Mature Hemagglutinin')
 p <- p + theme_bw()
