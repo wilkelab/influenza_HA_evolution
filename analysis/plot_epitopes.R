@@ -12,8 +12,8 @@ ep.E<-c(57, 59, 62, 63, 67, 75, 78, 80, 81, 82, 83, 86, 87, 88, 91, 92, 94, 109,
 ep.total<-c(ep.A, ep.B, ep.C, ep.D, ep.E)
 deem<-c(122, 124, 126, 131, 133, 137, 140, 142, 144, 145, 128, 155, 156, 157, 158, 159, 189, 192, 193, 197, 45, 50, 273, 275, 278, 312, 121, 172, 173, 201, 207, 219, 226, 227, 229, 246, 57, 62, 75, 78, 83, 92, 260, 262, 3, 5, 25, 33, 49, 106, 202, 222, 225, 271)
 
-t.linear.eps <- (read.table('epitope_data/t_linear.counts', head=T))[17:565, ]
-b.linear.eps <- (read.table('epitope_data/b_linear.counts', head=T))[17:565, ]
+t.linear.eps <- (read.table('epitope_data/t_linear.counts', head=T))[17:566, ]
+b.linear.eps <- (read.table('epitope_data/b_linear.counts', head=T))[17:566, ]
 nonlinear.eps <- read.table('epitope_data/nonlinear_eps.counts', head=T)
 map <- t(read.table('sequence_data/not_structure/combined/sequences/map.txt', sep=','))
 
@@ -26,7 +26,7 @@ id[ep.C] <- 'C'
 id[ep.D] <- 'D'
 id[ep.E] <- 'E'
 
-df <- data.frame(index = 1:549,
+df <- data.frame(index = 1:550,
                  b.eps = b.linear.eps+nonlinear.eps$ep_counts, 
                  t.eps = t.linear.eps,
                  binary.eps = binary.eps,
@@ -66,7 +66,7 @@ id[ep.D] <- 'D'
 id[ep.E] <- 'E'
 #id[deem] <- 'Deem'
 
-df <- data.frame(index = 1:549,
+df <- data.frame(index = 1:550,
                  b.eps = b.linear.eps+nonlinear.eps$ep_counts, 
                  t.eps = t.linear.eps,
                  binary.eps = binary.eps,

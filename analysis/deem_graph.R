@@ -8,9 +8,9 @@ setwd('~/Google Drive/Data/influenza_HA_evolution/')
 deem<-c(122, 124, 126, 131, 133, 137, 140, 142, 144, 145, 128, 155, 156, 157, 158, 159, 189, 192, 193, 197, 45, 50, 273, 275, 278, 312, 121, 172, 173, 201, 207, 219, 226, 227, 229, 246, 57, 62, 75, 78, 83, 92, 260, 262, 3, 5, 25, 33, 49, 106, 202, 222, 225, 271)
 
 b.edges <- read.table('epitope_data/b_edges.dat', head=T, sep=',')
-b.clusters <- rep('None', 549)
+b.clusters <- rep('None', 550)
 b.clusters[deem] <- 'Deem'
-b.vertices <- data.frame(site=1:549, ep=b.clusters)
+b.vertices <- data.frame(site=1:550, ep=b.clusters)
 b.vertices <- b.vertices[unique(c(b.edges$n1, b.edges$n2)), ]
 b.vertices <- b.vertices[order(b.vertices$site), ]
 b.network <- graph.data.frame(b.edges, vertices=b.vertices, directed=F)

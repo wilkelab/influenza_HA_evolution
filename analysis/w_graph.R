@@ -13,13 +13,13 @@ ep.E<-c(57, 59, 62, 63, 67, 75, 78, 80, 81, 82, 83, 86, 87, 88, 91, 92, 94, 109,
 ep.total<-c(ep.A, ep.B, ep.C, ep.D, ep.E)
 
 w.edges <- read.table('sequence_data/not_structure/omega/edges_combined.dat', head=T, sep=',')
-w.clusters <- rep('None', 549)
+w.clusters <- rep('None', 550)
 w.clusters[ep.A] <- 'A'
 w.clusters[ep.B] <- 'B'
 w.clusters[ep.C] <- 'C'
 w.clusters[ep.D] <- 'D'
 w.clusters[ep.E] <- 'E'
-w.vertices <- data.frame(site=1:549, ep=w.clusters)
+w.vertices <- data.frame(site=1:550, ep=w.clusters)
 w.vertices <- w.vertices[unique(c(w.edges$n1, w.edges$n2)), ]
 w.vertices <- w.vertices[order(w.vertices$site), ]
 w.network <- graph.data.frame(w.edges, vertices=w.vertices, directed=F)

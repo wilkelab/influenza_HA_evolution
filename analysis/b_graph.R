@@ -13,13 +13,13 @@ ep.E<-c(57, 59, 62, 63, 67, 75, 78, 80, 81, 82, 83, 86, 87, 88, 91, 92, 94, 109,
 ep.total<-c(ep.A, ep.B, ep.C, ep.D, ep.E)
 
 b.edges <- read.table('epitope_data/b_edges.dat', head=T, sep=',')
-b.clusters <- rep('None', 549)
+b.clusters <- rep('None', 550)
 b.clusters[ep.A] <- 'A'
 b.clusters[ep.B] <- 'B'
 b.clusters[ep.C] <- 'C'
 b.clusters[ep.D] <- 'D'
 b.clusters[ep.E] <- 'E'
-b.vertices <- data.frame(site=1:549, ep=b.clusters)
+b.vertices <- data.frame(site=1:550, ep=b.clusters)
 b.vertices <- b.vertices[unique(c(b.edges$n1, b.edges$n2)), ]
 b.vertices <- b.vertices[order(b.vertices$site), ]
 b.network <- graph.data.frame(b.edges, vertices=b.vertices, directed=F)
