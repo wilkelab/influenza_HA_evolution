@@ -27,7 +27,9 @@ get.data <- function(this.folder) {
   
   for(i in dirs[1:length(dirs)]) {
     if(substr(i, 1, 5) == 'rates' & i != 'rates_combined.dat'){
-      dat <- read.table(paste(start, i, sep=''), sep=',', header=T, stringsAsFactors=F)[17:566,]
+      dat <- read.table(paste(start, i, sep=''), sep=',', header=T, stringsAsFactors=F)
+      dat$p.value <- p.adjust(dat$p.value, method='fdr')
+      dat <- dat[17:566,]
       
       id <- rep('None', nrow(dat))
       id[ep.A] <- 'A'
@@ -37,8 +39,8 @@ get.data <- function(this.folder) {
       id[ep.E] <- 'E'
       
       dat <- cbind(dat, index=1:nrow(dat), deparse.level=0)
-      id <- id[dat$dN.dS > 1 & dat$p.value < 0.05]
-      dat <- dat[dat$dN.dS > 1 & dat$p.value < 0.05, ]
+      id <- id[dat$dN.dS > 1 & dat$p.value < 0.1]
+      dat <- dat[dat$dN.dS > 1 & dat$p.value < 0.1, ]
 
       year <- append(year, rep(as.numeric(substr(i, 7, nchar(i) - 4)) + 1990, nrow(dat)))
       rate <- append(rate, dat$dN.dS)
@@ -69,11 +71,11 @@ p <- ggplot(aes(x=years, y=counts, fill=factor(id)), data=plot.df) + geom_bar(st
   scale_colour_manual(values=cbbPalette) + 
   scale_fill_manual(values=cbbPalette)
 p <- p + scale_x_continuous(breaks=seq(1991, 2014, 2), limits=c(1990, 2014), expand=c(0,0))
-p <- p + scale_y_continuous(breaks=seq(0, 20, 4), limits=c(0, 18), expand=c(0,0))
-p <- p + ylab('Count in T cell Epitopes')
-p <- p + xlab('Site in Mature Hemagglutinin')
+p <- p + scale_y_continuous(breaks=seq(0, 16, 2), limits=c(0, 14), expand=c(0,0))
+p <- p + ylab('Count in Positively Selected Sites')
+p <- p + xlab('Year of the Start of Flu Season')
 
-p <- p + theme(legend.position = c(0.95, 0.85),
+p <- p + theme(legend.position = c(0.05, 0.85),
                legend.title=element_blank())
 
 ggsave(p, file='~/Google Drive/Data/influenza_HA_evolution/analysis/site_v_time.pdf', width=10, height=5)
