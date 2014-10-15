@@ -12,7 +12,7 @@ ep.D<-c(96, 102, 103, 117, 121, 167, 170, 171, 172, 173, 174, 175, 176, 177, 179
 ep.E<-c(57, 59, 62, 63, 67, 75, 78, 80, 81, 82, 83, 86, 87, 88, 91, 92, 94, 109, 260, 261, 262, 265)
 ep.total<-c(ep.A, ep.B, ep.C, ep.D, ep.E)
 
-b.edges <- read.table('epitope_data/b_edges.dat', head=T, sep=',')
+b.edges <- read.table('epitope_data/b_cell_nonhuman_linear.edges', head=T, sep='\t')
 b.clusters <- rep('None', 550)
 b.clusters[ep.A] <- 'A'
 b.clusters[ep.B] <- 'B'
@@ -39,7 +39,7 @@ V(b)$color[V(b)$ep == 'None'] <- cbbPalette[6]
 E(b)$weight <- seq(ecount(b))
 E(b)$curved <- 0.1
 
-pdf('analysis/b_network.pdf', height=7, width=7, useDingbats = F)
+pdf('analysis/b_nonhuman_linear_network.pdf', height=7, width=7, useDingbats = F)
 par(mar=c(0,0,0,0))
 plot(b,
      #layout=layout.circle,

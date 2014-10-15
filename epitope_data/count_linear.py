@@ -31,7 +31,7 @@ def make_edges(infile, outfile):
                 
         for site1 in range(len(sites) - 1):
             for site2 in range(site1 + 1, len(sites)):
-                edges.append(str(sites[site1]) + '\t' + str(sites[site2]) + '\n')
+                edges.append(str(sites[site1] + 1) + '\t' + str(sites[site2] + 1) + '\n')
             
     
     out_file = open(outfile, 'w')
