@@ -27,17 +27,17 @@ df <- data.frame(index = epitopes$Protein[!is.na(epitopes$Protein)],
 
 df <- df[rev(order(df$id)), ]
 
-p <- ggplot(aes(x=index, y=binary.eps, colour=id, fill=id), data=df) + geom_bar(stat='identity', width=0.1) + 
+p <- ggplot(aes(x=index, y=b.eps, colour=id, fill=id), data=df) + geom_bar(stat='identity', width=0.1) + 
   scale_colour_manual(values=cbbPalette) + 
   scale_fill_manual(values=cbbPalette)
-p <- p + geom_tile(aes(x=index-0.01, y=rep(-0.2, length(index)), fill=id), height=0.3, width=0.75)
+p <- p + geom_tile(aes(x=index-0.01, y=rep(-0.25, length(index)), fill=id), height=0.3, width=0.75)
 p <- p + scale_x_continuous(breaks=seq(0, 550, 100), limits=c(0, 550), expand=c(0,0))
-p <- p + scale_y_continuous(breaks=seq(0, 20, 1), limits=c(-0.35, 5.1), expand=c(0,0))
+p <- p + scale_y_continuous(breaks=seq(0, 20, 1), limits=c(-0.4, 5.1), expand=c(0,0))
 p <- p + ylab('Count in Human B cell Epitopes')
 p <- p + xlab('Site in Mature Hemagglutinin')
 
 p <- p + theme(legend.position = c(0.8, 0.7),
                legend.title=element_blank())
 
-ggsave(p, file='~/Google Drive/Data/influenza_HA_evolution/analysis/b_human_epitopes_nonlinear_99.pdf', width=10, height=5)
+ggsave(p, file='~/Google Drive/Data/influenza_HA_evolution/analysis/b_human_nonlinear_99.pdf', width=10, height=5)
 

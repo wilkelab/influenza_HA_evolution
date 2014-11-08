@@ -21,27 +21,30 @@ mycols <- dput(ggplot2like(n = 7, h.start = 0, l = 65)$superpose.line$col)
 cbbPalette <- c('A' = mycols[1], 'B' = mycols[2], 'C' = mycols[3], 'D' = mycols[4], 'E' = mycols[5], 'N' = mycols[6], 'M' = mycols[7], 'None' = "#000000")
 
 b <- simplify(b.network)
-V(b)$color[V(b)$ep == 'A'] <- cbbPalette[1]
-V(b)$color[V(b)$ep == 'B'] <- cbbPalette[2]
-V(b)$color[V(b)$ep == 'C'] <- cbbPalette[3]
-V(b)$color[V(b)$ep == 'D'] <- cbbPalette[4]
-V(b)$color[V(b)$ep == 'E'] <- cbbPalette[5]
-V(b)$color[V(b)$ep == 'N'] <- cbbPalette[6]
-V(b)$color[V(b)$ep == 'M'] <- cbbPalette[7]
-V(b)$color[V(b)$ep == 'None'] <- cbbPalette[8]
-E(b)$weight <- seq(ecount(b))
-E(b)$curved <- 0.1
+net <- graph.adjacency(get.adjacency(b.network),mode="undirected",weighted=TRUE,diag=FALSE)
+V(net)$color[V(b)$ep == 'A'] <- cbbPalette[1]
+V(net)$color[V(b)$ep == 'B'] <- cbbPalette[2]
+V(net)$color[V(b)$ep == 'C'] <- cbbPalette[3]
+V(net)$color[V(b)$ep == 'D'] <- cbbPalette[4]
+V(net)$color[V(b)$ep == 'E'] <- cbbPalette[5]
+V(net)$color[V(b)$ep == 'N'] <- cbbPalette[6]
+V(net)$color[V(b)$ep == 'M'] <- cbbPalette[7]
+V(net)$color[V(b)$ep == 'None'] <- cbbPalette[8]
+
+l <- layout.fruchterman.reingold(net, niter=600, area=vcount(net)^2.3, repulserad=vcount(net)^3.0)
 
 pdf('analysis/b_human_nonlinear_network_99.pdf', height=7, width=7, useDingbats = F)
 par(mar=c(0,0,0,0))
-plot(b,
-     #layout=layout.circle,
-     edge.width=0.2, 
-     vertex.size = 3,
+plot(net,
+     layout=l,
+     edge.width=0.1, 
+     vertex.size = 3.5,
      vertex.frame.color= "white",
      vertex.label.color = "white",
-     vertex.label.cex = 0.2,
+     vertex.label.cex = 0.25,
      vertex.label.family = "sans",
-     edge.color="black")
+     edge.color="black",
+     edge.width=E(net)$weight
+)
 
 dev.off()

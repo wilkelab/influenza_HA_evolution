@@ -1,0 +1,48 @@
+START OF LOG FILE
+
+ =======================================================
+ the rate for site project:                             
+ Version: 3.0.0.                                        
+ Tal Pupko and his lab:     talp@post.tau.ac.il         
+ Nir Ben-Tal and his lab:   bental@ashtoret.tau.ac.il   
+ Itay Mayrose:  itayMay@post.tau.ac.il                  
+ For program support, please contact Itay Mayrose       
+ =======================================================
+
+
+ ---------------------- THE PARAMETERS ----------------------------
+tree file is: nucleotide.tree
+seq file is: protein.fasta
+output file is: r4s.res
+rate inference method is: empirical Bayesian estimate
+using a Gamma prior distribution with: 16 discrete categories
+probablistic_model is: JTT
+branch lengths optimization is ML using a gamma model
+
+ -----------------------------------------------------------------
+Optimizing branch lengths and alpha...
+START OF LOG FILE
+
+ =======================================================
+ the rate for site project:                             
+ Version: 3.0.0.                                        
+ Tal Pupko and his lab:     talp@post.tau.ac.il         
+ Nir Ben-Tal and his lab:   bental@ashtoret.tau.ac.il   
+ Itay Mayrose:  itayMay@post.tau.ac.il                  
+ For program support, please contact Itay Mayrose       
+ =======================================================
+
+
+ ---------------------- THE PARAMETERS ----------------------------
+tree file is: nucleotide.tree
+seq file is: protein.fasta
+output file is: r4s.res
+rate inference method is: empirical Bayesian estimate
+using a Gamma prior distribution with: 16 discrete categories
+probablistic_model is: JTT
+branch lengths optimization is ML using a gamma model
+
+ -----------------------------------------------------------------
+Optimizing branch lengths and alpha...
+The tree was written to a file name called TheTree.txt
+Computing the rates...
