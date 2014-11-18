@@ -3,6 +3,7 @@ library(ggplot2)
 library(grid)
 library(cowplot)
 library(igraph)
+set.seed(3)
 
 setwd('~/Google Drive/Data/influenza_HA_evolution/')
 A <- c(34, 36, 50, 53, 54, 70, 292, 294, 386, 383, 305, 380, 398, 395, 382, 397, 365, 364, 363, 498, 307, 387, 393, 366, 394, 403, 384, 401, 405, 390, 334, 391, 404, 379)
@@ -40,10 +41,10 @@ par(mar=c(0,0,0,0))
 plot(net,
      layout=l,
      edge.width=0.1, 
-     vertex.size = 3.5,
+     vertex.size = 6,
      vertex.frame.color= "white",
      vertex.label.color = "white",
-     vertex.label.cex = 0.25,
+     vertex.label.cex = 0.45,
      vertex.label.family = "sans",
      edge.color="black",
      edge.width=E(net)$weight

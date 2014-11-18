@@ -7,7 +7,7 @@ gg_color_hue <- function(n) {
 cols = rev(gg_color_hue(3))
 
 d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
-
+d <- d[!is.na(d$pdb.4fnk), ]
 m1 <- lm(FEL.dN.dS ~ RSA.Multimer, data=d)
 d1 <- cbind(d, predicted.w=predict(m1, d))
 r.value.1 <- cor(d1$FEL.dN.dS, d1$predicted.w, use="complete.obs")
@@ -63,8 +63,8 @@ d11 <- cbind(d, predicted.w=predict(m11, d))
 r.value.11 <- cor(d11$FEL.dN.dS, d11$predicted.w, use="complete.obs")
 r.11 <- "RSA + 1 / Distance + Epitopes"
 
-rs <- c(r.value.1, r.value.2, r.value.3, r.value.4, r.value.8, r.value.7, r.value.6, r.value.5, r.value.9, r.value.11, r.value.10)^2
-r.names <- c(r.1, r.2, r.3, r.4, r.8, r.7, r.6, r.5, r.9, r.11, r.10)
+rs <- c(r.value.1, r.value.4, r.value.2, r.value.3, r.value.8, r.value.7, r.value.6, r.value.5, r.value.9, r.value.11, r.value.10)^2
+r.names <- c(r.1, r.4, r.2, r.3, r.8, r.7, r.6, r.5, r.9, r.11, r.10)
 
 df <- data.frame(r.square = rs, names = factor(r.names, levels = r.names))
 

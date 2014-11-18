@@ -3,9 +3,10 @@ library(ggplot2)
 library(grid)
 library(cowplot)
 library(igraph)
+set.seed(3)
 
 setwd('~/Google Drive/Data/influenza_HA_evolution/')
-b.edges <- read.table('sequence_data/not_structure/structure/4fnk_monomer.edges', head=T, sep=',')
+b.edges <- read.table('sequence_data/structure/4fnk_monomer.edges', head=T, sep=',')
 epitopes <- read.table('manuscript/numbering_table.csv', head=T, sep=',', stringsAsFactors = F)
 b.clusters <- epitopes$Bush.99[!is.na(epitopes$Protein)]
 b.clusters[b.clusters=='-'] <- 'None'
@@ -30,15 +31,15 @@ V(net)$color[V(b)$ep == 'None'] <- cbbPalette[6]
 
 l <- layout.fruchterman.reingold(net, niter=600, area=vcount(net)^2.3, repulserad=vcount(net)^3.0)
 
-pdf('analysis/b_human_nonlinear_distance_network.pdf', height=7, width=7, useDingbats = F)
+pdf('analysis/b_human_nonlinear_distance_network_99.pdf', height=7, width=7, useDingbats = F)
 par(mar=c(0,0,0,0))
 plot(net,
      layout=l,
      edge.width=0.1, 
-     vertex.size = 3.5,
+     vertex.size = 6,
      vertex.frame.color= "white",
      vertex.label.color = "white",
-     vertex.label.cex = 0.25,
+     vertex.label.cex = 0.45,
      vertex.label.family = "sans",
      edge.color="black",
      edge.width=E(net)$weight

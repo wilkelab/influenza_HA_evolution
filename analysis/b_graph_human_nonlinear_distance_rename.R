@@ -3,13 +3,14 @@ library(ggplot2)
 library(grid)
 library(cowplot)
 library(igraph)
+set.seed(3)
 
 setwd('~/Google Drive/Data/influenza_HA_evolution/')
 A <- c(34, 36, 50, 53, 54, 70, 292, 294, 386, 383, 305, 380, 398, 395, 382, 397, 365, 364, 363, 498, 307, 387, 393, 366, 394, 403, 384, 401, 405, 390, 334, 391, 404, 379)
 B <- c(158,159,160,155,156,157,191,192,196,190,189,194,256,223,187,188)
 C <- c(124,126,146,138,143,121,122,144,123,142,136,140,145,123,133,135,137,131)
 D <- c(241,235,238,242,212,204,176,161,162,147,169,208,206,205,209,149,171,114,151,210,153,152,150,172,115,148,211,154,243,170,175,174,173,176)
-b.edges <- read.table('sequence_data/not_structure/structure/4fnk_monomer.edges', head=T, sep=',')
+b.edges <- read.table('sequence_data/structure/4fnk_monomer.edges', head=T, sep=',')
 b.clusters <- rep('None', 550)
 b.clusters[A] <- '1'
 b.clusters[B] <- '2'
@@ -40,10 +41,10 @@ par(mar=c(0,0,0,0))
 plot(net,
      layout=l,
      edge.width=0.1, 
-     vertex.size = 3.5,
+     vertex.size = 6,
      vertex.frame.color= "white",
      vertex.label.color = "white",
-     vertex.label.cex = 0.25,
+     vertex.label.cex = 0.45,
      vertex.label.family = "sans",
      edge.color="black",
      edge.width=E(net)$weight

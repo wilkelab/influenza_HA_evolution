@@ -3,6 +3,7 @@ library(ggplot2)
 library(grid)
 library(cowplot)
 library(igraph)
+set.seed(1)
 
 setwd('~/Google Drive/Data/influenza_HA_evolution/')
 epitopes <- read.table('manuscript/numbering_table.csv', head=T, sep=',', stringsAsFactors = F)

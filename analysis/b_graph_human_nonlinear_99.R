@@ -3,6 +3,7 @@ library(ggplot2)
 library(grid)
 library(cowplot)
 library(igraph)
+set.seed(3)
 
 setwd('~/Google Drive/Data/influenza_HA_evolution/')
 epitopes <- read.table('manuscript/numbering_table.csv', head=T, sep=',', stringsAsFactors = F)
@@ -38,10 +39,10 @@ par(mar=c(0,0,0,0))
 plot(net,
      layout=l,
      edge.width=0.1, 
-     vertex.size = 3.5,
+     vertex.size = 6,
      vertex.frame.color= "white",
      vertex.label.color = "white",
-     vertex.label.cex = 0.25,
+     vertex.label.cex = 0.45,
      vertex.label.family = "sans",
      edge.color="black",
      edge.width=E(net)$weight
