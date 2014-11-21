@@ -27,9 +27,9 @@ p1 <- ggplot(df[df$id == "Epitopes Bush 1999" | df$id == "Non-epitopes Bush 1999
   scale_x_continuous(limits = c(0, 135)) +
   scale_y_continuous(limits = c(0, 0.033)) +
   scale_fill_discrete(name="") +
-  xlab('Distances (Angstroms)') +
+  xlab('Distance to site 224 (Angstroms)') +
   ylab('Probability Density') +
-  theme(legend.position = c(0.75,0.75))
+  theme(legend.position = c(0.7,0.75))
 show(p1)
 
 p2 <- ggplot(df[df$id == "Epitopes Experimental" | df$id == "Non-epitopes Experimental", ], aes(x=distances, fill=factor(id))) + 
@@ -37,9 +37,9 @@ p2 <- ggplot(df[df$id == "Epitopes Experimental" | df$id == "Non-epitopes Experi
   scale_x_continuous(limits = c(0, 135)) +
   scale_y_continuous(limits = c(0, 0.033)) +
   scale_fill_discrete(name="") +
-  xlab('Distances (Angstroms)') +
+  xlab('Distances to site 224 (Angstroms)') +
   ylab('Probability Density') +
-  theme(legend.position = c(0.75,0.75))
+  theme(legend.position = c(0.7,0.75))
 show(p2)
 
 p3 <- ggplot(df[df$id == "Epitopes Bush 1999" | df$id == "Non-epitopes Bush 1999", ], aes(x=rsa, fill=factor(id))) + 
@@ -49,7 +49,7 @@ p3 <- ggplot(df[df$id == "Epitopes Bush 1999" | df$id == "Non-epitopes Bush 1999
   scale_fill_discrete(name="") +
   xlab('Relative Solvent Accessibility') +
   ylab('Probability Density') +
-  theme(legend.position = c(0.75,0.75))
+  theme(legend.position = c(0.7,0.75))
 show(p3)
 
 p4 <- ggplot(df[df$id == "Epitopes Experimental" | df$id == "Non-epitopes Experimental", ], aes(x=rsa, fill=factor(id))) + 
@@ -59,7 +59,7 @@ p4 <- ggplot(df[df$id == "Epitopes Experimental" | df$id == "Non-epitopes Experi
   scale_fill_discrete(name="") +
   xlab('Relative Solvent Accessibility') +
   ylab('Probability Density') +
-  theme(legend.position = c(0.75,0.75))
+  theme(legend.position = c(0.7,0.75))
 show(p4)
 
 p <- plot_grid(p1, p2, p3, p4, cols=2)
