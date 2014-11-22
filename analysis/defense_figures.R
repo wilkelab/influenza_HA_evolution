@@ -9,7 +9,9 @@ cols = c('gold', 'red')
 draw_plot <- function(model, data, title)
 {
   d <- cbind(data, predicted.w=predict(model, data))
-  r.value <- cor(d$FEL.dN.dS, d$predicted.w)
+  r.value <- cor(d$FEL.dN.dS, d$predicted.w, use="complete.obs")
+  Rsq.label <- paste("R^2 == ", round(r.value^2, 2), sep='')
+  print(Rsq.label)
   plot <- ggplot() +
   geom_point(data=d, aes(x=predicted.w, y=FEL.dN.dS, size=1/distance.to.224,     color=RSA.Multimer), alpha=0.75) +  
     scale_x_continuous(limits=c(0, 2.25), breaks=c(0, 1, 2)) +
@@ -21,7 +23,7 @@ draw_plot <- function(model, data, title)
     ggtitle(title) + 
     theme(plot.title = element_text(size=15, face="plain")) +
     geom_path(data=data.frame(x=c(0,2.25), y=c(0,2.25)), mapping=aes(x=x, y=y), color='black') +
-    annotate("text", x=1.9, y=0.5, label=paste("R^2 == ", round(r.value^2, 2), sep=''), parse=T, color='black')
+    annotate("text", x=1.9, y=0.5, label=Rsq.label, parse=T, color='black')
   plot
 }
 
