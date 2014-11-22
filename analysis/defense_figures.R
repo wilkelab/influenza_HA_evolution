@@ -50,5 +50,5 @@ p3.2 <- draw_plot(m, d, "1/Distance + RSA")
 p <- plot_grid(p1.1, p1.2, p2.1, p2.2, p3.1, p3.2, cols=2,
     labels = c("A", "B", "C", "D", "E", "F"))
     
-ggsave("../analysis/combined_meyer14_h3.pdf", p, width=11, height=12)
+ggsave("../analysis/combined_h3.pdf", p, width=11, height=12)
 ggsave("../analysis/inverse_distance_h3.pdf", p3.1, width=5, height=4)
