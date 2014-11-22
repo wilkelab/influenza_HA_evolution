@@ -6,104 +6,49 @@ gg_color_hue <- function(n) {
 }
 cols = c('gold', 'red')
 
-d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
+draw_plot <- function(model, data, title)
+{
+  d <- cbind(data, predicted.w=predict(model, data))
+  r.value <- cor(d$FEL.dN.dS, d$predicted.w)
+  plot <- ggplot() +
+  geom_point(data=d, aes(x=predicted.w, y=FEL.dN.dS, size=1/distance.to.224,     color=RSA.Multimer), alpha=0.75) +  
+    scale_x_continuous(limits=c(0, 2.25), breaks=c(0, 1, 2)) +
+    scale_colour_gradientn(colours = cols, name='    RSA') +
+    scale_size(name='1 / distance\nto site 224', range = c(2, 6)) +
+    ylim(0, 3.73) +
+    xlab("Predicted dN/dS") +
+    ylab("Observed dN/dS") +
+    ggtitle(title) + 
+    theme(plot.title = element_text(size=15, face="plain")) +
+    geom_path(data=data.frame(x=c(0,2.25), y=c(0,2.25)), mapping=aes(x=x, y=y), color='black') +
+    annotate("text", x=1.9, y=0.5, label=paste("R^2 == ", round(r.value^2, 2), sep=''), parse=T, color='black')
+  plot
+}
 
-m <- lm(FEL.dN.dS ~ RSA.Multimer, data=d)
-d <- cbind(d, predicted.w=predict(m, d))
-r.value <- cor(d$FEL.dN.dS, d$predicted.w, use="complete.obs")
-p1.1 <- ggplot() +
-  geom_point(data=d, aes(x=predicted.w, y=FEL.dN.dS, size=1/distance.to.224, color=RSA.Multimer), alpha=0.75) +
-  scale_x_continuous(limits=c(0, 2.25), breaks=c(0, 1, 2)) +
-  scale_colour_gradientn(colours = cols, name='    RSA') +
-  scale_size(name='1 / distance\nto site 224', range = c(2, 6)) +
-  ylim(0, 3.73) +
-  xlab("Predicted dN/dS") +
-  ylab("Observed dN/dS") +
-  geom_path(data=data.frame(x=c(0,2.25), y=c(0,2.25)), mapping=aes(x=x, y=y), color='black') +
-  annotate("text", x=1.9, y=0.5, label=paste("r = ", round(r.value, 3), "***", sep=""), color='black')
 
-d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
+
+d <- read.table('../manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
+
+m <- lm(FEL.dN.dS ~ Bush.99, data=d)
+p1.1 <- draw_plot(m, d, "Bush '99")
+
+m <- lm(FEL.dN.dS ~ RSA.Multimer + Bush.99, data=d)
+p1.2 <- draw_plot(m, d, "Bush '99 + RSA")
+
+m <- lm(FEL.dN.dS ~ Meyer.14, data=d)
+p2.1 <- draw_plot(m, d, "Epitopes")
 
 m <- lm(FEL.dN.dS ~ RSA.Multimer + Meyer.14, data=d)
-d <- cbind(d, predicted.w=predict(m, d))
-r.value <- cor(d$FEL.dN.dS, d$predicted.w, use="complete.obs")
-p1.2 <- ggplot() +
-  geom_point(data=d, aes(x=predicted.w, y=FEL.dN.dS, size=1/distance.to.224, color=RSA.Multimer), alpha=0.75) +
-  scale_x_continuous(limits=c(0, 2.25), breaks=c(0, 1, 2)) +
-  scale_colour_gradientn(colours = cols, name='    RSA') +
-  scale_size(name='1 / distance\nto site 224', range = c(2, 6)) +
-  ylim(0, 3.73) +
-  xlab("Predicted dN/dS") +
-  ylab("Observed dN/dS") +
-  geom_path(data=data.frame(x=c(0,2.25), y=c(0,2.25)), mapping=aes(x=x, y=y), color='black') +
-  annotate("text", x=1.9, y=0.5, label=paste("r = ", round(r.value, 3), "***", sep=""), color='black')
+p2.2 <- draw_plot(m, d, "Epitopes + RSA")
 
-d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
+m <- lm(FEL.dN.dS ~ I(1 / distance.to.224), data=d)
+p3.1 <- draw_plot(m, d, "1/Distance")
 
-m <- lm(FEL.dN.dS ~ I(1/distance.to.224), data=d)
-d <- cbind(d, predicted.w=predict(m, d))
-r.value <- cor(d$FEL.dN.dS, d$predicted.w, use="complete.obs")
-p2.1 <- ggplot() +
-  geom_point(data=d, aes(x=predicted.w, y=FEL.dN.dS, size=1 / distance.to.224, color=RSA.Multimer), alpha=0.75) +
-  scale_x_continuous(limits=c(0, 2.25), breaks=c(0, 1, 2)) +
-  scale_colour_gradientn(colours = cols, name='    RSA') +
-  scale_size(name='1 / distance\nto site 224', range = c(2, 6)) +
-  ylim(0, 3.73) +
-  xlab("Predicted dN/dS") +
-  ylab("Observed dN/dS") +
-  geom_path(data=data.frame(x=c(0,2.25), y=c(0,2.25)), mapping=aes(x=x, y=y), color='black') +
-  annotate("text", x=1.9, y=0.5, label=paste("r = ", round(r.value, 3), "***", sep=""), color='black')
+m <- lm(FEL.dN.dS ~ RSA.Multimer + I(1 / distance.to.224), data=d)
+p3.2 <- draw_plot(m, d, "1/Distance + RSA")
 
-d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
-
-m <- lm(FEL.dN.dS ~ I(1 / distance.to.224) + Meyer.14, data=d)
-d <- cbind(d, predicted.w=predict(m, d))
-r.value <- cor(d$FEL.dN.dS, d$predicted.w, use="complete.obs")
-p2.2 <- ggplot() +
-  geom_point(data=d, aes(x=predicted.w, y=FEL.dN.dS, size=1 / distance.to.224, color=RSA.Multimer), alpha=0.75) +
-  scale_x_continuous(limits=c(0, 2.25), breaks=c(0, 1, 2)) +
-  scale_colour_gradientn(colours = cols, name='    RSA') +
-  scale_size(name='1 / distance\nto site 224', range = c(2, 6)) +
-  ylim(0, 3.73) +
-  xlab("Predicted dN/dS") +
-  ylab("Observed dN/dS") +
-  geom_path(data=data.frame(x=c(0,2.25), y=c(0,2.25)), mapping=aes(x=x, y=y), color='black') +
-  annotate("text", x=1.9, y=0.5, label=paste("r = ", round(r.value, 3), "***", sep=""), color='black')
-
-d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
-#d$Meyer.14[d$Meyer.14 == "N"] <- "-"
-
-m <- lm(FEL.dN.dS ~ RSA.Multimer + I(1 / distance.to.224) + Meyer.14 , data=d)
-d <- cbind(d, predicted.w=predict(m, d))
-r.value <- cor(d$FEL.dN.dS, d$predicted.w, use="complete.obs")
-p3.1 <- ggplot() +
-  geom_point(data=d, aes(x=predicted.w, y=FEL.dN.dS, size=1/distance.to.224, color=RSA.Multimer), alpha=0.75) +
-  scale_x_continuous(limits=c(0, 2.25), breaks=c(0, 1, 2)) +
-  scale_colour_gradientn(colours = cols, name='    RSA') +
-  scale_size(name='1 / distance\nto site 224', range = c(2, 6)) +
-  ylim(0, 3.73) +
-  xlab("Predicted dN/dS") +
-  ylab("Observed dN/dS") +
-  geom_path(data=data.frame(x=c(0,2.25), y=c(0,2.25)), mapping=aes(x=x, y=y), color='black') +
-  annotate("text", x=1.9, y=0.5, label=paste("r = ", round(r.value, 3), "***", sep=""), color='black')
-
-d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
-
-m <- lm(FEL.dN.dS ~ RSA.Multimer + I(1 / distance.to.224) + Meyer.14, data=d)
-d <- cbind(d, predicted.w=predict(m, d))
-r.value <- cor(d$FEL.dN.dS, d$predicted.w, use="complete.obs")
-p3.2 <- ggplot() +
-  geom_point(data=d, aes(x=predicted.w, y=FEL.dN.dS, size=1/distance.to.224, color=RSA.Multimer), alpha=0.75) +
-  scale_x_continuous(limits=c(0, 2.25), breaks=c(0, 1, 2)) +
-  scale_colour_gradientn(colours = cols, name='    RSA') +
-  scale_size(name='1 / distance\nto site 224', range = c(2, 6)) +
-  ylim(0, 3.73) +
-  xlab("Predicted dN/dS") +
-  ylab("Observed dN/dS") +
-  geom_path(data=data.frame(x=c(0,2.25), y=c(0,2.25)), mapping=aes(x=x, y=y), color='black') +
-  annotate("text", x=1.9, y=0.5, label=paste("r = ", round(r.value, 3), "***", sep=""), color='black')
-
-p <- plot_grid(p1.1, p1.2, p2.1, p2.2, p3.1, p3.2, cols=2)
-p <- p + draw_plot_label(c("A", "B", "C", "D", "E", "F"), c(0, 1/2, 0, 1/2, 0, 1/2), c(1, 1, 2/3, 2/3, 1/3, 1/3))
-ggsave("~/Google Drive/Data/influenza_HA_evolution/analysis/combined_meyer14_h3.pdf", p, width=11, height=12)
-ggsave("~/Google Drive/Data/influenza_HA_evolution/analysis/inverse_distance_h3.pdf", p2.1, width=5, height=4)
+p <- plot_grid(p1.1, p1.2, p2.1, p2.2, p3.1, p3.2, cols=2,
+    labels = c("A", "B", "C", "D", "E", "F"))
+    
+ggsave("../analysis/combined_meyer14_h3.pdf", p, width=11, height=12)
+ggsave("../analysis/inverse_distance_h3.pdf", p3.1, width=5, height=4)
