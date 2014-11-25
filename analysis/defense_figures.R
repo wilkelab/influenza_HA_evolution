@@ -30,6 +30,7 @@ draw_plot <- function(model, data, title)
 
 
 d <- read.table('../manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
+d <- d[!is.na(d$pdb.4fnk), ]
 
 m <- lm(FEL.dN.dS ~ Bush.99, data=d)
 p1.1 <- draw_plot(m, d, "Bush '99")
