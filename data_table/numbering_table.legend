@@ -1,0 +1,30 @@
+ColumnNames  - Explanation
+Aichi 2 1968 - The amino acid gene sequence from the Aichi/2/1968 strain
+pdb.4fnk     - The amino acid in the 4fnk pdb structure
+Gene         - The gene numbered from 1 to 566... it is the entire gene with no stop codon.
+Protein      - Linear renumbering of the amino acids in the mature protein.
+Wiley 81     - The epitope sites identified in the 1981 Science paper by Wiley and Skehel.
+Wiley 87     - The epitope sites identified in the 1987 Annual Reviews paper by Wiley and Skehel.
+Bush 99      - The epitope sites used in the 1999 Science paper by Robin Bush.  These are used as the historical epitope sites.
+Shih 07      - The epitope sites used in the 2007 PNAS paper by Shih and Li.
+Pan 11       - The positively selected sites identified in 2007 by Pan and Deem.
+Meyer 14     - The experimental epitope sites identified in this project.
+Pos.1        - Sites that are positively selected with a posterior probability of dN/dS > 1 of 90% or higher based on FDR corrected p-values.
+Pos.2        - Sites that are positively selected with a posterior probability of dN/dS > 1 of 80% or higher based on FDR corrected p-values.
+RSA Monomer  - The RSA of each amino acid in a 4fnk monomer structure.
+RSA Multimer - The RSA of each amino acid in a single monomer calculated in the multimeric state.
+WCN Monomer  - The weighted contact number of each amino acid in a 4fnk monomer structure.
+ddG          - The average energy change upon mutation.
+distance.to.SA - The geometric distance to a superimposed sialic acid moiety.  4fnk is not natively bound to SA.
+distance.to.224 - The geometric distance from every residue to SA.
+B human linear - The sitewise counts of the human linear B cell epitopes.
+B human nonlinear - The sitewise counts of the human nonlinear B cell epitopes.
+B nonhuman linear - The sitewise counts of the nonhuman linear B cell epitopes.
+B nonhuman nonlinear - The sitewise counts of the nonhuman nonlinear B cell epitopes.
+FEL dN.dS            - The sitewise dN/dS values for the entire hemagglutinin gene with sequences from 1991 to 2014.
+Unadjusted p.val     - The unadjusted posterior probability of positive/negative selection from the FEL calculations.
+Adjusted p.val       - The FDR corrected posterior probability of positive/negative selection from the FEL calculations..
+rate4site            - The sitewise rate4site rates for the HA1 segment of the protein.
+rate4site QQ         - The sitewise QQ interval for the rate4site calculations
+rate4site std        - The standard deviation of the rate4site calculations.
+Notes                - Personal reminders on the sites
