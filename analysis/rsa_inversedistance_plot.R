@@ -6,7 +6,7 @@ gg_color_hue <- function(n) {
 }
 cols = rev(gg_color_hue(3))
 
-d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
+d <- read.table('~/Google Drive/Data/influenza_HA_evolution/data_table/numbering_table_unix.csv', sep=',', head=T, stringsAsFactors = F)
 
 m <- lm(FEL.dN.dS ~ RSA.Multimer, data=d)
 d <- cbind(d, predicted.w=predict(m, d))
@@ -19,9 +19,9 @@ p1.1 <- ggplot(data=d, aes(x=RSA.Multimer, y=FEL.dN.dS, size=1/distance.to.224),
   ylim(0, 3.73) +
   xlab("Relative Solvent Accessibility") +
   ylab("dN/dS") +
-  annotate("text", x=0.15, y=3.5, label=paste("r = ", round(r.value, 3), "***", sep=""), color='black')
+  annotate("text", x=0.15, y=3.5, label=paste("R^2 == ", round(r.value^2, 2), sep=''), parse=T, color='black')
 
-d <- read.table('~/Google Drive/Data/influenza_HA_evolution/manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
+d <- read.table('~/Google Drive/Data/influenza_HA_evolution/data_table/numbering_table_unix.csv', sep=',', head=T, stringsAsFactors = F)
 
 m <- lm(FEL.dN.dS ~ I(1/distance.to.224), data=d)
 d <- cbind(d, predicted.w=predict(m, d))
@@ -32,9 +32,9 @@ p1.2 <- ggplot(data=d, aes(x=(1/distance.to.224), y=FEL.dN.dS, color=RSA.Multime
   scale_x_continuous(limits=c(0, 0.3), breaks=seq(0, 0.25, by=0.05)) +
   scale_colour_gradientn(colours = c('gold', 'red'), name='RSA') +
   ylim(0, 3.73) +
-  xlab("Inverse Distance to Site 224") +
+  xlab("Inverse Distance to Site 224 (1/Angstrom)") +
   ylab("dN/dS") +
-  annotate("text", x=0.04, y=3.5, label=paste("r = ", round(r.value, 3), "***", sep=""), color='black')
+  annotate("text", x=0.04, y=3.5, label=paste("R^2 == ", round(r.value^2, 2), sep=''), parse=T, color='black')
 
 p <- plot_grid(p1.1, p1.2, cols=2)
 p <- p + draw_plot_label(c("A", "B"), c(0, 1/2), c(1, 1))

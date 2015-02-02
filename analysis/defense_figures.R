@@ -29,7 +29,7 @@ draw_plot <- function(model, data, title)
 
 
 
-d <- read.table('../manuscript/numbering_table.csv', sep=',', head=T, stringsAsFactors = F)
+d <- read.table('~/Google Drive/Data/influenza_HA_evolution/data_table/numbering_table_unix.csv', sep=',', head=T, stringsAsFactors = F)
 d <- d[!is.na(d$pdb.4fnk), ]
 
 m <- lm(FEL.dN.dS ~ Bush.99, data=d)
