@@ -1,9 +1,9 @@
 /* Automates FEL with the following input. Written 10/1/2014 AGM. */
 
-BASEDIR = "/home/austin/Work/influenza_HA_evolution/sequence_data/combined/slac/";
-datafile="small_nogaps.fasta";
+BASEDIR = "/home/austin/Work/influenza_HA_evolution/sequence_data/combined/slac/alltree/";
+datafile="nucleotide_nogaps.fasta";
 output="model.log";
-treefile="small_nogaps.tree";
+treefile="nucleotide_nogaps.tree";
 sites="sites.dat";
 
 inputRedirect = {};
@@ -15,7 +15,7 @@ inputRedirect["05"]=BASEDIR+treefile;        //Tree
 inputRedirect["06"]=BASEDIR+output;          //Output
 inputRedirect["07"]="Estimate + CI";              
 inputRedirect["08"]="Single Ancestor Counting";
-inputRedirect["09"]="Tips vs Internals";
+inputRedirect["09"]="Full tree";
 inputRedirect["10"]="Averaged";
 inputRedirect["11"]="Approximate";
 inputRedirect["12"]="0.05";
