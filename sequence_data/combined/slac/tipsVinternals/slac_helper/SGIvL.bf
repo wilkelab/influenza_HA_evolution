@@ -622,14 +622,14 @@ if (outputChoice<0)
 
 if (outputChoice==0)
 {
-	dummy = PrintASCIITable  (resultMatrix, labelMatrix);
+	dummy = PrintASCIITable  (resultMatrixInternal, labelMatrix);
 }
 else
 {
 	if (outputChoice == 1)
 	{
 		SetDialogPrompt ("Save result table to:");
-		dummy = PrintTableToFile  (resultMatrix, labelMatrix, !pipeThroughFlag);
+		dummy = PrintTableToFile  (resultMatrixInternal, labelMatrix, !pipeThroughFlag);
 	}
 	else
 	{
