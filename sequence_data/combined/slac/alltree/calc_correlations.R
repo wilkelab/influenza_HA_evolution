@@ -17,7 +17,7 @@ distances <- distances[,-1]
 
 correlations <- as.vector(sapply(distances, function(x) cor(1/x[x!=0], dN.dS[x!=0])))
 p.values <- as.vector(sapply(distances, function(x) cor.test(1/x[x!=0], dN.dS[x!=0])$p.value))
-write.table(data.frame(correlations), file= 'fulltree.correlations', row.names=F, col.names=F)
+write.table(data.frame(correlations), file= 'internals.correlations', row.names=F, col.names=F)
 print(min(correlations))
 print(max(correlations))
 print(which(max(dN.dS) == dN.dS))
