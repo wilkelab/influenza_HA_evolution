@@ -1,6 +1,6 @@
 /* Automates FEL with the following input. Written 10/1/2014 AGM. */
 
-BASEDIR = "/home/austin/Work/influenza_HA_evolution/sequence_data/combined/slac/tipsVinternals/";
+BASEDIR = "/home/austin/Work/influenza_HA_evolution/sequence_data/combined/slac/tips/";
 datafile="nucleotide_nogaps.fasta";
 output="model.log";
 treefile="nucleotide_nogaps.tree";
