@@ -8,7 +8,6 @@ map <- df$pdb.4fnk
 map[25] <- NA
 map[26] <- NA
 dN.dS <- rates$dN
-#dN.dS <- rates$dN.dS
 
 distances <- distances[-1,]
 distances <- distances[-1,]
@@ -17,11 +16,7 @@ distances <- distances[,-1]
 
 correlations <- as.vector(sapply(distances, function(x) cor(1/x[x!=0], dN.dS[x!=0])))
 p.values <- as.vector(sapply(distances, function(x) cor.test(1/x[x!=0], dN.dS[x!=0])$p.value))
-write.table(data.frame(correlations), file= 'internals.correlations', row.names=F, col.names=F)
-write.table(data.frame(distances[, which(max(dN.dS) == dN.dS)]), file='best_distances.dat', row.names=F, col.names=F)
-print(min(correlations))
+write.table(data.frame(correlations), file= 'tips.correlations', row.names=F, col.names=F)
+write.table(data.frame(distances[, which(max(correlations) == correlations)]), file='best_distances.dat', row.names=F, col.names=F)
 print(max(correlations))
-print(df$Protein[which(max(dN.dS) == dN.dS)])
-
-print(which(min(correlations) == correlations))
-print(order(correlations))
+print(df$Protein[which(max(correlations) == correlations) + 26])
